@@ -6,6 +6,10 @@
   start: '2024-06-14',
   end: '2024-06-15',
   description: 'Description',
+  location: {
+    address: "",
+    googleMapsUrl: "",
+  },
 },
 
 {
@@ -13,6 +17,10 @@
   start: '2024-06-14T10:30:00+11:00',
   end: '2024-06-15T11:30:00+11:00',
   description: 'Description',
+  location: {
+    address: "",
+    googleMapsUrl: "",
+  },
 },
 
 {
@@ -21,8 +29,12 @@
   endTime: '23:00:00+11:00',
   startRecur: '2024-06-01',
   endRecur: '2024-07-15',
-  description: 'Description',
   daysOfWeek: [0, 1, 2, 3, 4, 5, 6],
+  description: 'Description',
+  location: {
+    address: "",
+    googleMapsUrl: "",
+  },
 },
 */
 
@@ -32,24 +44,40 @@ const events = [
     start: '2024-06-01',
     end: '2024-06-17',
     description: '[Website](https://2024.rising.melbourne/)',
+    location: {
+      address: "Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
   },
   {
     title: 'Lightscape',
     start: '2024-06-14',
     end: '2024-08-05',
     description: '[Website](https://www.lightscapeaustralia.com/city/melbourne.html)',
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
+    },
   },
   {
     title: 'Firelight Festival',
     start: '2024-06-28',
     end: '2024-07-01',
     description: '[Website](https://firelight.melbourne.vic.gov.au/festival/)',
+    location: {
+      address: "Harbour Esplanade, Docklands",
+      googleMapsUrl: "https://maps.app.goo.gl/PXUGSVipCtXtwEyUA",
+    },
   },
   {
     title: 'Firelight Labyrinth',
     start: '2024-06-28',
     end: '2024-07-15',
     description: '[Website](https://firelight.melbourne.vic.gov.au/labyrinth/)',
+    location: {
+      address: "Marvel Stadium, 740 Bourke St, Docklands",
+      googleMapsUrl: "https://maps.app.goo.gl/Piozzipi77WBatUx5",
+    },
   },
   {
     title: 'Winter Night Market | Queen Victoria Market',
@@ -57,7 +85,11 @@ const events = [
     endTime: '22:00:00+11:00',
     startRecur: '2024-06-05',
     endRecur: '2024-08-29',
+    daysOfWeek: [3],
     description: '[Website](https://thenightmarket.com.au/)',
-    daysOfWeek: [3]
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+    },
   },
 ]
