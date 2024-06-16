@@ -21,12 +21,32 @@
         margin: auto;
         width: 80vw;
       }
+
+      #popover {
+        position: absolute;
+        border: 1px solid #DDD;
+        border-radius: 5px;
+        padding: 24px;
+
+        h2 {
+          margin-top: 0;
+        }
+
+        p:last-child {
+          margin-bottom: 0;
+        }
+      }
+
+      #popover::backdrop {
+        background-color: rgba(0, 0, 0, 0.4);
+      }
     </style>
   </head>
   <body>
     <div id="app">
       <h1>Events in Melbourne</h1>
       <div id="calendar"></div>
+      <div id="popover" popover="auto"></div>
     </div>
   </body>
 </html>
