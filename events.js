@@ -92,4 +92,36 @@ const events = [
       googleMapsUrl: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
     },
   },
+  {
+    title: 'Replay Festival',
+    start: '2024-07-02',
+    end: '2024-08-04',
+    description: `- [Shows playing at Comedy Republic](https://www.comedyrepublic.com.au/events/?season=REPLAY24)
+- [Shows playing at Arts Centre Melbourne](https://www.artscentremelbourne.com.au/festival-and-series/replay-festival)
+    `,
+    location: {
+      address: "Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
+    title: 'The Little Food Market',
+    start: '2024-07-19',
+    end: '2024-07-22',
+    description: '[Website](https://thelittlefoodmarket.com/)',
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+      googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+    },
+  },
+  {
+    title: 'Open House Melbourne',
+    start: '2024-07-27',
+    end: '2024-07-29',
+    description: '[Website](https://openhousemelbourne.org/',
+    location: {
+      address: "Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
 ]
