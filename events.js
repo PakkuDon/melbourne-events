@@ -31,25 +31,25 @@ const events = [
     title: 'RISING: Melbourne',
     start: '2024-06-01',
     end: '2024-06-17',
-    description: 'https://2024.rising.melbourne/',
+    description: '[Website](https://2024.rising.melbourne/)',
   },
   {
     title: 'Lightscape',
     start: '2024-06-14',
     end: '2024-08-05',
-    description: 'https://www.lightscapeaustralia.com/city/melbourne.html',
+    description: '[Website](https://www.lightscapeaustralia.com/city/melbourne.html)',
   },
   {
     title: 'Firelight Festival',
     start: '2024-06-28',
     end: '2024-07-01',
-    description: 'https://firelight.melbourne.vic.gov.au/festival/',
+    description: '[Website](https://firelight.melbourne.vic.gov.au/festival/)',
   },
   {
     title: 'Firelight Labyrinth',
     start: '2024-06-28',
     end: '2024-07-15',
-    description: 'https://firelight.melbourne.vic.gov.au/labyrinth/',
+    description: '[Website](https://firelight.melbourne.vic.gov.au/labyrinth/)',
   },
   {
     title: 'Winter Night Market | Queen Victoria Market',
@@ -57,7 +57,7 @@ const events = [
     endTime: '22:00:00+11:00',
     startRecur: '2024-06-05',
     endRecur: '2024-08-29',
-    description: 'https://thenightmarket.com.au/',
+    description: '[Website](https://thenightmarket.com.au/)',
     daysOfWeek: [3]
   },
 ]
