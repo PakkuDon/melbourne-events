@@ -45,7 +45,7 @@ const events = [
     end: '2024-06-17',
     description: '[Website](https://2024.rising.melbourne/)',
     location: {
-      address: "Melbourne",
+      address: "Various locations around Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
     },
   },
@@ -57,6 +57,19 @@ const events = [
     location: {
       address: "Royal Botanic Gardens Victoria, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
+    },
+  },
+  {
+    title: 'Pharoah',
+    start: '2024-06-14',
+    end: '2024-10-07',
+    description: `Exhibition celebrating ancient Egyptian art and culture
+
+[Website](https://www.ngv.vic.gov.au/exhibition/pharaoh/)
+    `,
+    location: {
+      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
     },
   },
   {
@@ -118,9 +131,49 @@ const events = [
     title: 'Open House Melbourne',
     start: '2024-07-27',
     end: '2024-07-29',
-    description: '[Website](https://openhousemelbourne.org/',
+    description: '[Website](https://openhousemelbourne.org/)',
     location: {
-      address: "Melbourne",
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
+    title: 'Now or Never',
+    start: '2024-08-22',
+    end: '2024-09-01',
+    description: '[Website](https://nowornever.melbourne.vic.gov.au/)',
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
+    title: 'Melbourne Fringe Festival',
+    start: '2024-10-01',
+    end: '2024-10-21',
+    description: '[Website](https://melbournefringe.com.au/)',
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
+    title: 'Melbourne International Games Week (MIGW)',
+    start: '2024-10-05',
+    end: '2024-10-14',
+    description: '[Website](https://gamesweek.melbourne/)',
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
+    title: 'Melbourne International Jazz Festival',
+    start: '2024-10-18',
+    end: '2024-10-28',
+    description: '[Website](https://www.melbournejazz.com/)',
+    location: {
+      address: "Various locations around Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
     },
   },
