@@ -3,45 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <title>Melbourne Events</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.14/index.global.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked@13.0.0/lib/marked.umd.min.js"></script>
     <script src="events.js"></script>
     <script src="script.js"></script>
-    <style>
-      html {
-        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-      }
-
-      html,
-      body,
-      #calendar {
-        max-height: 100vh;
-      }
-
-      #app {
-        margin: auto;
-        width: 80vw;
-      }
-
-      #popover {
-        position: absolute;
-        border: 1px solid #DDD;
-        border-radius: 5px;
-        padding: 24px;
-
-        h2 {
-          margin-top: 0;
-        }
-
-        p:last-child {
-          margin-bottom: 0;
-        }
-      }
-
-      #popover::backdrop {
-        background-color: rgba(0, 0, 0, 0.4);
-      }
-    </style>
   </head>
   <body>
     <div id="app">

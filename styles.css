@@ -1,0 +1,33 @@
+html {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+html,
+body,
+#calendar {
+  max-height: 100vh;
+}
+
+#app {
+  margin: auto;
+  width: 80vw;
+}
+
+#popover {
+  position: absolute;
+  border: 1px solid #DDD;
+  border-radius: 5px;
+  padding: 24px;
+
+  h2 {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+#popover::backdrop {
+  background-color: rgba(0, 0, 0, 0.4);
+}
