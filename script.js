@@ -1,6 +1,4 @@
-let popoverElement
-
-const showEventDetails = (event) => {
+const showEventDetails = (popoverElement, event) => {
   popoverElement.hidePopover()
   popoverElement.innerHTML = `
     <h2>${event.title}</h2>
@@ -18,7 +16,7 @@ const showEventDetails = (event) => {
 document.addEventListener('DOMContentLoaded', function() {
   // Tablet width taken from Chrome dev tools
   const tabletWidth = 768
-  popoverElement = document.querySelector('#popover')
+  const popoverElement = document.querySelector('#popover')
   let calendarElement = document.getElementById('calendar')
   let calendar = new FullCalendar.Calendar(calendarElement, {
     headerToolbar: {
@@ -28,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // events is defined in events.js and included in index.html
     events: events,
     eventClick: function(info) {
-      showEventDetails(info.event)
+      showEventDetails(popoverElement, info.event)
     },
   })
   calendar.render()
