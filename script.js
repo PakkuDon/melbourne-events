@@ -19,6 +19,9 @@ document.addEventListener('DOMContentLoaded', function() {
   popoverElement = document.querySelector('#popover')
   let calendarElement = document.getElementById('calendar')
   let calendar = new FullCalendar.Calendar(calendarElement, {
+    headerToolbar: {
+      right: 'today dayGridMonth,timeGrid prev,next'
+    },
     initialView: 'dayGridMonth',
     // events is defined in events.js and included in index.html
     events: events,
