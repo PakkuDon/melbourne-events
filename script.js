@@ -20,7 +20,9 @@ document.addEventListener('DOMContentLoaded', function() {
   let calendarElement = document.getElementById('calendar')
   let calendar = new FullCalendar.Calendar(calendarElement, {
     headerToolbar: {
-      right: 'today dayGridMonth,timeGrid prev,next'
+      left: 'prev,next today',
+      center: 'title',
+      right: 'dayGridMonth,timeGrid',
     },
     initialView: document.body.clientWidth > tabletWidth ? 'dayGridMonth' : 'timeGrid',
     // events is defined in events.js and included in index.html
