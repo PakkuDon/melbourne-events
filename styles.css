@@ -19,6 +19,20 @@ body,
   flex-direction: column;
 }
 
+/* Override flexbox layout on FullCalendar header toolbar
+   so button groups are displayed on separate lines on smaller screens
+*/
+.fc .fc-toolbar {
+  display: block;
+}
+
+@media (min-width: 600px) {
+  /* Restore default layout for FullCalendar header toolbar */
+  .fc .fc-toolbar {
+    display: flex;
+  }
+}
+
 @media (min-width: 768px) {
   body {
     padding: 0;
