@@ -5,6 +5,7 @@ html {
 
 body {
   margin: 0;
+  padding: 0 8px;
 }
 
 body,
@@ -14,9 +15,18 @@ body,
 
 #app {
   margin: auto;
-  width: 80vw;
   display: flex;
   flex-direction: column;
+}
+
+@media (min-width: 768px) {
+  body {
+    padding: 0;
+  }
+
+  #app {
+    width: 80vw;
+  }
 }
 
 #calendar {
