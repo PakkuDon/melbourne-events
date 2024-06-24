@@ -1,7 +1,29 @@
 const showEventDetails = (popoverElement, event) => {
+  let dateRangeStr = ""
+  let timeRangeStr = ""
+
+  if (event.allDay) {
+    // Subtract offset time from end date as date ranges in events.js are padded out
+    // Offset end date by two hours to accommodate Daylight Savings
+    const END_DATE_OFFSET = 2 * 60 * 60 * 1000 // 2 hours
+    let actualEndTime = new Date(event.end)
+    actualEndTime.setTime(event.end - END_DATE_OFFSET)
+    // Remove time from ISO string
+    dateRangeStr = `${event.startStr.split("T")[0]} - ${actualEndTime.getFullYear()}-${(actualEndTime.getMonth() + 1 + "").padStart(2, "0")}-${(actualEndTime.getDate() + "").padStart(2, "0")}`
+  }
+  else {
+    // Display start + end time if available
+    dateRangeStr = event.startStr.split("T")[0]
+    timeRangeStr = `<div>${event.start.toLocaleTimeString()} - ${event.end.toLocaleTimeString()}</div>`
+  }
+
   popoverElement.hidePopover()
   popoverElement.innerHTML = `
     <h2>${event.title}</h2>
+    <div>
+      ${dateRangeStr}
+    </div>
+    ${timeRangeStr}
     <div>
       ${event.extendedProps.location.address}
       (View in <a href="${event.extendedProps.location.googleMapsUrl}" target="_blank" rel="noopener noreferrer">Google Maps</a>)
