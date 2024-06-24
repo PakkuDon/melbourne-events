@@ -40,6 +40,36 @@
 
 const events = [
   {
+    title: 'WICKED the Musical',
+    start: '2024-03-06',
+    end: '2024-08-26',
+    description: '[Website](https://wickedthemusical.com.au/tickets/melbourne/)',
+    location: {
+      address: "Regent Theatre, 191 Collins St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
+    },
+  },
+  {
+    title: 'Sunset Boulevard',
+    start: '2024-05-21',
+    end: '2024-08-04',
+    description: '[Website](https://sunsetmusical.com.au/)',
+    location: {
+      address: "The Princess Theatre, 163 Spring St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
+    },
+  },
+  {
+    title: 'Beings by Universal Everything',
+    start: '2024-05-22',
+    end: '2024-09-30',
+    description: '[Website](https://www.acmi.net.au/whats-on/beings/)',
+    location: {
+      address: "ACMI, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
+    },
+  },
+  {
     title: 'RISING: Melbourne',
     start: '2024-06-01',
     end: '2024-06-17',
@@ -115,6 +145,16 @@ const events = [
     location: {
       address: "Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
+    title: 'The Finders Keepers Design Market',
+    start: '2024-07-12',
+    end: '2024-07-15',
+    description: '[Website](https://www.thefinderskeepers.com/melbourne-markets/)',
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+      googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
     },
   },
   {
