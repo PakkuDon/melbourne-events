@@ -178,6 +178,16 @@ const events = [
     },
   },
   {
+    title: 'Melbourne International Film Festival',
+    start: '2024-08-08',
+    end: '2024-08-26',
+    description: '[Website](https://miff.com.au/)',
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
     title: 'Now or Never',
     start: '2024-08-22',
     end: '2024-09-01',
@@ -185,6 +195,16 @@ const events = [
     location: {
       address: "Various locations around Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
+    title: 'Honk! Untitled Goose Exhibition',
+    start: '2024-09-17',
+    end: '2025-02-17',
+    description: '[Website](https://www.acmi.net.au/whats-on/honk-untitled-goose-exhibition/)',
+    location: {
+      address: "ACMI, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
     },
   },
   {
