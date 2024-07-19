@@ -24,8 +24,8 @@ body,
 */
 :root {
   --fc-today-bg-color: rgb(255, 235, 190);
-  --fc-event-bg-color: rgb(55, 140, 180);
-  --fc-event-border-color: rgb(55, 140, 180);
+  --fc-event-bg-color: rgb(5, 120, 175);
+  --fc-event-border-color: rgb(5, 120, 175);
 }
 
 /* Override flexbox layout on FullCalendar header toolbar
