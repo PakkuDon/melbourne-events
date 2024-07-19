@@ -19,6 +19,15 @@ body,
   flex-direction: column;
 }
 
+/* Override for FullCalendar colours
+   Available variables can be found at https://github.com/fullcalendar/fullcalendar/blob/main/packages/core/src/styles/vars.css
+*/
+:root {
+  --fc-today-bg-color: rgb(255, 235, 190);
+  --fc-event-bg-color: rgb(55, 140, 180);
+  --fc-event-border-color: rgb(55, 140, 180);
+}
+
 /* Override flexbox layout on FullCalendar header toolbar
    so button groups are displayed on separate lines on smaller screens
 */
