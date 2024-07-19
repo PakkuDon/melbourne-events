@@ -1,3 +1,5 @@
+import events from "./events.js"
+
 const showEventDetails = (popoverElement, event) => {
   let dateRangeStr = ""
   let timeRangeStr = ""
