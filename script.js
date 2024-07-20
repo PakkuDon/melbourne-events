@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
       center: 'title',
       right: 'dayGridMonth,timeGridWeek,timeGrid',
     },
-    initialView: document.body.clientWidth > tabletWidth ? 'dayGridMonth' : 'timeGridWeek',
+    initialView: document.body.clientWidth > tabletWidth ? 'timeGridWeek' : 'timeGrid',
     // events is defined in events.js and included in index.html
     events: events,
     eventClick: function(info) {
