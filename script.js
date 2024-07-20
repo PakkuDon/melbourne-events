@@ -46,9 +46,9 @@ document.addEventListener('DOMContentLoaded', function() {
     headerToolbar: {
       left: 'prev,next today',
       center: 'title',
-      right: 'dayGridMonth,timeGrid',
+      right: 'dayGridMonth,timeGridWeek,timeGrid',
     },
-    initialView: document.body.clientWidth > tabletWidth ? 'dayGridMonth' : 'timeGrid',
+    initialView: document.body.clientWidth > tabletWidth ? 'dayGridMonth' : 'timeGridWeek',
     // events is defined in events.js and included in index.html
     events: events,
     eventClick: function(info) {
