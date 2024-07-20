@@ -61,8 +61,10 @@ const events = [
   },
   {
     title: 'Beings by Universal Everything',
-    start: '2024-05-22',
-    end: '2024-09-30',
+    startRecur: '2024-05-22',
+    endRecur: '2024-09-30',
+    startTime: '10:00:00+11:00',
+    endTime: '17:00:00+11:00',
     description: '[Website](https://www.acmi.net.au/whats-on/beings/)',
     location: {
       address: "ACMI, Melbourne",
@@ -81,8 +83,11 @@ const events = [
   },
   {
     title: 'Lightscape',
-    start: '2024-06-14',
-    end: '2024-08-05',
+    startRecur: '2024-06-14',
+    endRecur: '2024-08-05',
+    startTime: '17:00:00+11:00',
+    endTime: '22:00:00+11:00',
+    daysOfWeek: [0, 3, 4, 5, 6],
     description: '[Website](https://www.lightscapeaustralia.com/city/melbourne.html)',
     location: {
       address: "Royal Botanic Gardens Victoria, Melbourne",
@@ -104,8 +109,10 @@ const events = [
   },
   {
     title: 'Firelight Festival',
-    start: '2024-06-28',
-    end: '2024-07-01',
+    startRecur: '2024-06-28',
+    endRecur: '2024-07-01',
+    startTime: '17:00:00+11:00',
+    endTime: '22:00:00+11:00',
     description: '[Website](https://firelight.melbourne.vic.gov.au/festival/)',
     location: {
       address: "Harbour Esplanade, Docklands",
@@ -199,8 +206,10 @@ const events = [
   },
   {
     title: 'Honk! Untitled Goose Exhibition',
-    start: '2024-09-17',
-    end: '2025-02-17',
+    startRecur: '2024-09-17',
+    endRecur: '2025-02-17',
+    startTime: '10:00:00+11:00',
+    endTime: '17:00:00+11:00',
     description: '[Website](https://www.acmi.net.au/whats-on/honk-untitled-goose-exhibition/)',
     location: {
       address: "ACMI, Melbourne",
