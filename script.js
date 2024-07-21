@@ -37,7 +37,7 @@ const showEventDetails = (popoverElement, event) => {
   popoverElement.showPopover()
 }
 
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', () => {
   // Tablet width taken from Chrome dev tools
   const tabletWidth = 768
   const popoverElement = document.querySelector('#popover')
@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', function() {
     initialView: document.body.clientWidth > tabletWidth ? 'timeGridWeek' : 'timeGrid',
     // events is defined in events.js and included in index.html
     events: events,
-    eventClick: function(info) {
+    eventClick: (info) => {
       showEventDetails(popoverElement, info.event)
     },
   })
