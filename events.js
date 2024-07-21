@@ -40,6 +40,18 @@
 
 const events = [
   {
+    title: 'Joy',
+    startRecur: '2024-03-01',
+    endRecur: '2024-08-30',
+    startTime: '10:00:00+11:00',
+    endTime: '17:00:00+11:00',
+    description: '[Website](https://museumsvictoria.com.au/immigrationmuseum/whats-on/joy/)',
+    location: {
+      address: "Immigration Museum (Museums Victoria), 400 Flinders St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/ahS9e1yDSvFZcueq7",
+    },
+  },
+  {
     title: 'WICKED the Musical',
     start: '2024-03-06',
     end: '2024-08-26',
@@ -127,6 +139,18 @@ const events = [
     location: {
       address: "Marvel Stadium, 740 Bourke St, Docklands",
       googleMapsUrl: "https://maps.app.goo.gl/Piozzipi77WBatUx5",
+    },
+  },
+  {
+    title: 'Victoria the T. rex',
+    startTime: '09:00:00+11:00',
+    endTime: '17:00:00+11:00',
+    startRecur: '2024-06-28',
+    endRecur: '2024-10-21',
+    description: '[Website](https://museumsvictoria.com.au/melbournemuseum/whats-on/victoria-the-t-rex/)',
+    location: {
+      address: "Melbourne Museum, 11 Nicholson St, Carlton",
+      googleMapsUrl: "https://maps.app.goo.gl/swBLScA46YegEVtH8",
     },
   },
   {
@@ -244,6 +268,18 @@ const events = [
     location: {
       address: "Various locations around Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
+    title: 'Yayoi Kusama',
+    startRecur: '2024-12-15',
+    endRecur: '2025-04-22',
+    startTime: '10:00:00+10:00',
+    endTime: '17:00:00+10:00',
+    description: '[Website](https://www.ngv.vic.gov.au/exhibition/yayoi-kusama/)',
+    location: {
+      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
     },
   },
 ]
