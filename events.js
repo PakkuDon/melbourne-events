@@ -47,7 +47,7 @@ const events = [
     endTime: '17:00:00+11:00',
     description: '[Website](https://museumsvictoria.com.au/immigrationmuseum/whats-on/joy/)',
     location: {
-      address: "Immigration Museum (Museums Victoria), 400 Flinders St, Melbourne",
+      address: "Immigration Museum, 400 Flinders St, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/ahS9e1yDSvFZcueq7",
     },
   },
