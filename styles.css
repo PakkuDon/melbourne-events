@@ -50,6 +50,11 @@ body,
   #app {
     width: 80vw;
   }
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+  }
 }
 
 #calendar {
@@ -74,4 +79,13 @@ body,
 
 #popover::backdrop {
   background-color: rgba(0, 0, 0, 0.4);
+}
+
+footer ul {
+  padding-left: 0;
+}
+
+footer li {
+  display: inline-block;
+  list-style-type: none;
 }
