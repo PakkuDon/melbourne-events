@@ -64,7 +64,7 @@ const events = [
   {
     title: 'Sunset Boulevard',
     start: '2024-05-21',
-    end: '2024-08-04',
+    end: '2024-08-11',
     description: '[Website](https://sunsetmusical.com.au/)',
     location: {
       address: "The Princess Theatre, 163 Spring St, Melbourne",
