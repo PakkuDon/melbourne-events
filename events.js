@@ -241,6 +241,16 @@ const events = [
     },
   },
   {
+    title: 'Tina: The Tina Turner Musical',
+    start: '2024-09-21',
+    end: '2024-12-16',
+    description: '[Website](https://tinathemusical.com.au/)',
+    location: {
+      address: "The Princess Theatre, 163 Spring St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
+    },
+  },
+  {
     title: 'Melbourne Fringe Festival',
     start: '2024-10-01',
     end: '2024-10-21',
@@ -268,6 +278,16 @@ const events = [
     location: {
       address: "Various locations around Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
+    title: 'Victorian Festival of Diwali',
+    start: '2024-10-26T12:30:00+11:00',
+    end: '2024-10-26T22:00:00+11:00',
+    description: `[What's On Melbourne listing](https://whatson.melbourne.vic.gov.au/things-to-do/victorian-festival-of-diwali)`,
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
     },
   },
   {
