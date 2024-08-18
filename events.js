@@ -120,6 +120,16 @@ const events = [
     },
   },
   {
+    title: `Disney's Beauty and the Beast the Musical`,
+    start: '2024-06-29',
+    end: '2024-12-30',
+    description: '[Website](https://beautyandthebeastmusical.com.au/)',
+    location: {
+      address: "Her Majesty's Theatre, 219 Exhibition St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/nh9yT4LmafjFLAt86",
+    },
+  },
+  {
     title: 'Firelight Festival',
     startRecur: '2024-06-28',
     endRecur: '2024-07-01',
@@ -209,6 +219,16 @@ const events = [
     },
   },
   {
+    title: 'SIX the Musical',
+    start: '2024-08-02',
+    end: '2024-10-21',
+    description: '[Website](https://sixthemusical.com.au/)',
+    location: {
+      address: "Comedy Theatre, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+    },
+  },
+  {
     title: 'Melbourne International Film Festival',
     start: '2024-08-08',
     end: '2024-08-26',
@@ -229,6 +249,26 @@ const events = [
     },
   },
   {
+    title: 'Affordable Art Fair Melbourne',
+    start: '2024-08-29',
+    end: '2024-09-02',
+    description: '[Website](https://affordableartfair.com/fairs/melbourne/)',
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+      googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+    },
+  },
+  {
+    title: 'Cherryhill Orchards Blossom Festival',
+    start: '2024-09-14',
+    end: '2024-10-07',
+    description: '[Website](https://cherryhill.com.au/events/blossom-festival/)',
+    location: {
+      address: "CherryHill Orchards, Coldstream",
+      googleMapsUrl: "https://maps.app.goo.gl/p5ty9KjNDiQbSqRj7",
+    },
+  },
+  {
     title: 'Honk! Untitled Goose Exhibition',
     startRecur: '2024-09-17',
     endRecur: '2025-02-17',
@@ -238,6 +278,16 @@ const events = [
     location: {
       address: "ACMI, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
+    },
+  },
+  {
+    title: 'Cherryhill Orchards Blossom By Light',
+    start: '2024-09-20',
+    end: '2024-09-30',
+    description: '[Website](https://cherryhill.com.au/events/blossom-festival/)',
+    location: {
+      address: "CherryHill Orchards, Wandin East",
+      googleMapsUrl: "https://maps.app.goo.gl/uP2zxbn8rqjL2Uow7",
     },
   },
   {
