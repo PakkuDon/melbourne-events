@@ -53,7 +53,7 @@ const events = [
   },
   {
     title: 'WICKED the Musical',
-    start: '2024-03-06',
+    start: '2024-03-02',
     end: '2024-08-26',
     description: '[Website](https://wickedthemusical.com.au/tickets/melbourne/)',
     location: {
