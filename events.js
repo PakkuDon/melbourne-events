@@ -352,6 +352,16 @@ const events = [
       googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
     },
   },
+  {
+    title: 'Melbourne International Comedy Festival',
+    start: '2025-03-26',
+    end: '2025-04-21',
+    description: '[Website](https://www.comedyfestival.com.au/)',
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
 ]
 
 export default events
