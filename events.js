@@ -321,6 +321,16 @@ const events = [
     },
   },
   {
+    title: 'The Finders Keepers Design Market',
+    start: '2024-10-11',
+    end: '2024-10-14',
+    description: '[Website](https://www.thefinderskeepers.com/melbourne-markets/)',
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+      googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+    },
+  },
+  {
     title: 'Melbourne International Jazz Festival',
     start: '2024-10-18',
     end: '2024-10-28',
@@ -331,6 +341,16 @@ const events = [
     },
   },
   {
+    title: 'The Big Vegan Market',
+    start: '2024-10-19',
+    end: '2024-10-21',
+    description: '[Website](https://bigveganmarket.com.au/)',
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+      googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+    },
+  },
+  {
     title: 'Victorian Festival of Diwali',
     start: '2024-10-26T12:30:00+11:00',
     end: '2024-10-26T22:00:00+11:00',
@@ -338,6 +358,16 @@ const events = [
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
       googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
+    title: 'The Big Design Market',
+    start: '2024-11-29',
+    end: '2024-12-02',
+    description: '[Website](https://melbourne.thebigdesignmarket.com/)',
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+      googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
     },
   },
   {
