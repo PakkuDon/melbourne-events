@@ -21,6 +21,7 @@ const showEventDetails = (popoverElement, event) => {
 
   popoverElement.hidePopover()
   popoverElement.innerHTML = `
+    <button aria-label="close" style="float: right;">x</button>
     <h2>${event.title}</h2>
     <div>
       ${dateRangeStr}
@@ -34,6 +35,9 @@ const showEventDetails = (popoverElement, event) => {
       ${marked.parse(event.extendedProps.description)}
     </p>
   `
+  popoverElement.querySelector("button")
+    .addEventListener("click", () => popoverElement.hidePopover())
+
   popoverElement.showPopover()
 }
 
