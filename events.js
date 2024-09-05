@@ -259,6 +259,18 @@ const events = [
     },
   },
   {
+    title: 'South East Asia Festival | Queen Victoria Market',
+    startRecur: '2024-09-07',
+    endRecur: '2024-09-09',
+    startTime: '09:00:00+10:00',
+    endTime: '16:00:00+10:00',
+    description: '[Website](https://qvm.com.au/whats-on/south-east-asia-festival/)',
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+    },
+  },
+  {
     title: 'Cherryhill Orchards Blossom Festival',
     start: '2024-09-14',
     end: '2024-10-07',
@@ -281,6 +293,19 @@ const events = [
     },
   },
   {
+    title: 'Fringe Flavours Night Market | Queen Victoria Market',
+    startTime: '17:00:00+11:00',
+    endTime: '22:00:00+11:00',
+    startRecur: '2024-09-18',
+    endRecur: '2024-10-17',
+    daysOfWeek: [3],
+    description: '[Website](https://thenightmarket.com.au/)',
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+    },
+  },
+  {
     title: 'Cherryhill Orchards Blossom By Light',
     start: '2024-09-20',
     end: '2024-09-30',
@@ -288,6 +313,18 @@ const events = [
     location: {
       address: "CherryHill Orchards, Wandin East",
       googleMapsUrl: "https://maps.app.goo.gl/uP2zxbn8rqjL2Uow7",
+    },
+  },
+  {
+    title: 'Mid-Autumn Moon Festival | Queen Victoria Market',
+    startRecur: '2024-09-21',
+    endRecur: '2024-09-23',
+    startTime: '09:00:00+10:00',
+    endTime: '16:00:00+10:00',
+    description: '[Website](https://qvm.com.au/whats-on/mid-autumn-moon-festival/)',
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
     },
   },
   {
