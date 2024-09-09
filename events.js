@@ -338,6 +338,16 @@ const events = [
     },
   },
   {
+    title: 'Melbourne Royal Show',
+    start: '2024-09-26',
+    end: '2024-10-07',
+    description: '[Website](https://royalshow.com.au/)',
+    location: {
+      address: "Melbourne Showgrounds, Ascot Vale",
+      googleMapsUrl: "https://maps.app.goo.gl/apnjgN8oXs1KwwDd8",
+    },
+  },
+  {
     title: 'Melbourne Fringe Festival',
     start: '2024-10-01',
     end: '2024-10-21',
@@ -395,6 +405,16 @@ const events = [
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
       googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
+    title: 'Sister Act the Musical',
+    start: '2024-11-03',
+    end: '2025-01-20',
+    description: '[Website](https://sisteractthemusical.com.au/)',
+    location: {
+      address: "Regent Theatre, 191 Collins St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
     },
   },
   {
