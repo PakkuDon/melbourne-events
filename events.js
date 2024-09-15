@@ -293,6 +293,19 @@ const events = [
     },
   },
   {
+    title: 'Accidentally Wes Anderson: The Exhibition',
+    startRecur: '2024-09-18',
+    endRecur: '2024-11-04',
+    startTime: '10:00:00+11:00',
+    endTime: '17:30:00+11:00',
+    daysOfWeek: [0, 3, 4, 5, 6],
+    description: '[Website](https://awaexhibition.com/melbourne/)',
+    location: {
+      address: "Level 1, 360 Bourke St, Melbourne 3000",
+      googleMapsUrl: "https://maps.app.goo.gl/zJ32Vm8iZKsYEofN9",
+    },
+  },
+  {
     title: 'Fringe Flavours Night Market | Queen Victoria Market',
     startTime: '17:00:00+11:00',
     endTime: '22:00:00+11:00',
