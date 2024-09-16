@@ -271,9 +271,9 @@ const events = [
     },
   },
   {
-    title: 'Cherryhill Orchards Blossom Festival',
-    start: '2024-09-14',
-    end: '2024-10-07',
+    title: 'CherryHill Orchards Blossom Festival',
+    start: '2024-09-09',
+    end: '2024-09-30',
     description: '[Website](https://cherryhill.com.au/events/blossom-festival/)',
     location: {
       address: "CherryHill Orchards, Coldstream",
@@ -319,9 +319,9 @@ const events = [
     },
   },
   {
-    title: 'Cherryhill Orchards Blossom By Light',
+    title: 'CherryHill Orchards Blossom By Light',
     start: '2024-09-20',
-    end: '2024-09-30',
+    end: '2024-09-23',
     description: '[Website](https://cherryhill.com.au/events/blossom-festival/)',
     location: {
       address: "CherryHill Orchards, Wandin East",
