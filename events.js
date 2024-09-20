@@ -343,7 +343,7 @@ const events = [
   {
     title: 'Tina: The Tina Turner Musical',
     start: '2024-09-21',
-    end: '2024-12-16',
+    end: '2024-12-30',
     description: '[Website](https://tinathemusical.com.au/)',
     location: {
       address: "The Princess Theatre, 163 Spring St, Melbourne",
