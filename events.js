@@ -431,6 +431,16 @@ const events = [
     },
   },
   {
+    title: 'State Rose & Garden Show',
+    start: '2024-11-09',
+    end: '2024-11-11',
+    description: '[Website](https://www.wyndham.vic.gov.au/events-experiences/wyndham-citys-major-events/state-rose-garden-show)',
+    location: {
+      address: "Victoria State Rose Garden, Werribee South",
+      googleMapsUrl: "https://maps.app.goo.gl/uqx4KanuLxzBkERr8",
+    },
+  },
+  {
     title: 'The Big Design Market',
     start: '2024-11-29',
     end: '2024-12-02',
@@ -460,6 +470,16 @@ const events = [
     location: {
       address: "Various locations around Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
+    title: 'Melbourne International Flower & Garden Show',
+    start: '2025-03-26',
+    end: '2025-03-31',
+    description: '[Website](https://melbflowershow.com.au/)',
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+      googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
     },
   },
 ]
