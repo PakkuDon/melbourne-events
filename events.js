@@ -431,6 +431,16 @@ const events = [
     },
   },
   {
+    title: 'Peter and the Starcatcher',
+    start: '2024-11-08',
+    end: '2024-12-01',
+    description: '[Website](https://peterandthestarcatcher.com.au/)',
+    location: {
+      address: "Playhouse Theatre, 100 St Kilda Rd, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
+    },
+  },
+  {
     title: 'State Rose & Garden Show',
     start: '2024-11-09',
     end: '2024-11-11',
@@ -438,6 +448,16 @@ const events = [
     location: {
       address: "Victoria State Rose Garden, Werribee South",
       googleMapsUrl: "https://maps.app.goo.gl/uqx4KanuLxzBkERr8",
+    },
+  },
+  {
+    title: 'A Christmas Carol',
+    start: '2024-11-22',
+    end: '2024-12-30',
+    description: '[Website](https://christmascarolaustralia.com.au/)',
+    location: {
+      address: "Comedy Theatre, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
     },
   },
   {
@@ -451,6 +471,16 @@ const events = [
     },
   },
   {
+    title: 'Dear Evan Hansen Musical',
+    start: '2024-12-14',
+    end: '2025-02-03',
+    description: '[Website](https://www.dearevanhansenmusical.com.au/)',
+    location: {
+      address: "Playhouse Theatre, 100 St Kilda Rd, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
+    },
+  },
+  {
     title: 'Yayoi Kusama',
     startRecur: '2024-12-15',
     endRecur: '2025-04-22',
@@ -460,6 +490,16 @@ const events = [
     location: {
       address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
+    },
+  },
+  {
+    title: 'Jesus Christ Superstar',
+    start: '2025-03-16',
+    end: '2025-05-12',
+    description: '[Website](https://jesuschristsuperstarmusical.com.au/)',
+    location: {
+      address: "The Princess Theatre, 163 Spring St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
     },
   },
   {
