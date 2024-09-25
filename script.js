@@ -24,6 +24,9 @@ const showEventDetails = (popoverElement, event) => {
     <button aria-label="close" style="float: right;">x</button>
     <h2>${event.title}</h2>
     <div>
+      ${event.extendedProps.tags.map(tag => `<span style="text-decoration: underline">${tag}</span>`).join(", ")}
+    </div>
+    <div>
       ${dateRangeStr}
     </div>
     ${timeRangeStr}
