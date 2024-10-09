@@ -412,6 +412,17 @@ const events = [
     },
   },
   {
+    title: 'Big Games Night Out',
+    start: '2024-10-10 15:00',
+    end: '2024-10-10 23:55',
+    description: '[Website](https://gamesweek.melbourne/BGNO)',
+    tags: ["Gaming", "Free"],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
     title: 'The Finders Keepers Design Market',
     start: '2024-10-11',
     end: '2024-10-14',
@@ -420,6 +431,28 @@ const events = [
     location: {
       address: "Royal Exhibition Building, Carlton",
       googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+    },
+  },
+  {
+    title: 'PAX Aus',
+    start: '2024-10-11',
+    end: '2024-10-14',
+    description: '[Website](https://aus.paxsite.com/en-us.html)',
+    tags: ["Convention", "Gaming"],
+    location: {
+      address: "Melbourne Convention and Exhibition Centre (MCEC), South Wharf",
+      googleMapsUrl: "https://maps.app.goo.gl/GnGf5rSD8pAWTA4d7",
+    },
+  },
+  {
+    title: '100 Years Film Festival',
+    start: '2024-10-13',
+    end: '2024-11-06',
+    description: '[Website](https://www.rmit.edu.au/thecapitol/100years)',
+    tags: ["Festival"],
+    location: {
+      address: "The Capitol, 113 Swanston St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/NUUWnKPS3RvUXXfb8",
     },
   },
   {
@@ -442,6 +475,17 @@ const events = [
     location: {
       address: "Royal Exhibition Building, Carlton",
       googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+    },
+  },
+  {
+    title: 'Melbourne Fashion Week',
+    start: '2024-10-21',
+    end: '2024-10-28',
+    description: '[Website](https://mfw.melbourne.vic.gov.au/)',
+    tags: ["Festival"],
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
     },
   },
   {
