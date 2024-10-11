@@ -129,7 +129,7 @@ const events = [
   {
     title: `Disney's Beauty and the Beast the Musical`,
     start: '2024-06-29',
-    end: '2024-12-30',
+    end: '2025-02-17',
     description: '[Website](https://beautyandthebeastmusical.com.au/)',
     tags: ["Musical", "Theatre"],
     location: {
