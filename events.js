@@ -445,6 +445,17 @@ const events = [
     },
   },
   {
+    title: 'REKOSPECTIVE: The Art of Reko Rennie',
+    start: '2024-10-11',
+    end: '2025-01-28',
+    description: '[Website](https://www.ngv.vic.gov.au/exhibition/rekospective-the-art-of-reko-rennie/)',
+    tags: ["Exhibition", "Art"],
+    location: {
+      address: "The Ian Potter Centre: NGV Australia, Fed Square",
+      googleMapsUrl: "https://maps.app.goo.gl/tfHEWQphQBBaVqR99",
+    },
+  },
+  {
     title: '100 Years Film Festival',
     start: '2024-10-13',
     end: '2024-11-06',
