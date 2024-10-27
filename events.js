@@ -500,6 +500,17 @@ const events = [
     },
   },
   {
+    title: 'Asia Oasis Street Food Festival',
+    start: '2024-10-24',
+    end: '2024-10-28',
+    description: '[Website](https://asiaoasis.com.au/)',
+    tags: ["Festival", "Food", "Free"],
+    location: {
+      address: "Alexandra Gardens, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/CafM2SaHPRGiHL6y7",
+    },
+  },
+  {
     title: 'Victorian Festival of Diwali',
     start: '2024-10-26T12:30:00+11:00',
     end: '2024-10-26T22:00:00+11:00',
@@ -587,6 +598,17 @@ const events = [
     location: {
       address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
+    },
+  },
+  {
+    title: 'Antipodes Festival',
+    start: '2025-02-22',
+    end: '2025-02-24',
+    description: '[Website](https://www.antipodesfestival.com.au/)',
+    tags: ["Festival", "Free"],
+    location: {
+      address: "Lonsdale Street precinct, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/E5Qy5T75z8AQ5utM8",
     },
   },
   {
