@@ -524,7 +524,7 @@ const events = [
   {
     title: 'Sister Act the Musical',
     start: '2024-11-03',
-    end: '2025-01-20',
+    end: '2025-01-27',
     description: '[Website](https://sisteractthemusical.com.au/)',
     tags: ["Musical", "Theatre"],
     location: {
