@@ -555,6 +555,39 @@ const events = [
     },
   },
   {
+    title: 'Polish Festival',
+    start: '2024-11-10T10:00:00+11:00',
+    end: '2024-11-10T18:00:00+11:00',
+    description: `[What's On Melbourne listing](https://whatson.melbourne.vic.gov.au/things-to-do/polish-festival-2024)`,
+    tags: ["Festival", "Free"],
+    location: {
+      address: "Fed Square, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
+    title: 'African Music and Cultural Festival',
+    start: '2024-11-15',
+    end: '2024-11-18',
+    description: `[What's On Melbourne listing](https://whatson.melbourne.vic.gov.au/things-to-do/african-music-and-cultural-festival)`,
+    tags: ["Festival", "Free"],
+    location: {
+      address: "Fed Square, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
+    title: 'Always Live',
+    start: '2024-11-22',
+    end: '2024-12-09',
+    description: '[Website](https://www.alwayslive.com.au/)',
+    tags: ["Festival"],
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
     title: 'A Christmas Carol',
     start: '2024-11-22',
     end: '2024-12-30',
