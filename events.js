@@ -577,6 +577,20 @@ const events = [
     },
   },
   {
+    title: 'Summer Night Market | Queen Victoria Market',
+    startTime: '17:00:00+11:00',
+    endTime: '22:00:00+11:00',
+    startRecur: '2024-11-20',
+    endRecur: '2025-03-13',
+    daysOfWeek: [3],
+    description: '[Website](https://thenightmarket.com.au/)',
+    tags: ["Market"],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+    },
+  },
+  {
     title: 'Always Live',
     start: '2024-11-22',
     end: '2024-12-09',
@@ -645,6 +659,17 @@ const events = [
     },
   },
   {
+    title: 'Top Arts 2025',
+    start: '2025-03-14',
+    end: '2025-07-21',
+    description: `[Website](https://www.ngv.vic.gov.au/exhibition/top-arts-2025/)`,
+    tags: ["Exhibition", "Free"],
+    location: {
+      address: "The Ian Potter Centre: NGV Australia, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/V1kcEp4pUCf2iKi46",
+    },
+  },
+  {
     title: 'Jesus Christ Superstar',
     start: '2025-03-16',
     end: '2025-05-12',
@@ -675,6 +700,31 @@ const events = [
     location: {
       address: "Royal Exhibition Building, Carlton",
       googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+    },
+  },
+  {
+    title: 'Kimono',
+    start: '2025-06-04',
+    end: '2025-10-06',
+    description: `[Website](https://www.ngv.vic.gov.au/exhibition/kimono/)`,
+    tags: ["Exhibition"],
+    location: {
+      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
+    },
+  },
+  {
+    title: 'French Impressionism',
+    start: '2025-06-06',
+    end: '2025-10-06',
+    description: `From the Museum of Fine Arts, Boston. Part of Melbourne Winter Masterpieces
+
+[Website](https://www.ngv.vic.gov.au/exhibition/french-impressionism/)
+    `,
+    tags: ["Exhibition"],
+    location: {
+      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
     },
   },
 ]
