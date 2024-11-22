@@ -648,6 +648,72 @@ const events = [
     },
   },
   {
+    title: 'Christmas Outdoor Cinema',
+    start: '2024-12-16',
+    end: '2024-12-24',
+    description: 'See [program](https://fedsquare.com/events/christmas-outdoor-cinema) for movies and times',
+    tags: ["Free", "Film", "Outdoor"],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
+    title: 'As Camp as Christmas',
+    start: '2024-12-20T18:00:00+11:00',
+    end: '2024-12-20T22:00:00+11:00',
+    description: `[Website](https://fedsquare.com/events/as-camp-as-christmas/)`,
+    tags: ["Free", "Performance"],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
+    title: 'BMW Opera for All',
+    start: '2025-02-01T17:00:00+11:00',
+    end: '2025-02-01T19:00:00+11:00',
+    description: `[Website](https://opera.org.au/events/bmw-opera-for-all/)`,
+    tags: ["Free", "Music"],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
+    title: 'Soli by Candlelight',
+    start: '2025-02-04T20:30:00+11:00',
+    end: '2025-02-04T21:30:00+11:00',
+    description: `[Website](https://fedsquare.com/events/soli-by-candlelight)`,
+    tags: ["Free", "Music"],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
+    title: 'Ross Wilson and The Peaceniks by Candlelight',
+    start: '2025-02-05T20:30:00+11:00',
+    end: '2025-02-05T21:30:00+11:00',
+    description: `[Website](https://fedsquare.com/events/ross-wilson-and-the-peaceniks-by-candlelight)`,
+    tags: ["Free", "Music"],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
+    title: 'Teeks by Candlelight',
+    start: '2025-02-06T20:30:00+11:00',
+    end: '2025-02-06T21:30:00+11:00',
+    description: `[Website](https://fedsquare.com/events/teeks-by-candlelight)`,
+    tags: ["Free", "Music"],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
     title: 'Antipodes Festival',
     start: '2025-02-22',
     end: '2025-02-24',
