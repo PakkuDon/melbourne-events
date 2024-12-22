@@ -738,7 +738,7 @@ const events = [
   {
     title: 'Jesus Christ Superstar',
     start: '2025-03-16',
-    end: '2025-05-12',
+    end: '2025-06-09',
     description: '[Website](https://jesuschristsuperstarmusical.com.au/)',
     tags: ["Musical", "Theatre"],
     location: {
