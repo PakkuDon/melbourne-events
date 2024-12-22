@@ -624,6 +624,33 @@ const events = [
     },
   },
   {
+    title: 'Moonlight Cinema',
+    startTime: '19:30:00+11:00',
+    endTime: '23:00:00+11:00',
+    startRecur: '2024-11-29',
+    endRecur: '2025-03-31',
+    daysOfWeek: [0, 2, 3, 4, 5, 6],
+    description: "[Website](https://melbourne.moonlight.com.au/)",
+    tags: ["Film", "Outdoor"],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
+    },
+  },
+  {
+    title: 'DARKFIELD',
+    start: '2024-12-13',
+    end: '2025-02-17',
+    description: `Featuring SÉANCE and FLIGHT
+  
+[Website](https://www.darkfield.com.au/melbourne)`,
+    tags: ["Theatre"],
+    location: {
+      address: "Arts Centre Melbourne, 100 St Kilda Rd",
+      googleMapsUrl: "https://maps.app.goo.gl/5uJJAiDw8H8kCt3L7",
+    },
+  },
+  {
     title: 'Dear Evan Hansen Musical',
     start: '2024-12-14',
     end: '2025-02-03',
@@ -632,6 +659,19 @@ const events = [
     location: {
       address: "Playhouse Theatre, 100 St Kilda Rd, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
+    },
+  },
+  {
+    title: 'Antopia',
+    startTime: '09:00:00+11:00',
+    endTime: '17:00:00+11:00',
+    startRecur: '2024-12-14',
+    endRecur: '2025-03-11',
+    description: "[Website](https://museumsvictoria.com.au/melbournemuseum/whats-on/antopia/)",
+    tags: ["Exhibition"],
+    location: {
+      address: "Melbourne Museum, 11 Nicholson St, Carlton",
+      googleMapsUrl: "https://maps.app.goo.gl/swBLScA46YegEVtH8",
     },
   },
   {
@@ -670,6 +710,28 @@ const events = [
     },
   },
   {
+    title: "Vision Australia's Carols by Candlelight",
+    start: '2024-12-24T20:00+11:00',
+    end: '2024-12-24T23:30+11:00',
+    description: '[Website](https://www.artscentremelbourne.com.au/whats-on/2024/contemporary-music/carols-by-candlelight)',
+    tags: ["Performance", "Outdoor"],
+    location: {
+      address: "Sidney Myer Music Bowl, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
+    },
+  },
+  {
+    title: 'Van Gogh at THE LUME',
+    start: '2024-12-26',
+    end: '2025-06-02',
+    description: '[Website](https://www.thelumemelbourne.com/van-gogh)',
+    tags: ["Art", "Exhibition"],
+    location: {
+      address: "THE LUME, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/jUsZvqXhu88nLFUG9",
+    },
+  },
+  {
     title: 'BMW Opera for All',
     start: '2025-02-01T17:00:00+11:00',
     end: '2025-02-01T19:00:00+11:00',
@@ -689,6 +751,17 @@ const events = [
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
       googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
+    title: 'Sidney Myer Free Concert: Journeys and Adventures',
+    start: '2025-02-05T19:30:00+11:00',
+    end: '2025-02-05T21:30:00+11:00',
+    description: `[Website](https://www.mso.com.au/performance/2025-smmb-journeys-and-adventures)`,
+    tags: ["Free", "Music", "Outdoor"],
+    location: {
+      address: "Sidney Myer Music Bowl, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
     },
   },
   {
@@ -714,6 +787,28 @@ const events = [
     },
   },
   {
+    title: 'Sidney Myer Free Concert: Dvořák, Gershwin and Ravel',
+    start: '2025-02-15T19:30:00+11:00',
+    end: '2025-02-15T21:30:00+11:00',
+    description: `[Website](https://www.mso.com.au/performance/2025-smmb-dvorak-gershwin-and-ravel)`,
+    tags: ["Free", "Music", "Outdoor"],
+    location: {
+      address: "Sidney Myer Music Bowl, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
+    },
+  },
+  {
+    title: 'Asia TOPA',
+    start: '2025-02-20',
+    end: '2025-03-11',
+    description: '[Website](https://www.asiatopa.com.au/)',
+    tags: ["Festival", "Performance"],
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
     title: 'Antipodes Festival',
     start: '2025-02-22',
     end: '2025-02-24',
@@ -722,6 +817,17 @@ const events = [
     location: {
       address: "Lonsdale Street precinct, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/E5Qy5T75z8AQ5utM8",
+    },
+  },
+  {
+    title: 'Sidney Myer Free Concert: Symphonic Showcase',
+    start: '2025-02-22T19:30:00+11:00',
+    end: '2025-02-22T21:30:00+11:00',
+    description: `[Website](https://www.mso.com.au/performance/2025-smmb-symphonic-showcase)`,
+    tags: ["Free", "Music", "Outdoor"],
+    location: {
+      address: "Sidney Myer Music Bowl, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
     },
   },
   {
@@ -769,6 +875,39 @@ const events = [
     },
   },
   {
+    title: 'The Lord of the Rings – A Musical Tale',
+    start: '2025-04-26',
+    end: '2025-05-31',
+    description: '[Website](https://lotronstage.com/)',
+    tags: ["Musical", "Theatre"],
+    location: {
+      address: "Comedy Theatre, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+    },
+  },
+  {
+    title: 'Beetlejuice The Musical',
+    start: '2025-05-07',
+    end: '2025-06-30',
+    description: '[Website](https://beetlejuicethemusical.com.au/)',
+    tags: ["Musical", "Theatre"],
+    location: {
+      address: "Regent Theatre, 191 Collins St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
+    },
+  },
+  {
+    title: 'Les Misérables The Arena Spectacular',
+    start: '2025-05-14',
+    end: '2025-05-24',
+    description: '[Website](https://lesmisarenatour.com.au/)',
+    tags: ["Musical", "Theatre"],
+    location: {
+      address: "Rod Laver Arena, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/WigqQq1jwkYBoBYp9",
+    },
+  },
+  {
     title: 'Kimono',
     start: '2025-06-04',
     end: '2025-10-06',
@@ -791,6 +930,17 @@ const events = [
     location: {
       address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
+    },
+  },
+  {
+    title: 'Annie the Musical',
+    start: '2025-07-10',
+    end: '2025-08-04',
+    description: '[Website](https://anniemusical.com.au/)',
+    tags: ["Musical", "Theatre"],
+    location: {
+      address: "The Princess Theatre, 163 Spring St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
     },
   },
 ]
