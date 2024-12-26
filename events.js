@@ -853,11 +853,22 @@ const events = [
     },
   },
   {
+    title: 'Melbourne Food and Wine Festival',
+    start: '2025-03-21',
+    end: '2025-03-31',
+    description: '[Website](https://www.melbournefoodandwine.com.au//)',
+    tags: ["Festival", "Food"],
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
     title: 'Melbourne International Comedy Festival',
     start: '2025-03-26',
     end: '2025-04-21',
     description: '[Website](https://www.comedyfestival.com.au/)',
-    tags: ["Comedy"],
+    tags: ["Festival", "Comedy"],
     location: {
       address: "Various locations around Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
@@ -872,6 +883,21 @@ const events = [
     location: {
       address: "Royal Exhibition Building, Carlton",
       googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+    },
+  },
+  {
+    title: "Baker's Dozen",
+    startRecur: '2025-03-29',
+    endRecur: '2025-03-31',
+    startTime: '10:00:00+10:00',
+    endTime: '15:00:00+10:00',
+    description: `Part of Melbourne Food and Wine Festival
+
+[Details](https://www.melbournefoodandwine.com.au/events/bakers-dozen/)`,
+    tags: ["Food", "Market", "Free"],
+    location: {
+      address: "Fed Square, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
     },
   },
   {
