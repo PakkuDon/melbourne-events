@@ -732,6 +732,28 @@ const events = [
     },
   },
   {
+    title: 'Midsumma Carnival',
+    start: '2025-01-19T11:00:00+11:00',
+    end: '2025-01-19T21:00:00+11:00',
+    description: `[Website](https://www.midsumma.org.au/whats-on/events/midsumma-carnival/)`,
+    tags: ["Free", "Festival"],
+    location: {
+      address: "Alexandra Gardens, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/CafM2SaHPRGiHL6y7",
+    },
+  },
+  {
+    title: 'Midsumma Festival',
+    start: '2025-01-19',
+    end: '2025-02-10',
+    description: `[Website](https://www.midsumma.org.au/)`,
+    tags: ["Festival"],
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
     title: 'BMW Opera for All',
     start: '2025-02-01T17:00:00+11:00',
     end: '2025-02-01T19:00:00+11:00',
@@ -740,6 +762,17 @@ const events = [
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
       googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
+    title: 'Melbourne Chinese Lunar New Year Festival',
+    start: '2025-02-02T10:00:00+11:00',
+    end: '2025-02-02T20:00:00+11:00',
+    description: `[What's On Melbourne listing](https://whatson.melbourne.vic.gov.au/things-to-do/melbourne-chinese-lunar-new-year-festival)`,
+    tags: ["Free", "Festival"],
+    location: {
+      address: "Chinatown, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/kRbNsNdCBxDXZtur9",
     },
   },
   {
@@ -864,6 +897,17 @@ const events = [
     },
   },
   {
+    title: 'The Finders Keepers Food Market',
+    start: '2025-03-22',
+    end: '2025-03-24',
+    description: '[Website](https://www.thefinderskeepers.com/food-market/)',
+    tags: ["Market", "Food"],
+    location: {
+      address: "Meat Market, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/z8zhzx5ss7qYua1D6",
+    },
+  },
+  {
     title: 'Melbourne International Comedy Festival',
     start: '2025-03-26',
     end: '2025-04-21',
@@ -931,6 +975,17 @@ const events = [
     location: {
       address: "Rod Laver Arena, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/WigqQq1jwkYBoBYp9",
+    },
+  },
+  {
+    title: 'RISING: Melbourne',
+    start: '2025-06-04',
+    end: '2025-06-16',
+    description: '[Website](https://2025.rising.melbourne/)',
+    tags: ["Festival"],
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
     },
   },
   {
