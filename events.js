@@ -370,7 +370,7 @@ const events = [
   {
     title: 'Tina: The Tina Turner Musical',
     start: '2024-09-21',
-    end: '2024-12-30',
+    end: '2025-03-03',
     description: '[Website](https://tinathemusical.com.au/)',
     tags: ["Musical", "Theatre"],
     location: {
