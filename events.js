@@ -539,7 +539,7 @@ const events = [
     description: '[Website](https://peterandthestarcatcher.com.au/)',
     tags: ["Musical", "Theatre"],
     location: {
-      address: "Playhouse Theatre, 100 St Kilda Rd, Melbourne",
+      address: "Playhouse Theatre, Arts Centre, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
     },
   },
@@ -657,7 +657,7 @@ const events = [
     description: '[Website](https://www.dearevanhansenmusical.com.au/)',
     tags: ["Musical", "Theatre"],
     location: {
-      address: "Playhouse Theatre, 100 St Kilda Rd, Melbourne",
+      address: "Playhouse Theatre, Arts Centre, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
     },
   },
