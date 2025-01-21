@@ -754,6 +754,17 @@ const events = [
     },
   },
   {
+    title: 'Shirley Valentine',
+    start: '2025-01-30',
+    end: '2025-02-17',
+    description: '[Website](https://shirleyvalentine.com.au/)',
+    tags: ["Performance", "Theatre"],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+    },
+  },
+  {
     title: 'BMW Opera for All',
     start: '2025-02-01T17:00:00+11:00',
     end: '2025-02-01T19:00:00+11:00',
@@ -945,6 +956,19 @@ const events = [
     },
   },
   {
+    title: 'Lightfall Cranbourne',
+    startRecur: '2025-04-06',
+    endRecur: '2025-04-21',
+    startTime: '18:00:00+10:00',
+    endTime: '21:00:00+10:00',
+    description: '[Website](https://www.rbg.vic.gov.au/cranbourne-gardens/whats-on-cranbourne/lightfall/)',
+    tags: ["Outdoor"],
+    location: {
+      address: "Royal Botanic Gardens, Cranbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/1saD7PtYgKLqazjw5",
+    },
+  },
+  {
     title: 'The Lord of the Rings – A Musical Tale',
     start: '2025-04-26',
     end: '2025-05-31',
@@ -1022,6 +1046,17 @@ const events = [
     location: {
       address: "The Princess Theatre, 163 Spring St, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
+    },
+  },
+  {
+    title: 'Kimberly Akimbo: A Musical',
+    start: '2025-07-26',
+    end: '2025-08-31',
+    description: '[Website](https://www.mtc.com.au/plays-and-tickets/whats-on/season-2025/kimberly-akimbo-a-musical/)',
+    tags: ["Musical", "Theatre"],
+    location: {
+      address: "Playhouse Theatre, Arts Centre, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
     },
   },
 ]
