@@ -45,22 +45,69 @@ const showEventDetails = (popoverElement, event) => {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  // Tablet width taken from Chrome dev tools
-  const tabletWidth = 768
-  const popoverElement = document.querySelector('#popover')
-  let calendarElement = document.getElementById('calendar')
-  let calendar = new FullCalendar.Calendar(calendarElement, {
-    headerToolbar: {
-      left: 'prev,next today',
-      center: 'title',
-      right: 'dayGridMonth,timeGridWeek,timeGrid',
-    },
-    initialView: document.body.clientWidth > tabletWidth ? 'timeGridWeek' : 'timeGrid',
-    // events is defined in events.js and included in index.html
-    events: events,
-    eventClick: (info) => {
-      showEventDetails(popoverElement, info.event)
-    },
+  const renderCalendar = () => {
+    const searchQuery = new URLSearchParams(location.search)
+    const tagQuery = searchQuery.get("tag")
+    let eventsToRender = events
+
+    if (tagQuery) {
+      eventsToRender = events.filter(event => event.tags.includes(tagQuery))
+    }
+
+    // Tablet width taken from Chrome dev tools
+    const tabletWidth = 768
+    const popoverElement = document.querySelector('#popover')
+    let calendarElement = document.getElementById('calendar')
+    let calendar = new FullCalendar.Calendar(calendarElement, {
+      headerToolbar: {
+        left: 'prev,next today',
+        center: 'title',
+        right: 'dayGridMonth,timeGridWeek,timeGrid',
+      },
+      initialView: document.body.clientWidth > tabletWidth ? 'timeGridWeek' : 'timeGrid',
+      // events is defined in events.js and included in index.html
+      events: eventsToRender,
+      eventClick: (info) => {
+        showEventDetails(popoverElement, info.event)
+      },
+    })
+    calendar.render()
+  }
+
+  // Populate filter dropdown
+  const tagDropdown = document.querySelector("#tag-list")
+  const defaultOption = document.createElement("option")
+  defaultOption.textContent = "Show all"
+  defaultOption.value = ""
+  tagDropdown.appendChild(defaultOption)
+
+  const tags = [...new Set(events.flatMap(event => event.tags))].toSorted()
+  tags.forEach(tag => {
+    const searchQuery = new URLSearchParams(location.search)
+    const tagQuery = searchQuery.get("tag")
+    const option = document.createElement("option")
+    if (tag === tagQuery) {
+      option.selected = true
+    }
+    option.value = tag
+    option.textContent = tag
+
+    tagDropdown.appendChild(option)
   })
-  calendar.render()
+
+  // Filter events by selected tag
+  tagDropdown.addEventListener("change", event => {
+    const selectedTag = event.target.value
+    const url = new URL(location)
+    if (selectedTag) {
+      url.searchParams.set("tag", selectedTag)
+    } else {
+      url.searchParams.delete("tag")
+    }
+    window.history.pushState({},  "", url)
+    renderCalendar()
+  })
+
+  // Show calendar
+  renderCalendar()
 })
