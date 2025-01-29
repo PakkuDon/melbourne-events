@@ -37,7 +37,7 @@ const events = [
     start: '2025-02-01T17:00:00+11:00',
     end: '2025-02-01T19:00:00+11:00',
     description: `[Website](https://opera.org.au/events/bmw-opera-for-all/)`,
-    tags: ["Free", "Music"],
+    tags: ["Free", "Music", "Outdoor"],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
       googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
@@ -59,7 +59,7 @@ const events = [
     start: '2025-02-04T20:30:00+11:00',
     end: '2025-02-04T21:30:00+11:00',
     description: `[Website](https://fedsquare.com/events/soli-by-candlelight)`,
-    tags: ["Free", "Music"],
+    tags: ["Free", "Music", "Outdoor"],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
       googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
@@ -81,7 +81,7 @@ const events = [
     start: '2025-02-05T20:30:00+11:00',
     end: '2025-02-05T21:30:00+11:00',
     description: `[Website](https://fedsquare.com/events/ross-wilson-and-the-peaceniks-by-candlelight)`,
-    tags: ["Free", "Music"],
+    tags: ["Free", "Music", "Outdoor"],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
       googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
@@ -92,7 +92,7 @@ const events = [
     start: '2025-02-06T20:30:00+11:00',
     end: '2025-02-06T21:30:00+11:00',
     description: `[Website](https://fedsquare.com/events/teeks-by-candlelight)`,
-    tags: ["Free", "Music"],
+    tags: ["Free", "Music", "Outdoor"],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
       googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
@@ -125,7 +125,7 @@ const events = [
     start: '2025-02-22',
     end: '2025-02-24',
     description: '[Website](https://www.antipodesfestival.com.au/)',
-    tags: ["Festival", "Free"],
+    tags: ["Festival", "Free", "Outdoor"],
     location: {
       address: "Lonsdale Street precinct, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/E5Qy5T75z8AQ5utM8",
@@ -147,7 +147,7 @@ const events = [
     start: '2025-03-14',
     end: '2025-07-21',
     description: `[Website](https://www.ngv.vic.gov.au/exhibition/top-arts-2025/)`,
-    tags: ["Exhibition", "Free"],
+    tags: ["Exhibition", "Art", "Free"],
     location: {
       address: "The Ian Potter Centre: NGV Australia, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/V1kcEp4pUCf2iKi46",
@@ -217,7 +217,7 @@ const events = [
     description: `Part of Melbourne Food and Wine Festival
 
 [Details](https://www.melbournefoodandwine.com.au/events/bakers-dozen/)`,
-    tags: ["Food", "Market", "Free"],
+    tags: ["Food", "Market", "Free", "Outdoor"],
     location: {
       address: "Fed Square, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
@@ -285,7 +285,7 @@ const events = [
     start: '2025-06-04',
     end: '2025-10-06',
     description: `[Website](https://www.ngv.vic.gov.au/exhibition/kimono/)`,
-    tags: ["Exhibition"],
+    tags: ["Exhibition", "Art"],
     location: {
       address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
@@ -299,7 +299,7 @@ const events = [
 
 [Website](https://www.ngv.vic.gov.au/exhibition/french-impressionism/)
     `,
-    tags: ["Exhibition"],
+    tags: ["Exhibition", "Art"],
     location: {
       address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
