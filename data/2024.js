@@ -1,5 +1,18 @@
 const events = [
   {
+    title: 'Melbourne Out Loud: Life through the lens of Rennie Ellis',
+    startRecur: '2024-03-01',
+    endRecur: '2025-05-26',
+    startTime: '10:00:00+11:00',
+    endTime: '18:00:00+11:00',
+    description: '[Website](https://www.slv.vic.gov.au/whats-on/melbourne-out-loud)',
+    tags: ["Exhibition"],
+    location: {
+      address: "State Library Victoria, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/b5RHnCYqDCi9KFAm6",
+    },
+  },
+  {
     title: 'Joy',
     startRecur: '2024-03-01',
     endRecur: '2025-08-30',
@@ -570,6 +583,19 @@ const events = [
     location: {
       address: "Comedy Theatre, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+    },
+  },
+  {
+    title: 'The Future & Other Fictions',
+    startRecur: '2024-11-24',
+    endRecur: '2025-04-28',
+    startTime: '10:00:00+11:00',
+    endTime: '17:00:00+11:00',
+    description: '[Website](https://www.acmi.net.au/whats-on/future-fictions/)',
+    tags: ["Exhibition", "Art"],
+    location: {
+      address: "ACMI, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
     },
   },
   {

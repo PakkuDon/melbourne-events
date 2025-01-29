@@ -121,6 +121,17 @@ const events = [
     },
   },
   {
+    title: 'Melbourne Fashion Festival',
+    start: '2025-02-21',
+    end: '2025-03-09',
+    description: '[Website](https://melbournefashionfestival.com.au/)',
+    tags: ["Festival"],
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
     title: 'Antipodes Festival',
     start: '2025-02-22',
     end: '2025-02-24',
