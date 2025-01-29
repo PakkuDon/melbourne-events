@@ -45,6 +45,25 @@ const showEventDetails = (popoverElement, event) => {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+  // Initialise FullCalendar instance
+  // Tablet width taken from Chrome dev tools
+  const tabletWidth = 768
+  const popoverElement = document.querySelector('#popover')
+  const calendarElement = document.getElementById('calendar')
+  const calendar = new FullCalendar.Calendar(calendarElement, {
+    headerToolbar: {
+      left: 'prev,next today',
+      center: 'title',
+      right: 'dayGridMonth,timeGridWeek,timeGrid',
+    },
+    initialView: document.body.clientWidth > tabletWidth ? 'timeGridWeek' : 'timeGrid',
+    // events is defined in events.js and included in index.html
+    eventClick: (info) => {
+      showEventDetails(popoverElement, info.event)
+    },
+  })
+
+  // Render calendar with events that match selected criteria
   const renderCalendar = () => {
     const searchQuery = new URLSearchParams(location.search)
     const tagQuery = searchQuery.get("tag")
@@ -53,24 +72,11 @@ document.addEventListener('DOMContentLoaded', () => {
     if (tagQuery) {
       eventsToRender = events.filter(event => event.tags.includes(tagQuery))
     }
-
-    // Tablet width taken from Chrome dev tools
-    const tabletWidth = 768
-    const popoverElement = document.querySelector('#popover')
-    let calendarElement = document.getElementById('calendar')
-    let calendar = new FullCalendar.Calendar(calendarElement, {
-      headerToolbar: {
-        left: 'prev,next today',
-        center: 'title',
-        right: 'dayGridMonth,timeGridWeek,timeGrid',
-      },
-      initialView: document.body.clientWidth > tabletWidth ? 'timeGridWeek' : 'timeGrid',
-      // events is defined in events.js and included in index.html
-      events: eventsToRender,
-      eventClick: (info) => {
-        showEventDetails(popoverElement, info.event)
-      },
+    calendar.batchRendering(() => {
+      calendar.getEvents().forEach(event => event.remove())
+      eventsToRender.forEach(event => calendar.addEvent(event))
     })
+
     calendar.render()
   }
 
