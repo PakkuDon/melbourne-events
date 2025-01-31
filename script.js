@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
       center: 'title',
       right: 'dayGridMonth,timeGridWeek,timeGrid,listWeek',
     },
-    initialView: document.body.clientWidth > tabletWidth ? 'timeGridWeek' : 'timeGrid',
+    initialView: document.body.clientWidth > tabletWidth ? 'timeGridWeek' : 'listWeek',
     // events is defined in events.js and included in index.html
     eventClick: (info) => {
       showEventDetails(popoverElement, info.event)
