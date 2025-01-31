@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add option to switch to list view
 - Default to list view on smaller screens
+- Increase breakpoint for "mobile" layout to 1024px
 
 ## [1.1.1] - 2025-01-30
 

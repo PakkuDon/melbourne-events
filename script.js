@@ -46,8 +46,7 @@ const showEventDetails = (popoverElement, event) => {
 
 document.addEventListener('DOMContentLoaded', () => {
   // Initialise FullCalendar instance
-  // Tablet width taken from Chrome dev tools
-  const tabletWidth = 768
+  const mdBreakpoint = 1024
   const popoverElement = document.querySelector('#popover')
   const calendarElement = document.getElementById('calendar')
   const calendar = new FullCalendar.Calendar(calendarElement, {
@@ -56,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
       center: 'title',
       right: 'dayGridMonth,timeGridWeek,timeGrid,listWeek',
     },
-    initialView: document.body.clientWidth > tabletWidth ? 'timeGridWeek' : 'listWeek',
+    initialView: document.body.clientWidth > mdBreakpoint ? 'timeGridWeek' : 'listWeek',
     // events is defined in events.js and included in index.html
     eventClick: (info) => {
       showEventDetails(popoverElement, info.event)
