@@ -78,6 +78,7 @@ body,
   padding: 24px;
   width: 600px;
   max-width: 80vw;
+  height: 180px;
 
   h2 {
     margin-top: 0;
