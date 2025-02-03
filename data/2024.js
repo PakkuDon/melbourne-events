@@ -495,6 +495,19 @@ const events = [
     },
   },
   {
+    title: 'Cats & Dogs',
+    startRecur: '2024-11-01',
+    endRecur: '2025-07-21',
+    startTime: '10:00:00+11:00',
+    endTime: '17:00:00+11:00',
+    description: '[Website](https://www.ngv.vic.gov.au/exhibition/cats-and-dogs/)',
+    tags: ["Exhibition", "Art"],
+    location: {
+      address: "The Ian Potter Centre: NGV Australia, Fed Square",
+      googleMapsUrl: "https://maps.app.goo.gl/tfHEWQphQBBaVqR99",
+    },
+  },
+  {
     title: 'Sister Act the Musical',
     start: '2024-11-03',
     end: '2025-01-27',

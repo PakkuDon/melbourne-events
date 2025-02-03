@@ -99,6 +99,30 @@ const events = [
     },
   },
   {
+    title: 'Bruce Lee Bonanza',
+    startRecur: '2025-02-07',
+    endRecur: '2025-02-09',
+    startTime: '20:30:00+10:00',
+    endTime: '22:30:00+10:00',
+    description: '[Website](https://fedsquare.com/events/bruce-lee-bonanza)',
+    tags: ["Free", "Film", "Outdoor"],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
+    title: 'Afro-Caribbean Carnival',
+    start: '2025-02-15T16:00:00+11:00',
+    end: '2025-02-15T23:00:00+11:00',
+    description: `[Website](https://fedsquare.com/events/afro-caribbean-carnival)`,
+    tags: ["Free", "Festival", "Outdoor"],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
     title: 'Sidney Myer Free Concert: Dvořák, Gershwin and Ravel',
     start: '2025-02-15T19:30:00+11:00',
     end: '2025-02-15T21:30:00+11:00',
