@@ -639,7 +639,7 @@ const events = [
   {
     title: 'Dear Evan Hansen Musical',
     start: '2024-12-14',
-    end: '2025-02-03',
+    end: '2025-02-17',
     description: '[Website](https://www.dearevanhansenmusical.com.au/)',
     tags: ["Musical", "Theatre"],
     location: {
