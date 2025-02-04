@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Set width on tag dropdown to reduce shift in Chrome
+
 ## [1.1.3] - 2025-02-04
 
 ### Changed
