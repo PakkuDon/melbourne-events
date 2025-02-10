@@ -639,7 +639,7 @@ const events = [
   {
     title: 'DARKFIELD',
     start: '2024-12-13',
-    end: '2025-02-17',
+    end: '2025-02-24',
     description: `Featuring SÉANCE and FLIGHT
   
 [Website](https://www.darkfield.com.au/melbourne)`,
