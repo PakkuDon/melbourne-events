@@ -145,6 +145,17 @@ const events = [
     },
   },
   {
+    title: 'Science Fiction Film Festival',
+    start: '2025-02-21',
+    end: '2025-02-24',
+    description: '[Website](https://www.cinemanova.com.au/events/science-fiction-film-festival)',
+    tags: ["Film", "Festival"],
+    location: {
+      address: "Cinema Nova, Carlton",
+      googleMapsUrl: "https://maps.app.goo.gl/bXjuLQeDPA3SyWar7",
+    },
+  },
+  {
     title: 'Melbourne Fashion Festival',
     start: '2025-02-21',
     end: '2025-03-09',
@@ -153,6 +164,19 @@ const events = [
     location: {
       address: "Various locations around Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
+    title: 'Nature Obituary',
+    startRecur: '2025-02-22',
+    endRecur: '2025-02-24',
+    startTime: '13:00:00+10:00',
+    endTime: '16:00:00+10:00',
+    description: '[Website](https://www.rbg.vic.gov.au/melbourne-gardens/whats-on-melbourne/nature-obituary/)',
+    tags: ["Outdoor", "Free"],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
     },
   },
   {
@@ -175,6 +199,44 @@ const events = [
     location: {
       address: "Sidney Myer Music Bowl, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
+    },
+  },
+  {
+    title: 'Avenue Q',
+    start: '2025-02-22',
+    end: '2025-03-17',
+    description: '[Website](https://nationaltheatre.org.au/avenue-q/)',
+    tags: ["Musical", "Theatre"],
+    location: {
+      address: "The National Theatre Melbourne, St Kilda",
+      googleMapsUrl: "https://maps.app.goo.gl/cJmKJYA6atXmSdqy5",
+    },
+  },
+  {
+    title: 'Moomba Festival',
+    start: '2025-03-06',
+    end: '2025-03-11',
+    description: '[Website](https://moomba.melbourne.vic.gov.au/)',
+    tags: ["Festival", "Free"],
+    location: {
+      address: "Birrarung Marr and Alexandra Gardens",
+      googleMapsUrl: "https://maps.app.goo.gl/DcvDP1rhNmLtzivq6",
+    },
+  },
+  {
+    title: 'Live at the Gardens',
+    startRecur: '2025-03-07',
+    endRecur: '2025-03-16',
+    startTime: '17:00:00+10:00',
+    endTime: '22:00:00+10:00',
+    daysOfWeek: [0, 5, 6],
+    description: `End time TBD
+
+  [Website](https://www.liveatthegardens.com.au/)`,
+    tags: ["Outdoor", "Music", "Performance"],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
     },
   },
   {
