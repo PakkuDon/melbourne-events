@@ -224,6 +224,17 @@ const events = [
     },
   },
   {
+    title: 'Live at THE LUME: Symphony in Motion',
+    start: '2025-03-07T19:00:00+11:00',
+    end: '2025-03-07T21:00:00+11:00',
+    description: `[Website](https://www.thelumemelbourne.com/live-at-the-lume)`,
+    tags: ["Music", "Art", "Exhibition"],
+    location: {
+      address: "THE LUME, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/jUsZvqXhu88nLFUG9",
+    },
+  },
+  {
     title: 'Live at the Gardens',
     startRecur: '2025-03-07',
     endRecur: '2025-03-16',
@@ -321,6 +332,17 @@ const events = [
     },
   },
   {
+    title: 'Live at THE LUME: French Jazz Soirée',
+    start: '2025-04-04T19:00:00+11:00',
+    end: '2025-04-04T21:00:00+11:00',
+    description: `[Website](https://www.thelumemelbourne.com/live-at-the-lume)`,
+    tags: ["Music", "Art", "Exhibition"],
+    location: {
+      address: "THE LUME, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/jUsZvqXhu88nLFUG9",
+    },
+  },
+  {
     title: 'Lightfall Cranbourne',
     startRecur: '2025-04-06',
     endRecur: '2025-04-21',
@@ -342,6 +364,17 @@ const events = [
     location: {
       address: "Comedy Theatre, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+    },
+  },
+  {
+    title: 'Live at THE LUME: Ethereal Opera',
+    start: '2025-05-02T19:00:00+10:00',
+    end: '2025-05-02T21:00:00+10:00',
+    description: `[Website](https://www.thelumemelbourne.com/live-at-the-lume)`,
+    tags: ["Music", "Art", "Exhibition"],
+    location: {
+      address: "THE LUME, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/jUsZvqXhu88nLFUG9",
     },
   },
   {
@@ -400,6 +433,20 @@ const events = [
     location: {
       address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
+    },
+  },
+  {
+    title: 'Lightscape',
+    startRecur: '2025-06-20',
+    endRecur: '2025-08-11',
+    startTime: '17:00:00+11:00',
+    endTime: '22:00:00+11:00',
+    daysOfWeek: [0, 3, 4, 5, 6],
+    description: '[Website](https://www.lightscape.com/melbourne)',
+    tags: ["Outdoor"],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
     },
   },
   {
