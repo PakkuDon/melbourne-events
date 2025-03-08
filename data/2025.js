@@ -204,7 +204,7 @@ const events = [
   {
     title: 'Avenue Q',
     start: '2025-02-22',
-    end: '2025-03-17',
+    end: '2025-03-23',
     description: '[Website](https://nationaltheatre.org.au/avenue-q/)',
     tags: ["Musical", "Theatre"],
     location: {
