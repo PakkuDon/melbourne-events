@@ -461,6 +461,17 @@ const events = [
     },
   },
   {
+    title: 'Here You Come Again',
+    start: '2025-07-12',
+    end: '2025-10-27',
+    description: '[Website](https://marrinergroup.com.au/shows/here-you-come-again)',
+    tags: ["Musical", "Theatre"],
+    location: {
+      address: "Comedy Theatre, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+    },
+  },
+  {
     title: 'Kimberly Akimbo: A Musical',
     start: '2025-07-26',
     end: '2025-08-31',
@@ -469,6 +480,28 @@ const events = [
     location: {
       address: "Playhouse Theatre, Arts Centre, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
+    },
+  },
+  {
+    title: 'In the Heights',
+    start: '2025-08-01',
+    end: '2025-08-18',
+    description: '[Website](https://intheheightsmusical.com/)',
+    tags: ["Musical", "Theatre"],
+    location: {
+      address: "Comedy Theatre, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+    },
+  },
+  {
+    title: 'CATS the Musical',
+    start: '2025-12-21',
+    end: '2026-01-12',
+    description: '[Website](https://catsthemusical.com.au/)',
+    tags: ["Musical", "Theatre"],
+    location: {
+      address: "Hamer Hall, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/F4BKNvr2TTTNa6VT9",
     },
   },
 ]
