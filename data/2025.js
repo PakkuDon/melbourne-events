@@ -251,6 +251,17 @@ const events = [
     },
   },
   {
+    title: 'The Dirty Dozen',
+    start: '2025-03-13',
+    end: '2025-08-30',
+    description: `[Website](https://www.melbourne.vic.gov.au/event/dirty-dozen)`,
+    tags: ["Food", "Exhibition"],
+    location: {
+      address: "City Gallery, Melbourne Town Hall, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/Z67Ez6iGw4G8ziK69",
+    },
+  },
+  {
     title: 'Top Arts 2025',
     start: '2025-03-14',
     end: '2025-07-21',
@@ -343,6 +354,17 @@ const events = [
     },
   },
   {
+    title: 'The Makers and Shakers Market',
+    start: '2025-04-05',
+    end: '2025-04-07',
+    description: '[Website](https://themakersandshakers.com.au/melbourne/)',
+    tags: ["Market"],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+      googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+    },
+  },
+  {
     title: 'Lightfall Cranbourne',
     startRecur: '2025-04-06',
     endRecur: '2025-04-21',
@@ -353,6 +375,20 @@ const events = [
     location: {
       address: "Royal Botanic Gardens, Cranbourne",
       googleMapsUrl: "https://maps.app.goo.gl/1saD7PtYgKLqazjw5",
+    },
+  },
+  {
+    title: 'Hawker 88 Night Market | Queen Victoria Market',
+    startTime: '17:00:00+10:00',
+    endTime: '22:00:00+10:00',
+    startRecur: '2025-04-09',
+    endRecur: '2025-05-08',
+    daysOfWeek: [3],
+    description: '[Website](https://thenightmarket.com.au/)',
+    tags: ["Market"],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
     },
   },
   {
@@ -367,6 +403,17 @@ const events = [
     },
   },
   {
+    title: 'YIRRAMBOI Festival',
+    start: '2025-05-01',
+    end: '2025-05-12',
+    description: `[Website](https://yirramboi.com.au/)`,
+    tags: ["Festival", "Art"],
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
     title: 'Live at THE LUME: Ethereal Opera',
     start: '2025-05-02T19:00:00+10:00',
     end: '2025-05-02T21:00:00+10:00',
@@ -375,6 +422,17 @@ const events = [
     location: {
       address: "THE LUME, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/jUsZvqXhu88nLFUG9",
+    },
+  },
+  {
+    title: "Buddha's Day and Multicultural Festival",
+    start: '2025-05-02',
+    end: '2025-05-05',
+    description: '[Website](https://whatson.melbourne.vic.gov.au/things-to-do/buddhas-day-and-multicultural-festival/)',
+    tags: ["Festival"],
+    location: {
+      address: "Golden Square Car Park, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/SzEY2NiFdHyprSCH6",
     },
   },
   {
@@ -397,6 +455,28 @@ const events = [
     location: {
       address: "Rod Laver Arena, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/WigqQq1jwkYBoBYp9",
+    },
+  },
+  {
+    title: 'Melbourne Design Week',
+    start: '2025-05-15',
+    end: '2025-05-26',
+    description: `[Website](https://designweek.melbourne/)`,
+    tags: ["Festival", "Free", "Art"],
+    location: {
+      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
+    },
+  },
+  {
+    title: 'Korea Festival',
+    start: '2025-05-24',
+    end: '2025-05-26',
+    description: `[What's On Melbourne listing](https://whatson.melbourne.vic.gov.au/things-to-do/korea-festival)`,
+    tags: ["Festival", "Free", "Outdoor"],
+    location: {
+      address: "Fed Square, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
     },
   },
   {
@@ -491,6 +571,17 @@ const events = [
     location: {
       address: "Comedy Theatre, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+    },
+  },
+  {
+    title: 'The Makers and Shakers Market',
+    start: '2025-09-06',
+    end: '2025-09-08',
+    description: '[Website](https://themakersandshakers.com.au/melbourne/)',
+    tags: ["Market"],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+      googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
     },
   },
   {
