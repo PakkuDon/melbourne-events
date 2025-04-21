@@ -637,6 +637,17 @@ const events = [
     },
   },
   {
+    title: 'Taste of Combat',
+    start: '2024-12-02',
+    end: '2025-11-24',
+    description: '[Website](https://www.shrine.org.au/taste-combat)',
+    tags: ["Exhibition"],
+    location: {
+      address: "Shrine of Remembrance, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/sGQWzRy4oCdVMyUs7",
+    },
+  },
+  {
     title: 'DARKFIELD',
     start: '2024-12-13',
     end: '2025-02-24',

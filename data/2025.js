@@ -436,6 +436,17 @@ const events = [
     },
   },
   {
+    title: 'LEGO® Star Wars: The Exhibition',
+    start: '2025-05-04',
+    end: '2026-01-27',
+    description: '[Website](https://museumsvictoria.com.au/melbournemuseum/whats-on/lego-star-wars/)',
+    tags: ["Exhibition", "Art"],
+    location: {
+      address: "Melbourne Museum, 11 Nicholson St, Carlton",
+      googleMapsUrl: "https://maps.app.goo.gl/swBLScA46YegEVtH8",
+    },
+  },
+  {
     title: 'Beetlejuice The Musical',
     start: '2025-05-07',
     end: '2025-06-30',
@@ -444,6 +455,17 @@ const events = [
     location: {
       address: "Regent Theatre, 191 Collins St, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
+    },
+  },
+  {
+    title: 'Mother’s Day High Tea at Melbourne’s Royal Exhibition Building',
+    start: '2025-05-11T10:00:00+10:00',
+    end: '2025-05-11T16:30:00+10:00',
+    description: `[Website](https://museumsvictoria.com.au/melbournemuseum/whats-on/mothers-day-high-tea-royal-exhibition-building/)`,
+    tags: ["Food"],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+      googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
     },
   },
   {
