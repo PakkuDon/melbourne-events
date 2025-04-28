@@ -458,6 +458,17 @@ const events = [
     },
   },
   {
+    title: 'Hadestown',
+    start: '2025-05-08',
+    end: '2025-07-07',
+    description: '[Website](https://hadestown.com.au/)',
+    tags: ["Musical", "Theatre"],
+    location: {
+      address: "Her Majesty's Theatre, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6",
+    },
+  },
+  {
     title: 'Mother’s Day High Tea at Melbourne’s Royal Exhibition Building',
     start: '2025-05-11T10:00:00+10:00',
     end: '2025-05-11T16:30:00+10:00',
@@ -488,6 +499,28 @@ const events = [
     location: {
       address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
+    },
+  },
+  {
+    title: 'Fondue Chalet',
+    start: '2025-05-15',
+    end: '2025-06-23',
+    description: '[Website](https://fonduechalet.com.au/)',
+    tags: ["Food"],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+    },
+  },
+  {
+    title: 'Footloose The Musical',
+    start: '2025-05-16',
+    end: '2025-06-02',
+    description: '[Website](https://footloosethemusical.com/)',
+    tags: ["Musical", "Theatre"],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
     },
   },
   {
@@ -538,6 +571,17 @@ const events = [
     },
   },
   {
+    title: 'Hedwig and the Angry Inch',
+    start: '2025-06-13',
+    end: '2025-06-27',
+    description: '[Website](https://www.hedwig.com.au/)',
+    tags: ["Musical", "Theatre"],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+    },
+  },
+  {
     title: 'Lightscape',
     startRecur: '2025-06-20',
     endRecur: '2025-08-11',
@@ -574,6 +618,17 @@ const events = [
     },
   },
   {
+    title: 'Open House Melbourne Weekend',
+    start: '2025-07-26',
+    end: '2025-07-28',
+    description: '[Website](https://openhousemelbourne.org/)',
+    tags: ["Exhibition"],
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
+    },
+  },
+  {
     title: 'Kimberly Akimbo: A Musical',
     start: '2025-07-26',
     end: '2025-08-31',
@@ -593,6 +648,17 @@ const events = [
     location: {
       address: "Comedy Theatre, Melbourne",
       googleMapsUrl: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+    },
+  },
+  {
+    title: 'Melbourne International Film Festival',
+    start: '2025-08-07',
+    end: '2025-08-25',
+    description: '[Website](https://miff.com.au/)',
+    tags: ["Festival"],
+    location: {
+      address: "Various locations around Melbourne",
+      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
     },
   },
   {
