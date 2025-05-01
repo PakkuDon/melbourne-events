@@ -37,6 +37,11 @@ const showEventDetails = (popoverElement, event) => {
     <p>
       ${marked.parse(event.extendedProps.description)}
     </p>
+    <ul>
+      ${event.extendedProps.links.map(link => (
+        `<li><a href="${link.url}" target="_blank" rel="noopener noreferrer">${link.label}</a></li>`
+      )).join("")}
+    </ul>
   `
   popoverElement.querySelector("button")
     .addEventListener("click", () => popoverElement.hidePopover())

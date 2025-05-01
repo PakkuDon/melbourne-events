@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Updated
+
+- Render links for event details and location in a list
+
 ## [1.1.4] - 2025-02-14
 
 ### Changed
