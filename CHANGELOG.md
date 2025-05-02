@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Render links for event details and location in a list
 - Remove Marked.js from dependencies
 
+### Removed
+
+- Remove Google Map links for events that are spread across various locations
+
 ## [1.1.4] - 2025-02-14
 
 ### Changed

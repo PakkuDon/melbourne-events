@@ -31,10 +31,6 @@ const events = [
         label: "Website",
         url: "https://www.midsumma.org.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
-      },
     ],
     location: {
       address: "Various locations around Melbourne",
@@ -264,10 +260,6 @@ const events = [
         label: "Website",
         url: "https://www.asiatopa.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
-      },
     ],
     location: {
       address: "Various locations around Melbourne",
@@ -305,10 +297,6 @@ const events = [
       {
         label: "Website",
         url: "https://melbournefashionfestival.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
       },
     ],
     location: {
@@ -542,10 +530,6 @@ const events = [
         label: "Website",
         url: "https://www.melbournefoodandwine.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
-      },
     ],
     location: {
       address: "Various locations around Melbourne",
@@ -583,10 +567,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.comedyfestival.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
       },
     ],
     location: {
@@ -758,10 +738,6 @@ const events = [
       {
         label: "Website",
         url: "https://yirramboi.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
       },
     ],
     location: {
@@ -1011,10 +987,6 @@ const events = [
         label: "Website",
         url: "https://2025.rising.melbourne/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
-      },
     ],
     location: {
       address: "Various locations around Melbourne",
@@ -1161,10 +1133,6 @@ const events = [
         label: "Website",
         url: "https://openhousemelbourne.org/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
-      },
     ],
     location: {
       address: "Various locations around Melbourne",
@@ -1223,10 +1191,6 @@ const events = [
       {
         label: "Website",
         url: "https://miff.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
       },
     ],
     location: {

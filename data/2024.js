@@ -120,11 +120,7 @@ const events = [
       {
         label: "Website",
         url: "https://2024.rising.melbourne/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
-      },
+      }
     ],
     location: {
       address: "Various locations around Melbourne",
@@ -303,10 +299,6 @@ const events = [
         label: "Shows playing at Arts Centre Melbourne",
         url: "https://www.artscentremelbourne.com.au/festival-and-series/replay-festival",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
-      },
     ],
     location: {
       address: "Melbourne",
@@ -366,10 +358,6 @@ const events = [
         label: "Website",
         url: "https://openhousemelbourne.org/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
-      },
     ],
     location: {
       address: "Various locations around Melbourne",
@@ -408,10 +396,6 @@ const events = [
         label: "Website",
         url: "https://miff.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
-      },
     ],
     location: {
       address: "Various locations around Melbourne",
@@ -428,10 +412,6 @@ const events = [
       {
         label: "Website",
         url: "https://nowornever.melbourne.vic.gov.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
       },
     ],
     location: {
@@ -672,10 +652,6 @@ const events = [
         label: "Website",
         url: "https://melbournefringe.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
-      },
     ],
     location: {
       address: "Various locations around Melbourne",
@@ -692,10 +668,6 @@ const events = [
       {
         label: "Website",
         url: "https://gamesweek.melbourne/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
       },
     ],
     location: {
@@ -819,10 +791,6 @@ const events = [
         label: "Website",
         url: "https://www.melbournejazz.com/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
-      },
     ],
     location: {
       address: "Various locations around Melbourne",
@@ -860,10 +828,6 @@ const events = [
       {
         label: "Website",
         url: "https://mfw.melbourne.vic.gov.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
       },
     ],
     location: {
@@ -1075,10 +1039,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.alwayslive.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
       },
     ],
     location: {
