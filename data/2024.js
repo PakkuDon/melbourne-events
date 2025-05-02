@@ -159,8 +159,7 @@ const events = [
     title: 'Pharoah',
     start: '2024-06-14',
     end: '2024-10-07',
-    description: `Exhibition celebrating ancient Egyptian art and culture
-    `,
+    description: 'Exhibition celebrating ancient Egyptian art and culture',
     tags: ["Exhibition", "Art"],
     links: [
       {
@@ -178,7 +177,7 @@ const events = [
     },
   },
   {
-    title: `Disney's Beauty and the Beast the Musical`,
+    title: "Disney's Beauty and the Beast the Musical",
     start: '2024-06-29',
     end: '2025-04-21',
     description: '',
@@ -897,7 +896,7 @@ const events = [
     title: 'Victorian Festival of Diwali',
     start: '2024-10-26T12:30:00+11:00',
     end: '2024-10-26T22:00:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Festival", "Outdoor"],
     links: [
       {
@@ -1004,7 +1003,7 @@ const events = [
     title: 'Polish Festival',
     start: '2024-11-10T10:00:00+11:00',
     end: '2024-11-10T18:00:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Festival", "Free", "Outdoor"],
     links: [
       {
@@ -1025,7 +1024,7 @@ const events = [
     title: 'African Music and Cultural Festival',
     start: '2024-11-15',
     end: '2024-11-18',
-    description: ``,
+    description: '',
     tags: ["Festival", "Free", "Outdoor"],
     links: [
       {
@@ -1201,7 +1200,7 @@ const events = [
     title: 'DARKFIELD',
     start: '2024-12-13',
     end: '2025-02-24',
-    description: `Featuring SÉANCE and FLIGHT`,
+    description: 'Featuring SÉANCE and FLIGHT',
     tags: ["Theatre"],
     links: [
       {
@@ -1310,7 +1309,7 @@ const events = [
     title: 'As Camp as Christmas',
     start: '2024-12-20T18:00:00+11:00',
     end: '2024-12-20T22:00:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Free", "Performance", "Outdoor"],
     links: [
       {

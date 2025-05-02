@@ -3,7 +3,7 @@ const events = [
     title: 'Midsumma Carnival',
     start: '2025-01-19T11:00:00+11:00',
     end: '2025-01-19T21:00:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Free", "Festival"],
     links: [
       {
@@ -24,7 +24,7 @@ const events = [
     title: 'Midsumma Festival',
     start: '2025-01-19',
     end: '2025-02-10',
-    description: ``,
+    description: '',
     tags: ["Festival"],
     links: [
       {
@@ -66,7 +66,7 @@ const events = [
     title: 'BMW Opera for All',
     start: '2025-02-01T17:00:00+11:00',
     end: '2025-02-01T19:00:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Free", "Music", "Outdoor"],
     links: [
       {
@@ -87,7 +87,7 @@ const events = [
     title: 'Melbourne Chinese Lunar New Year Festival',
     start: '2025-02-02T10:00:00+11:00',
     end: '2025-02-02T20:00:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Free", "Festival"],
     links: [
       {
@@ -108,7 +108,7 @@ const events = [
     title: 'Soli by Candlelight',
     start: '2025-02-04T20:30:00+11:00',
     end: '2025-02-04T21:30:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Free", "Music", "Outdoor"],
     links: [
       {
@@ -129,7 +129,7 @@ const events = [
     title: 'Sidney Myer Free Concert: Journeys and Adventures',
     start: '2025-02-05T19:30:00+11:00',
     end: '2025-02-05T21:30:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Free", "Music", "Outdoor"],
     links: [
       {
@@ -150,7 +150,7 @@ const events = [
     title: 'Ross Wilson and The Peaceniks by Candlelight',
     start: '2025-02-05T20:30:00+11:00',
     end: '2025-02-05T21:30:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Free", "Music", "Outdoor"],
     links: [
       {
@@ -171,7 +171,7 @@ const events = [
     title: 'Teeks by Candlelight',
     start: '2025-02-06T20:30:00+11:00',
     end: '2025-02-06T21:30:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Free", "Music", "Outdoor"],
     links: [
       {
@@ -215,7 +215,7 @@ const events = [
     title: 'Afro-Caribbean Carnival',
     start: '2025-02-15T16:00:00+11:00',
     end: '2025-02-15T23:00:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Free", "Festival", "Outdoor"],
     links: [
       {
@@ -236,7 +236,7 @@ const events = [
     title: 'Sidney Myer Free Concert: Dvořák, Gershwin and Ravel',
     start: '2025-02-15T19:30:00+11:00',
     end: '2025-02-15T21:30:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Free", "Music", "Outdoor"],
     links: [
       {
@@ -364,7 +364,7 @@ const events = [
     title: 'Sidney Myer Free Concert: Symphonic Showcase',
     start: '2025-02-22T19:30:00+11:00',
     end: '2025-02-22T21:30:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Free", "Music", "Outdoor"],
     links: [
       {
@@ -427,7 +427,7 @@ const events = [
     title: 'Live at THE LUME: Symphony in Motion',
     start: '2025-03-07T19:00:00+11:00',
     end: '2025-03-07T21:00:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Music", "Art", "Exhibition"],
     links: [
       {
@@ -451,7 +451,7 @@ const events = [
     startTime: '17:00:00+10:00',
     endTime: '22:00:00+10:00',
     daysOfWeek: [0, 5, 6],
-    description: ``,
+    description: '',
     tags: ["Outdoor", "Music", "Performance"],
     links: [
       {
@@ -472,7 +472,7 @@ const events = [
     title: 'The Dirty Dozen',
     start: '2025-03-13',
     end: '2025-08-30',
-    description: ``,
+    description: '',
     tags: ["Food", "Exhibition"],
     links: [
       {
@@ -493,7 +493,7 @@ const events = [
     title: 'Top Arts 2025',
     start: '2025-03-14',
     end: '2025-07-21',
-    description: ``,
+    description: '',
     tags: ["Exhibition", "Art", "Free"],
     links: [
       {
@@ -621,7 +621,7 @@ const events = [
     endRecur: '2025-03-31',
     startTime: '10:00:00+10:00',
     endTime: '15:00:00+10:00',
-    description: `Part of Melbourne Food and Wine Festival`,
+    description: 'Part of Melbourne Food and Wine Festival',
     tags: ["Food", "Market", "Free", "Outdoor"],
     links: [
       {
@@ -642,7 +642,7 @@ const events = [
     title: 'Live at THE LUME: French Jazz Soirée',
     start: '2025-04-04T19:00:00+11:00',
     end: '2025-04-04T21:00:00+11:00',
-    description: ``,
+    description: '',
     tags: ["Music", "Art", "Exhibition"],
     links: [
       {
@@ -752,7 +752,7 @@ const events = [
     title: 'YIRRAMBOI Festival',
     start: '2025-05-01',
     end: '2025-05-12',
-    description: ``,
+    description: '',
     tags: ["Festival", "Art"],
     links: [
       {
@@ -773,7 +773,7 @@ const events = [
     title: 'Live at THE LUME: Ethereal Opera',
     start: '2025-05-02T19:00:00+10:00',
     end: '2025-05-02T21:00:00+10:00',
-    description: ``,
+    description: '',
     tags: ["Music", "Art", "Exhibition"],
     links: [
       {
@@ -878,7 +878,7 @@ const events = [
     title: 'Mother’s Day High Tea at Melbourne’s Royal Exhibition Building',
     start: '2025-05-11T10:00:00+10:00',
     end: '2025-05-11T16:30:00+10:00',
-    description: ``,
+    description: '',
     tags: ["Food"],
     links: [
       {
@@ -920,7 +920,7 @@ const events = [
     title: 'Melbourne Design Week',
     start: '2025-05-15',
     end: '2025-05-26',
-    description: ``,
+    description: '',
     tags: ["Festival", "Free", "Art"],
     links: [
       {
@@ -983,7 +983,7 @@ const events = [
     title: 'Korea Festival',
     start: '2025-05-24',
     end: '2025-05-26',
-    description: ``,
+    description: '',
     tags: ["Festival", "Free", "Outdoor"],
     links: [
       {
@@ -1025,7 +1025,7 @@ const events = [
     title: 'Kimono',
     start: '2025-06-04',
     end: '2025-10-06',
-    description: ``,
+    description: '',
     tags: ["Exhibition", "Art"],
     links: [
       {
