@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Updated
 
 - Render links for event details and location in a list
+- Remove Marked.js from dependencies
 
 ## [1.1.4] - 2025-02-14
 
