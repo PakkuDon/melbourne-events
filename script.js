@@ -32,7 +32,6 @@ const showEventDetails = (popoverElement, event) => {
     ${timeRangeStr}
     <div>
       ${event.extendedProps.location.address}
-      (View in <a href="${event.extendedProps.location.googleMapsUrl}" target="_blank" rel="noopener noreferrer">Google Maps</a>)
     </div>
     <p>
       ${event.extendedProps.description}

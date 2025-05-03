@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 
 - Remove Google Map links for events that are spread across various locations
+- Remove "View in Google Maps" link from address as this is now included in event links
 
 ## [1.1.4] - 2025-02-14
 
