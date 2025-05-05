@@ -17,7 +17,6 @@ const events = [
     ],
     location: {
       address: "Alexandra Gardens, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/CafM2SaHPRGiHL6y7",
     },
   },
   {
@@ -34,7 +33,6 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
     },
   },
   {
@@ -55,7 +53,6 @@ const events = [
     ],
     location: {
       address: "Athenaeum Theatre, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
     },
   },
   {
@@ -76,7 +73,6 @@ const events = [
     ],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
-      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
     },
   },
   {
@@ -97,7 +93,6 @@ const events = [
     ],
     location: {
       address: "Chinatown, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/kRbNsNdCBxDXZtur9",
     },
   },
   {
@@ -118,7 +113,6 @@ const events = [
     ],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
-      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
     },
   },
   {
@@ -139,7 +133,6 @@ const events = [
     ],
     location: {
       address: "Sidney Myer Music Bowl, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
     },
   },
   {
@@ -160,7 +153,6 @@ const events = [
     ],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
-      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
     },
   },
   {
@@ -181,7 +173,6 @@ const events = [
     ],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
-      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
     },
   },
   {
@@ -204,7 +195,6 @@ const events = [
     ],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
-      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
     },
   },
   {
@@ -225,7 +215,6 @@ const events = [
     ],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
-      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
     },
   },
   {
@@ -246,7 +235,6 @@ const events = [
     ],
     location: {
       address: "Sidney Myer Music Bowl, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
     },
   },
   {
@@ -263,7 +251,6 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
     },
   },
   {
@@ -284,7 +271,6 @@ const events = [
     ],
     location: {
       address: "Cinema Nova, Carlton",
-      googleMapsUrl: "https://maps.app.goo.gl/bXjuLQeDPA3SyWar7",
     },
   },
   {
@@ -301,7 +287,6 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
     },
   },
   {
@@ -324,7 +309,6 @@ const events = [
     ],
     location: {
       address: "Royal Botanic Gardens Victoria, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
     },
   },
   {
@@ -345,7 +329,6 @@ const events = [
     ],
     location: {
       address: "Lonsdale Street precinct, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/E5Qy5T75z8AQ5utM8",
     },
   },
   {
@@ -366,7 +349,6 @@ const events = [
     ],
     location: {
       address: "Sidney Myer Music Bowl, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
     },
   },
   {
@@ -387,7 +369,6 @@ const events = [
     ],
     location: {
       address: "The National Theatre Melbourne, St Kilda",
-      googleMapsUrl: "https://maps.app.goo.gl/cJmKJYA6atXmSdqy5",
     },
   },
   {
@@ -408,7 +389,6 @@ const events = [
     ],
     location: {
       address: "Birrarung Marr and Alexandra Gardens",
-      googleMapsUrl: "https://maps.app.goo.gl/DcvDP1rhNmLtzivq6",
     },
   },
   {
@@ -429,7 +409,6 @@ const events = [
     ],
     location: {
       address: "THE LUME, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/jUsZvqXhu88nLFUG9",
     },
   },
   {
@@ -453,7 +432,6 @@ const events = [
     ],
     location: {
       address: "Royal Botanic Gardens Victoria, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
     },
   },
   {
@@ -474,7 +452,6 @@ const events = [
     ],
     location: {
       address: "City Gallery, Melbourne Town Hall, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/Z67Ez6iGw4G8ziK69",
     },
   },
   {
@@ -495,7 +472,6 @@ const events = [
     ],
     location: {
       address: "The Ian Potter Centre: NGV Australia, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/V1kcEp4pUCf2iKi46",
     },
   },
   {
@@ -516,7 +492,6 @@ const events = [
     ],
     location: {
       address: "The Princess Theatre, 163 Spring St, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
     },
   },
   {
@@ -533,7 +508,6 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
     },
   },
   {
@@ -554,7 +528,6 @@ const events = [
     ],
     location: {
       address: "Meat Market, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/z8zhzx5ss7qYua1D6",
     },
   },
   {
@@ -571,7 +544,6 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
     },
   },
   {
@@ -592,7 +564,6 @@ const events = [
     ],
     location: {
       address: "Royal Exhibition Building, Carlton",
-      googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
     },
   },
   {
@@ -615,7 +586,6 @@ const events = [
     ],
     location: {
       address: "Fed Square, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
     },
   },
   {
@@ -636,7 +606,6 @@ const events = [
     ],
     location: {
       address: "THE LUME, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/jUsZvqXhu88nLFUG9",
     },
   },
   {
@@ -657,7 +626,6 @@ const events = [
     ],
     location: {
       address: "Royal Exhibition Building, Carlton",
-      googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
     },
   },
   {
@@ -680,7 +648,6 @@ const events = [
     ],
     location: {
       address: "Royal Botanic Gardens, Cranbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/1saD7PtYgKLqazjw5",
     },
   },
   {
@@ -704,7 +671,6 @@ const events = [
     ],
     location: {
       address: "Queen Victoria Market, Queen St, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
     },
   },
   {
@@ -725,7 +691,6 @@ const events = [
     ],
     location: {
       address: "Comedy Theatre, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
     },
   },
   {
@@ -742,7 +707,6 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
     },
   },
   {
@@ -763,7 +727,6 @@ const events = [
     ],
     location: {
       address: "THE LUME, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/jUsZvqXhu88nLFUG9",
     },
   },
   {
@@ -784,7 +747,6 @@ const events = [
     ],
     location: {
       address: "Golden Square Car Park, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/SzEY2NiFdHyprSCH6",
     },
   },
   {
@@ -805,7 +767,6 @@ const events = [
     ],
     location: {
       address: "Melbourne Museum, 11 Nicholson St, Carlton",
-      googleMapsUrl: "https://maps.app.goo.gl/swBLScA46YegEVtH8",
     },
   },
   {
@@ -826,7 +787,6 @@ const events = [
     ],
     location: {
       address: "Regent Theatre, 191 Collins St, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
     },
   },
   {
@@ -847,7 +807,6 @@ const events = [
     ],
     location: {
       address: "Her Majesty's Theatre, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6",
     },
   },
   {
@@ -868,7 +827,6 @@ const events = [
     ],
     location: {
       address: "Royal Exhibition Building, Carlton",
-      googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
     },
   },
   {
@@ -889,7 +847,6 @@ const events = [
     ],
     location: {
       address: "Rod Laver Arena, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/WigqQq1jwkYBoBYp9",
     },
   },
   {
@@ -910,7 +867,6 @@ const events = [
     ],
     location: {
       address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
     },
   },
   {
@@ -931,7 +887,6 @@ const events = [
     ],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
-      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
     },
   },
   {
@@ -952,7 +907,6 @@ const events = [
     ],
     location: {
       address: "Athenaeum Theatre, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
     },
   },
   {
@@ -973,7 +927,6 @@ const events = [
     ],
     location: {
       address: "Fed Square, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
     },
   },
   {
@@ -990,7 +943,6 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
     },
   },
   {
@@ -1011,7 +963,6 @@ const events = [
     ],
     location: {
       address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
     },
   },
   {
@@ -1032,7 +983,6 @@ const events = [
     ],
     location: {
       address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
     },
   },
   {
@@ -1053,7 +1003,6 @@ const events = [
     ],
     location: {
       address: "Athenaeum Theatre, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
     },
   },
   {
@@ -1077,7 +1026,6 @@ const events = [
     ],
     location: {
       address: "Royal Botanic Gardens Victoria, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
     },
   },
   {
@@ -1098,7 +1046,6 @@ const events = [
     ],
     location: {
       address: "The Princess Theatre, 163 Spring St, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
     },
   },
   {
@@ -1119,7 +1066,6 @@ const events = [
     ],
     location: {
       address: "Comedy Theatre, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
     },
   },
   {
@@ -1136,7 +1082,6 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
     },
   },
   {
@@ -1157,7 +1102,6 @@ const events = [
     ],
     location: {
       address: "Playhouse Theatre, Arts Centre, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
     },
   },
   {
@@ -1178,7 +1122,6 @@ const events = [
     ],
     location: {
       address: "Comedy Theatre, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
     },
   },
   {
@@ -1195,7 +1138,6 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/KiJMtMHjc67QzHDi6",
     },
   },
   {
@@ -1216,7 +1158,6 @@ const events = [
     ],
     location: {
       address: "Royal Exhibition Building, Carlton",
-      googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
     },
   },
   {
@@ -1237,7 +1178,6 @@ const events = [
     ],
     location: {
       address: "Hamer Hall, Melbourne",
-      googleMapsUrl: "https://maps.app.goo.gl/F4BKNvr2TTTNa6VT9",
     },
   },
 ]
