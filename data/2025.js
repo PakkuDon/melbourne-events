@@ -772,7 +772,7 @@ const events = [
   {
     title: 'Beetlejuice The Musical',
     start: '2025-05-07',
-    end: '2025-06-30',
+    end: '2025-08-04',
     description: '',
     tags: ["Musical", "Theatre"],
     links: [
