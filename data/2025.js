@@ -910,6 +910,26 @@ const events = [
     },
   },
   {
+    title: 'The Big Design Market: Almost Winter',
+    start: '2025-05-23',
+    end: '2025-05-26',
+    description: '',
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://melbourne.thebigdesignmarket.com/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+    },
+  },
+  {
     title: 'Korea Festival',
     start: '2025-05-24',
     end: '2025-05-26',
