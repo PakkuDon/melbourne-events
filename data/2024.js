@@ -1238,7 +1238,7 @@ const events = [
       },
       {
         label: "Google Maps",
-        url: "",
+        url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
       },
     ],
     location: {
@@ -1254,11 +1254,11 @@ const events = [
     links: [
       {
         label: "Website",
-        url: "",
+        url: "https://www.thelumemelbourne.com/",
       },
       {
         label: "Google Maps",
-        url: "",
+        url: "https://maps.app.goo.gl/DVM2tvrCoEs2j4RD6",
       },
     ],
     location: {
