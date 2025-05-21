@@ -1049,6 +1049,26 @@ const events = [
     },
   },
   {
+    title: "Puffing Billy's Train of Lights",
+    start: '2025-07-04',
+    end: '2025-07-21',
+    description: '',
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://puffingbilly.com.au/events/train-of-lights/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/dFwvuapXcMxw9Sii6",
+      },
+    ],
+    location: {
+      address: "Puffing Billy Railway Lakeside Visitor Centre, Emerald",
+    },
+  },
+  {
     title: 'Annie the Musical',
     start: '2025-07-10',
     end: '2025-08-04',
@@ -1086,6 +1106,26 @@ const events = [
     ],
     location: {
       address: "Comedy Theatre, Melbourne",
+    },
+  },
+  {
+    title: 'The Little Food Market',
+    start: '2025-07-18',
+    end: '2025-07-21',
+    description: '',
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://thelittlefoodmarket.com/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
     },
   },
   {
@@ -1158,6 +1198,26 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
+    },
+  },
+  {
+    title: 'Affordable Art Fair Melbourne',
+    start: '2025-08-28',
+    end: '2025-09-01',
+    description: '',
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://affordableartfair.com/fairs/melbourne/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
     },
   },
   {
