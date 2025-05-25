@@ -477,7 +477,7 @@ const events = [
   {
     title: 'Jesus Christ Superstar',
     start: '2025-03-16',
-    end: '2025-06-09',
+    end: '2025-06-23',
     description: '',
     tags: ["Musical", "Theatre"],
     links: [
@@ -676,7 +676,7 @@ const events = [
   {
     title: 'The Lord of the Rings – A Musical Tale',
     start: '2025-04-26',
-    end: '2025-05-31',
+    end: '2025-06-23',
     description: '',
     tags: ["Musical", "Theatre"],
     links: [
