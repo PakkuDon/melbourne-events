@@ -950,6 +950,26 @@ const events = [
     },
   },
   {
+    title: 'Melbourne Donut Festival',
+    start: '2025-05-31',
+    end: '2025-06-02',
+    description: '',
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://qvm.com.au/whats-on/melbourne-donut-festival/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
     title: 'RISING: Melbourne',
     start: '2025-06-04',
     end: '2025-06-16',
