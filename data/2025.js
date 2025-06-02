@@ -1069,6 +1069,26 @@ const events = [
     },
   },
   {
+    title: '1984 by George Orwell',
+    start: '2025-07-01',
+    end: '2025-07-07',
+    description: '',
+    tags: ["Performance", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://marrinergroup.com.au/shows/1984-by-george-orwell",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+      },
+    ],
+    location: {
+      address: "Comedy Theatre, Melbourne",
+    },
+  },
+  {
     title: "Puffing Billy's Train of Lights",
     start: '2025-07-04',
     end: '2025-07-21',
@@ -1106,6 +1126,26 @@ const events = [
     ],
     location: {
       address: "The Princess Theatre, 163 Spring St, Melbourne",
+    },
+  },
+  {
+    title: 'The Finders Keepers Design Market',
+    start: '2025-07-11',
+    end: '2025-07-14',
+    description: '',
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.thefinderskeepers.com/melbourne-markets/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
     },
   },
   {
@@ -1241,6 +1281,26 @@ const events = [
     },
   },
   {
+    title: 'The Play that Goes Wrong',
+    start: '2025-09-03',
+    end: '2025-09-29',
+    description: '',
+    tags: ["Performance", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.athenaeumtheatre.com.au/shows/the-play-that-goes-wrong",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+      },
+    ],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
     title: 'The Makers and Shakers Market',
     start: '2025-09-06',
     end: '2025-09-08',
@@ -1258,6 +1318,26 @@ const events = [
     ],
     location: {
       address: "Royal Exhibition Building, Carlton",
+    },
+  },
+  {
+    title: 'MJ the Musical',
+    start: '2025-09-09',
+    end: '2025-11-03',
+    description: '',
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://mjthemusical.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6",
+      },
+    ],
+    location: {
+      address: "Her Majesty's Theatre, Melbourne",
     },
   },
   {
