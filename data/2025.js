@@ -986,6 +986,29 @@ const events = [
     },
   },
   {
+    title: 'Winter Night Market | Queen Victoria Market',
+    startTime: '17:00:00+11:00',
+    endTime: '22:00:00+11:00',
+    startRecur: '2025-06-04',
+    endRecur: '2025-08-28',
+    daysOfWeek: [3],
+    description: '',
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://thenightmarket.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
     title: 'Kimono',
     start: '2025-06-04',
     end: '2025-10-06',
