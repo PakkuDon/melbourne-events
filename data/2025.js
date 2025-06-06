@@ -1120,7 +1120,7 @@ const events = [
     links: [
       {
         label: "Website",
-        url: "https://firelight.melbourne.vic.gov.au/festival/",
+        url: "https://firelight.melbourne.vic.gov.au/",
       },
       {
         label: "Google Maps",
