@@ -1112,6 +1112,26 @@ const events = [
     },
   },
   {
+    title: 'Firelight Festival',
+    start: '2025-07-04',
+    end: '2025-07-07',
+    description: '',
+    tags: ["Festival", "Outdoor", "Free"],
+    links: [
+      {
+        label: "Website",
+        url: "https://firelight.melbourne.vic.gov.au/festival/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/PXUGSVipCtXtwEyUA",
+      },
+    ],
+    location: {
+      address: "Harbour Esplanade, Docklands",
+    },
+  },
+  {
     title: "Puffing Billy's Train of Lights",
     start: '2025-07-04',
     end: '2025-07-21',
