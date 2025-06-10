@@ -1112,6 +1112,42 @@ const events = [
     },
   },
   {
+    title: 'Replay Festival',
+    start: '2025-07-01',
+    end: '2025-08-03',
+    description: '',
+    tags: ["Festival", "Comedy"],
+    links: [
+      {
+        label: "Shows playing at Comedy Republic",
+        url: "https://www.comedyrepublic.com.au/events?s=replay+festival",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
+    title: ' Indie Symphony II',
+    start: '2025-07-03',
+    end: '2025-07-05',
+    description: '',
+    tags: ["Performance", "Music", "Gaming"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.orchestravictoria.com.au/performances/indie-symphony-ii",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/F4BKNvr2TTTNa6VT9",
+      },
+    ],
+    location: {
+      address: "Hamer Hall, Melbourne",
+    },
+  },
+  {
     title: 'Firelight Festival',
     start: '2025-07-04',
     end: '2025-07-07',
