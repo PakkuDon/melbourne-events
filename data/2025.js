@@ -1051,7 +1051,7 @@ const events = [
   {
     title: 'Hedwig and the Angry Inch',
     start: '2025-06-13',
-    end: '2025-06-27',
+    end: '2025-06-30',
     description: '',
     tags: ["Musical", "Theatre"],
     links: [
