@@ -674,6 +674,26 @@ const events = [
     },
   },
   {
+    title: 'Make Believe: Encounters with Misinformation',
+    start: '2025-04-16',
+    end: '2026-01-27',
+    description: '',
+    tags: ["Exhibition", "Free"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.slv.vic.gov.au/whats-on/make-believe",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/b5RHnCYqDCi9KFAm6",
+      },
+    ],
+    location: {
+      address: "State Library Victoria, Melbourne",
+    },
+  },
+  {
     title: 'The Lord of the Rings – A Musical Tale',
     start: '2025-04-26',
     end: '2025-06-23',
@@ -1148,6 +1168,26 @@ const events = [
     },
   },
   {
+    title: 'Double Vision',
+    start: '2025-07-03',
+    end: '2025-07-06',
+    description: '',
+    tags: ["Performance", "Music"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.acmi.net.au/whats-on/double-vision/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
+      },
+    ],
+    location: {
+      address: "ACMI, Melbourne",
+    },
+  },
+  {
     title: 'Firelight Festival',
     start: '2025-07-04',
     end: '2025-07-07',
@@ -1417,6 +1457,26 @@ const events = [
     ],
     location: {
       address: "Her Majesty's Theatre, Melbourne",
+    },
+  },
+  {
+    title: 'DOG MAN: THE MUSICAL',
+    start: '2025-09-30',
+    end: '2025-10-05',
+    description: '',
+    tags: ["Musical", "Theatre", "Family and kids"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.artscentremelbourne.com.au/whats-on/2025/kids-and-families/dogman",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
+      },
+    ],
+    location: {
+      address: "Playhouse Theatre, Arts Centre, Melbourne",
     },
   },
   {
