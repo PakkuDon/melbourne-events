@@ -1112,6 +1112,26 @@ const events = [
     },
   },
   {
+    title: 'Speedrun Weekend',
+    start: '2025-06-21',
+    end: '2025-06-23',
+    description: '',
+    tags: ["Gaming"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.acmi.net.au/whats-on/speedrun-weekend/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
+      },
+    ],
+    location: {
+      address: "ACMI, Melbourne",
+    },
+  },
+  {
     title: '1984 by George Orwell',
     start: '2025-07-01',
     end: '2025-07-07',
@@ -1373,6 +1393,22 @@ const events = [
       {
         label: "Website",
         url: "https://miff.com.au/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
+    title: 'Now or Never',
+    start: '2025-08-21',
+    end: '2025-09-01',
+    description: '',
+    tags: ["Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://nowornever.melbourne.vic.gov.au/",
       },
     ],
     location: {
