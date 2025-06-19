@@ -5,5 +5,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PakkuDon/melbourne-events.git"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
   }
 }
