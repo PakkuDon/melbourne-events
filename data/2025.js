@@ -1,9 +1,9 @@
 const events = [
   {
-    title: 'Midsumma Carnival',
-    start: '2025-01-19T11:00:00+11:00',
-    end: '2025-01-19T21:00:00+11:00',
-    description: '',
+    title: "Midsumma Carnival",
+    start: "2025-01-19T11:00:00+11:00",
+    end: "2025-01-19T21:00:00+11:00",
+    description: "",
     tags: ["Free", "Festival"],
     links: [
       {
@@ -20,10 +20,10 @@ const events = [
     },
   },
   {
-    title: 'Midsumma Festival',
-    start: '2025-01-19',
-    end: '2025-02-10',
-    description: '',
+    title: "Midsumma Festival",
+    start: "2025-01-19",
+    end: "2025-02-10",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -36,10 +36,10 @@ const events = [
     },
   },
   {
-    title: 'Shirley Valentine',
-    start: '2025-01-30',
-    end: '2025-02-17',
-    description: '',
+    title: "Shirley Valentine",
+    start: "2025-01-30",
+    end: "2025-02-17",
+    description: "",
     tags: ["Performance", "Theatre"],
     links: [
       {
@@ -56,10 +56,10 @@ const events = [
     },
   },
   {
-    title: 'BMW Opera for All',
-    start: '2025-02-01T17:00:00+11:00',
-    end: '2025-02-01T19:00:00+11:00',
-    description: '',
+    title: "BMW Opera for All",
+    start: "2025-02-01T17:00:00+11:00",
+    end: "2025-02-01T19:00:00+11:00",
+    description: "",
     tags: ["Free", "Music", "Outdoor"],
     links: [
       {
@@ -76,10 +76,10 @@ const events = [
     },
   },
   {
-    title: 'Melbourne Chinese Lunar New Year Festival',
-    start: '2025-02-02T10:00:00+11:00',
-    end: '2025-02-02T20:00:00+11:00',
-    description: '',
+    title: "Melbourne Chinese Lunar New Year Festival",
+    start: "2025-02-02T10:00:00+11:00",
+    end: "2025-02-02T20:00:00+11:00",
+    description: "",
     tags: ["Free", "Festival"],
     links: [
       {
@@ -96,10 +96,10 @@ const events = [
     },
   },
   {
-    title: 'Soli by Candlelight',
-    start: '2025-02-04T20:30:00+11:00',
-    end: '2025-02-04T21:30:00+11:00',
-    description: '',
+    title: "Soli by Candlelight",
+    start: "2025-02-04T20:30:00+11:00",
+    end: "2025-02-04T21:30:00+11:00",
+    description: "",
     tags: ["Free", "Music", "Outdoor"],
     links: [
       {
@@ -116,10 +116,10 @@ const events = [
     },
   },
   {
-    title: 'Sidney Myer Free Concert: Journeys and Adventures',
-    start: '2025-02-05T19:30:00+11:00',
-    end: '2025-02-05T21:30:00+11:00',
-    description: '',
+    title: "Sidney Myer Free Concert: Journeys and Adventures",
+    start: "2025-02-05T19:30:00+11:00",
+    end: "2025-02-05T21:30:00+11:00",
+    description: "",
     tags: ["Free", "Music", "Outdoor"],
     links: [
       {
@@ -136,10 +136,10 @@ const events = [
     },
   },
   {
-    title: 'Ross Wilson and The Peaceniks by Candlelight',
-    start: '2025-02-05T20:30:00+11:00',
-    end: '2025-02-05T21:30:00+11:00',
-    description: '',
+    title: "Ross Wilson and The Peaceniks by Candlelight",
+    start: "2025-02-05T20:30:00+11:00",
+    end: "2025-02-05T21:30:00+11:00",
+    description: "",
     tags: ["Free", "Music", "Outdoor"],
     links: [
       {
@@ -156,10 +156,10 @@ const events = [
     },
   },
   {
-    title: 'Teeks by Candlelight',
-    start: '2025-02-06T20:30:00+11:00',
-    end: '2025-02-06T21:30:00+11:00',
-    description: '',
+    title: "Teeks by Candlelight",
+    start: "2025-02-06T20:30:00+11:00",
+    end: "2025-02-06T21:30:00+11:00",
+    description: "",
     tags: ["Free", "Music", "Outdoor"],
     links: [
       {
@@ -176,12 +176,12 @@ const events = [
     },
   },
   {
-    title: 'Bruce Lee Bonanza',
-    startRecur: '2025-02-07',
-    endRecur: '2025-02-09',
-    startTime: '20:30:00+10:00',
-    endTime: '22:30:00+10:00',
-    description: '',
+    title: "Bruce Lee Bonanza",
+    startRecur: "2025-02-07",
+    endRecur: "2025-02-09",
+    startTime: "20:30:00+10:00",
+    endTime: "22:30:00+10:00",
+    description: "",
     tags: ["Free", "Film", "Outdoor"],
     links: [
       {
@@ -198,10 +198,10 @@ const events = [
     },
   },
   {
-    title: 'Afro-Caribbean Carnival',
-    start: '2025-02-15T16:00:00+11:00',
-    end: '2025-02-15T23:00:00+11:00',
-    description: '',
+    title: "Afro-Caribbean Carnival",
+    start: "2025-02-15T16:00:00+11:00",
+    end: "2025-02-15T23:00:00+11:00",
+    description: "",
     tags: ["Free", "Festival", "Outdoor"],
     links: [
       {
@@ -218,10 +218,10 @@ const events = [
     },
   },
   {
-    title: 'Sidney Myer Free Concert: Dvořák, Gershwin and Ravel',
-    start: '2025-02-15T19:30:00+11:00',
-    end: '2025-02-15T21:30:00+11:00',
-    description: '',
+    title: "Sidney Myer Free Concert: Dvořák, Gershwin and Ravel",
+    start: "2025-02-15T19:30:00+11:00",
+    end: "2025-02-15T21:30:00+11:00",
+    description: "",
     tags: ["Free", "Music", "Outdoor"],
     links: [
       {
@@ -238,10 +238,10 @@ const events = [
     },
   },
   {
-    title: 'Asia TOPA',
-    start: '2025-02-20',
-    end: '2025-03-11',
-    description: '',
+    title: "Asia TOPA",
+    start: "2025-02-20",
+    end: "2025-03-11",
+    description: "",
     tags: ["Festival", "Performance"],
     links: [
       {
@@ -254,10 +254,10 @@ const events = [
     },
   },
   {
-    title: 'Science Fiction Film Festival',
-    start: '2025-02-21',
-    end: '2025-02-24',
-    description: '',
+    title: "Science Fiction Film Festival",
+    start: "2025-02-21",
+    end: "2025-02-24",
+    description: "",
     tags: ["Film", "Festival"],
     links: [
       {
@@ -274,10 +274,10 @@ const events = [
     },
   },
   {
-    title: 'Melbourne Fashion Festival',
-    start: '2025-02-21',
-    end: '2025-03-09',
-    description: '',
+    title: "Melbourne Fashion Festival",
+    start: "2025-02-21",
+    end: "2025-03-09",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -290,12 +290,12 @@ const events = [
     },
   },
   {
-    title: 'Nature Obituary',
-    startRecur: '2025-02-22',
-    endRecur: '2025-02-24',
-    startTime: '13:00:00+10:00',
-    endTime: '16:00:00+10:00',
-    description: '',
+    title: "Nature Obituary",
+    startRecur: "2025-02-22",
+    endRecur: "2025-02-24",
+    startTime: "13:00:00+10:00",
+    endTime: "16:00:00+10:00",
+    description: "",
     tags: ["Outdoor", "Free"],
     links: [
       {
@@ -312,10 +312,10 @@ const events = [
     },
   },
   {
-    title: 'Antipodes Festival',
-    start: '2025-02-22',
-    end: '2025-02-24',
-    description: '',
+    title: "Antipodes Festival",
+    start: "2025-02-22",
+    end: "2025-02-24",
+    description: "",
     tags: ["Festival", "Free", "Outdoor"],
     links: [
       {
@@ -332,10 +332,10 @@ const events = [
     },
   },
   {
-    title: 'Sidney Myer Free Concert: Symphonic Showcase',
-    start: '2025-02-22T19:30:00+11:00',
-    end: '2025-02-22T21:30:00+11:00',
-    description: '',
+    title: "Sidney Myer Free Concert: Symphonic Showcase",
+    start: "2025-02-22T19:30:00+11:00",
+    end: "2025-02-22T21:30:00+11:00",
+    description: "",
     tags: ["Free", "Music", "Outdoor"],
     links: [
       {
@@ -352,10 +352,10 @@ const events = [
     },
   },
   {
-    title: 'Avenue Q',
-    start: '2025-02-22',
-    end: '2025-03-23',
-    description: '',
+    title: "Avenue Q",
+    start: "2025-02-22",
+    end: "2025-03-23",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -372,10 +372,10 @@ const events = [
     },
   },
   {
-    title: 'Moomba Festival',
-    start: '2025-03-06',
-    end: '2025-03-11',
-    description: '',
+    title: "Moomba Festival",
+    start: "2025-03-06",
+    end: "2025-03-11",
+    description: "",
     tags: ["Festival", "Free"],
     links: [
       {
@@ -392,10 +392,10 @@ const events = [
     },
   },
   {
-    title: 'Live at THE LUME: Symphony in Motion',
-    start: '2025-03-07T19:00:00+11:00',
-    end: '2025-03-07T21:00:00+11:00',
-    description: '',
+    title: "Live at THE LUME: Symphony in Motion",
+    start: "2025-03-07T19:00:00+11:00",
+    end: "2025-03-07T21:00:00+11:00",
+    description: "",
     tags: ["Music", "Art", "Exhibition"],
     links: [
       {
@@ -412,13 +412,13 @@ const events = [
     },
   },
   {
-    title: 'Live at the Gardens',
-    startRecur: '2025-03-07',
-    endRecur: '2025-03-16',
-    startTime: '17:00:00+10:00',
-    endTime: '22:00:00+10:00',
+    title: "Live at the Gardens",
+    startRecur: "2025-03-07",
+    endRecur: "2025-03-16",
+    startTime: "17:00:00+10:00",
+    endTime: "22:00:00+10:00",
     daysOfWeek: [0, 5, 6],
-    description: '',
+    description: "",
     tags: ["Outdoor", "Music", "Performance"],
     links: [
       {
@@ -435,10 +435,10 @@ const events = [
     },
   },
   {
-    title: 'The Dirty Dozen',
-    start: '2025-03-13',
-    end: '2025-08-30',
-    description: '',
+    title: "The Dirty Dozen",
+    start: "2025-03-13",
+    end: "2025-08-30",
+    description: "",
     tags: ["Food", "Exhibition"],
     links: [
       {
@@ -455,10 +455,10 @@ const events = [
     },
   },
   {
-    title: 'Top Arts 2025',
-    start: '2025-03-14',
-    end: '2025-07-21',
-    description: '',
+    title: "Top Arts 2025",
+    start: "2025-03-14",
+    end: "2025-07-21",
+    description: "",
     tags: ["Exhibition", "Art", "Free"],
     links: [
       {
@@ -475,10 +475,10 @@ const events = [
     },
   },
   {
-    title: 'Jesus Christ Superstar',
-    start: '2025-03-16',
-    end: '2025-06-23',
-    description: '',
+    title: "Jesus Christ Superstar",
+    start: "2025-03-16",
+    end: "2025-06-23",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -495,10 +495,10 @@ const events = [
     },
   },
   {
-    title: 'Melbourne Food and Wine Festival',
-    start: '2025-03-21',
-    end: '2025-03-31',
-    description: '',
+    title: "Melbourne Food and Wine Festival",
+    start: "2025-03-21",
+    end: "2025-03-31",
+    description: "",
     tags: ["Festival", "Food"],
     links: [
       {
@@ -511,10 +511,10 @@ const events = [
     },
   },
   {
-    title: 'The Finders Keepers Food Market',
-    start: '2025-03-22',
-    end: '2025-03-24',
-    description: '',
+    title: "The Finders Keepers Food Market",
+    start: "2025-03-22",
+    end: "2025-03-24",
+    description: "",
     tags: ["Market", "Food"],
     links: [
       {
@@ -531,10 +531,10 @@ const events = [
     },
   },
   {
-    title: 'Melbourne International Comedy Festival',
-    start: '2025-03-26',
-    end: '2025-04-21',
-    description: '',
+    title: "Melbourne International Comedy Festival",
+    start: "2025-03-26",
+    end: "2025-04-21",
+    description: "",
     tags: ["Festival", "Comedy"],
     links: [
       {
@@ -547,10 +547,10 @@ const events = [
     },
   },
   {
-    title: 'Melbourne International Flower & Garden Show',
-    start: '2025-03-26',
-    end: '2025-03-31',
-    description: '',
+    title: "Melbourne International Flower & Garden Show",
+    start: "2025-03-26",
+    end: "2025-03-31",
+    description: "",
     tags: ["Exhibition", "Outdoor"],
     links: [
       {
@@ -568,11 +568,11 @@ const events = [
   },
   {
     title: "Baker's Dozen",
-    startRecur: '2025-03-29',
-    endRecur: '2025-03-31',
-    startTime: '10:00:00+10:00',
-    endTime: '15:00:00+10:00',
-    description: 'Part of Melbourne Food and Wine Festival',
+    startRecur: "2025-03-29",
+    endRecur: "2025-03-31",
+    startTime: "10:00:00+10:00",
+    endTime: "15:00:00+10:00",
+    description: "Part of Melbourne Food and Wine Festival",
     tags: ["Food", "Market", "Free", "Outdoor"],
     links: [
       {
@@ -589,10 +589,10 @@ const events = [
     },
   },
   {
-    title: 'Live at THE LUME: French Jazz Soirée',
-    start: '2025-04-04T19:00:00+11:00',
-    end: '2025-04-04T21:00:00+11:00',
-    description: '',
+    title: "Live at THE LUME: French Jazz Soirée",
+    start: "2025-04-04T19:00:00+11:00",
+    end: "2025-04-04T21:00:00+11:00",
+    description: "",
     tags: ["Music", "Art", "Exhibition"],
     links: [
       {
@@ -609,10 +609,10 @@ const events = [
     },
   },
   {
-    title: 'The Makers and Shakers Market',
-    start: '2025-04-05',
-    end: '2025-04-07',
-    description: '',
+    title: "The Makers and Shakers Market",
+    start: "2025-04-05",
+    end: "2025-04-07",
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -629,12 +629,12 @@ const events = [
     },
   },
   {
-    title: 'Lightfall Cranbourne',
-    startRecur: '2025-04-06',
-    endRecur: '2025-04-21',
-    startTime: '18:00:00+10:00',
-    endTime: '21:00:00+10:00',
-    description: '',
+    title: "Lightfall Cranbourne",
+    startRecur: "2025-04-06",
+    endRecur: "2025-04-21",
+    startTime: "18:00:00+10:00",
+    endTime: "21:00:00+10:00",
+    description: "",
     tags: ["Outdoor"],
     links: [
       {
@@ -651,13 +651,13 @@ const events = [
     },
   },
   {
-    title: 'Hawker 88 Night Market | Queen Victoria Market',
-    startTime: '17:00:00+10:00',
-    endTime: '22:00:00+10:00',
-    startRecur: '2025-04-09',
-    endRecur: '2025-05-08',
+    title: "Hawker 88 Night Market | Queen Victoria Market",
+    startTime: "17:00:00+10:00",
+    endTime: "22:00:00+10:00",
+    startRecur: "2025-04-09",
+    endRecur: "2025-05-08",
     daysOfWeek: [3],
-    description: '',
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -674,10 +674,10 @@ const events = [
     },
   },
   {
-    title: 'Make Believe: Encounters with Misinformation',
-    start: '2025-04-16',
-    end: '2026-01-27',
-    description: '',
+    title: "Make Believe: Encounters with Misinformation",
+    start: "2025-04-16",
+    end: "2026-01-27",
+    description: "",
     tags: ["Exhibition", "Free"],
     links: [
       {
@@ -694,10 +694,10 @@ const events = [
     },
   },
   {
-    title: 'The Lord of the Rings – A Musical Tale',
-    start: '2025-04-26',
-    end: '2025-06-23',
-    description: '',
+    title: "The Lord of the Rings – A Musical Tale",
+    start: "2025-04-26",
+    end: "2025-06-23",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -714,10 +714,10 @@ const events = [
     },
   },
   {
-    title: 'YIRRAMBOI Festival',
-    start: '2025-05-01',
-    end: '2025-05-12',
-    description: '',
+    title: "YIRRAMBOI Festival",
+    start: "2025-05-01",
+    end: "2025-05-12",
+    description: "",
     tags: ["Festival", "Art"],
     links: [
       {
@@ -730,10 +730,10 @@ const events = [
     },
   },
   {
-    title: 'Live at THE LUME: Ethereal Opera',
-    start: '2025-05-02T19:00:00+10:00',
-    end: '2025-05-02T21:00:00+10:00',
-    description: '',
+    title: "Live at THE LUME: Ethereal Opera",
+    start: "2025-05-02T19:00:00+10:00",
+    end: "2025-05-02T21:00:00+10:00",
+    description: "",
     tags: ["Music", "Art", "Exhibition"],
     links: [
       {
@@ -751,9 +751,9 @@ const events = [
   },
   {
     title: "Buddha's Day and Multicultural Festival",
-    start: '2025-05-02',
-    end: '2025-05-05',
-    description: '',
+    start: "2025-05-02",
+    end: "2025-05-05",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -770,10 +770,10 @@ const events = [
     },
   },
   {
-    title: 'LEGO® Star Wars: The Exhibition',
-    start: '2025-05-04',
-    end: '2026-01-27',
-    description: '',
+    title: "LEGO® Star Wars: The Exhibition",
+    start: "2025-05-04",
+    end: "2026-01-27",
+    description: "",
     tags: ["Exhibition", "Art"],
     links: [
       {
@@ -790,10 +790,10 @@ const events = [
     },
   },
   {
-    title: 'Beetlejuice The Musical',
-    start: '2025-05-07',
-    end: '2025-08-04',
-    description: '',
+    title: "Beetlejuice The Musical",
+    start: "2025-05-07",
+    end: "2025-08-04",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -810,10 +810,10 @@ const events = [
     },
   },
   {
-    title: 'Hadestown',
-    start: '2025-05-08',
-    end: '2025-07-07',
-    description: '',
+    title: "Hadestown",
+    start: "2025-05-08",
+    end: "2025-07-07",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -830,10 +830,10 @@ const events = [
     },
   },
   {
-    title: 'Mother’s Day High Tea at Melbourne’s Royal Exhibition Building',
-    start: '2025-05-11T10:00:00+10:00',
-    end: '2025-05-11T16:30:00+10:00',
-    description: '',
+    title: "Mother’s Day High Tea at Melbourne’s Royal Exhibition Building",
+    start: "2025-05-11T10:00:00+10:00",
+    end: "2025-05-11T16:30:00+10:00",
+    description: "",
     tags: ["Food"],
     links: [
       {
@@ -850,10 +850,10 @@ const events = [
     },
   },
   {
-    title: 'Les Misérables The Arena Spectacular',
-    start: '2025-05-14',
-    end: '2025-05-24',
-    description: '',
+    title: "Les Misérables The Arena Spectacular",
+    start: "2025-05-14",
+    end: "2025-05-24",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -870,10 +870,10 @@ const events = [
     },
   },
   {
-    title: 'Melbourne Design Week',
-    start: '2025-05-15',
-    end: '2025-05-26',
-    description: '',
+    title: "Melbourne Design Week",
+    start: "2025-05-15",
+    end: "2025-05-26",
+    description: "",
     tags: ["Festival", "Free", "Art"],
     links: [
       {
@@ -890,10 +890,10 @@ const events = [
     },
   },
   {
-    title: 'Fondue Chalet',
-    start: '2025-05-15',
-    end: '2025-06-23',
-    description: '',
+    title: "Fondue Chalet",
+    start: "2025-05-15",
+    end: "2025-06-23",
+    description: "",
     tags: ["Food"],
     links: [
       {
@@ -910,10 +910,10 @@ const events = [
     },
   },
   {
-    title: 'Footloose The Musical',
-    start: '2025-05-16',
-    end: '2025-06-02',
-    description: '',
+    title: "Footloose The Musical",
+    start: "2025-05-16",
+    end: "2025-06-02",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -930,10 +930,10 @@ const events = [
     },
   },
   {
-    title: 'The Big Design Market: Almost Winter',
-    start: '2025-05-23',
-    end: '2025-05-26',
-    description: '',
+    title: "The Big Design Market: Almost Winter",
+    start: "2025-05-23",
+    end: "2025-05-26",
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -950,10 +950,10 @@ const events = [
     },
   },
   {
-    title: 'Korea Festival',
-    start: '2025-05-24',
-    end: '2025-05-26',
-    description: '',
+    title: "Korea Festival",
+    start: "2025-05-24",
+    end: "2025-05-26",
+    description: "",
     tags: ["Festival", "Free", "Outdoor"],
     links: [
       {
@@ -970,10 +970,10 @@ const events = [
     },
   },
   {
-    title: 'Melbourne Donut Festival',
-    start: '2025-05-31',
-    end: '2025-06-02',
-    description: '',
+    title: "Melbourne Donut Festival",
+    start: "2025-05-31",
+    end: "2025-06-02",
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -990,10 +990,10 @@ const events = [
     },
   },
   {
-    title: 'RISING: Melbourne',
-    start: '2025-06-04',
-    end: '2025-06-16',
-    description: '',
+    title: "RISING: Melbourne",
+    start: "2025-06-04",
+    end: "2025-06-16",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -1006,13 +1006,13 @@ const events = [
     },
   },
   {
-    title: 'Winter Night Market | Queen Victoria Market',
-    startTime: '17:00:00+11:00',
-    endTime: '22:00:00+11:00',
-    startRecur: '2025-06-04',
-    endRecur: '2025-08-28',
+    title: "Winter Night Market | Queen Victoria Market",
+    startTime: "17:00:00+11:00",
+    endTime: "22:00:00+11:00",
+    startRecur: "2025-06-04",
+    endRecur: "2025-08-28",
     daysOfWeek: [3],
-    description: '',
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -1029,10 +1029,10 @@ const events = [
     },
   },
   {
-    title: 'Kimono',
-    start: '2025-06-04',
-    end: '2025-10-06',
-    description: '',
+    title: "Kimono",
+    start: "2025-06-04",
+    end: "2025-10-06",
+    description: "",
     tags: ["Exhibition", "Art"],
     links: [
       {
@@ -1049,10 +1049,11 @@ const events = [
     },
   },
   {
-    title: 'French Impressionism',
-    start: '2025-06-06',
-    end: '2025-10-06',
-    description: 'From the Museum of Fine Arts, Boston. Part of Melbourne Winter Masterpieces',
+    title: "French Impressionism",
+    start: "2025-06-06",
+    end: "2025-10-06",
+    description:
+      "From the Museum of Fine Arts, Boston. Part of Melbourne Winter Masterpieces",
     tags: ["Exhibition", "Art"],
     links: [
       {
@@ -1069,10 +1070,10 @@ const events = [
     },
   },
   {
-    title: 'Hedwig and the Angry Inch',
-    start: '2025-06-13',
-    end: '2025-06-30',
-    description: '',
+    title: "Hedwig and the Angry Inch",
+    start: "2025-06-13",
+    end: "2025-06-30",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -1089,13 +1090,13 @@ const events = [
     },
   },
   {
-    title: 'Lightscape',
-    startRecur: '2025-06-20',
-    endRecur: '2025-08-11',
-    startTime: '17:00:00+11:00',
-    endTime: '22:00:00+11:00',
+    title: "Lightscape",
+    startRecur: "2025-06-20",
+    endRecur: "2025-08-11",
+    startTime: "17:00:00+11:00",
+    endTime: "22:00:00+11:00",
     daysOfWeek: [0, 3, 4, 5, 6],
-    description: '',
+    description: "",
     tags: ["Outdoor"],
     links: [
       {
@@ -1112,10 +1113,10 @@ const events = [
     },
   },
   {
-    title: 'Speedrun Weekend',
-    start: '2025-06-21',
-    end: '2025-06-23',
-    description: '',
+    title: "Speedrun Weekend",
+    start: "2025-06-21",
+    end: "2025-06-23",
+    description: "",
     tags: ["Gaming"],
     links: [
       {
@@ -1132,10 +1133,10 @@ const events = [
     },
   },
   {
-    title: '1984 by George Orwell',
-    start: '2025-07-01',
-    end: '2025-07-07',
-    description: '',
+    title: "1984 by George Orwell",
+    start: "2025-07-01",
+    end: "2025-07-07",
+    description: "",
     tags: ["Performance", "Theatre"],
     links: [
       {
@@ -1152,10 +1153,10 @@ const events = [
     },
   },
   {
-    title: 'Replay Festival',
-    start: '2025-07-01',
-    end: '2025-08-03',
-    description: '',
+    title: "Replay Festival",
+    start: "2025-07-01",
+    end: "2025-08-03",
+    description: "",
     tags: ["Festival", "Comedy"],
     links: [
       {
@@ -1168,10 +1169,10 @@ const events = [
     },
   },
   {
-    title: ' Indie Symphony II',
-    start: '2025-07-03',
-    end: '2025-07-05',
-    description: '',
+    title: " Indie Symphony II",
+    start: "2025-07-03",
+    end: "2025-07-05",
+    description: "",
     tags: ["Performance", "Music", "Gaming"],
     links: [
       {
@@ -1188,10 +1189,10 @@ const events = [
     },
   },
   {
-    title: 'Double Vision',
-    start: '2025-07-03',
-    end: '2025-07-06',
-    description: '',
+    title: "Double Vision",
+    start: "2025-07-03",
+    end: "2025-07-06",
+    description: "",
     tags: ["Performance", "Music"],
     links: [
       {
@@ -1208,10 +1209,10 @@ const events = [
     },
   },
   {
-    title: 'Firelight Festival',
-    start: '2025-07-04',
-    end: '2025-07-07',
-    description: '',
+    title: "Firelight Festival",
+    start: "2025-07-04",
+    end: "2025-07-07",
+    description: "",
     tags: ["Festival", "Outdoor", "Free"],
     links: [
       {
@@ -1229,9 +1230,9 @@ const events = [
   },
   {
     title: "Puffing Billy's Train of Lights",
-    start: '2025-07-04',
-    end: '2025-07-21',
-    description: '',
+    start: "2025-07-04",
+    end: "2025-07-21",
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -1248,10 +1249,10 @@ const events = [
     },
   },
   {
-    title: 'Annie the Musical',
-    start: '2025-07-10',
-    end: '2025-08-04',
-    description: '',
+    title: "Annie the Musical",
+    start: "2025-07-10",
+    end: "2025-08-04",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -1268,10 +1269,10 @@ const events = [
     },
   },
   {
-    title: 'The Finders Keepers Design Market',
-    start: '2025-07-11',
-    end: '2025-07-14',
-    description: '',
+    title: "The Finders Keepers Design Market",
+    start: "2025-07-11",
+    end: "2025-07-14",
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -1288,10 +1289,10 @@ const events = [
     },
   },
   {
-    title: 'Here You Come Again',
-    start: '2025-07-12',
-    end: '2025-10-27',
-    description: '',
+    title: "Here You Come Again",
+    start: "2025-07-12",
+    end: "2025-10-27",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -1308,10 +1309,10 @@ const events = [
     },
   },
   {
-    title: 'The Little Food Market',
-    start: '2025-07-18',
-    end: '2025-07-21',
-    description: '',
+    title: "The Little Food Market",
+    start: "2025-07-18",
+    end: "2025-07-21",
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -1328,10 +1329,10 @@ const events = [
     },
   },
   {
-    title: 'Open House Melbourne Weekend',
-    start: '2025-07-26',
-    end: '2025-07-28',
-    description: '',
+    title: "Open House Melbourne Weekend",
+    start: "2025-07-26",
+    end: "2025-07-28",
+    description: "",
     tags: ["Exhibition"],
     links: [
       {
@@ -1344,10 +1345,10 @@ const events = [
     },
   },
   {
-    title: 'Kimberly Akimbo: A Musical',
-    start: '2025-07-26',
-    end: '2025-08-31',
-    description: '',
+    title: "Kimberly Akimbo: A Musical",
+    start: "2025-07-26",
+    end: "2025-08-31",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -1364,10 +1365,10 @@ const events = [
     },
   },
   {
-    title: 'In the Heights',
-    start: '2025-08-01',
-    end: '2025-08-18',
-    description: '',
+    title: "In the Heights",
+    start: "2025-08-01",
+    end: "2025-08-18",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -1384,10 +1385,10 @@ const events = [
     },
   },
   {
-    title: 'Melbourne International Film Festival',
-    start: '2025-08-07',
-    end: '2025-08-25',
-    description: '',
+    title: "Melbourne International Film Festival",
+    start: "2025-08-07",
+    end: "2025-08-25",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -1400,10 +1401,10 @@ const events = [
     },
   },
   {
-    title: 'Now or Never',
-    start: '2025-08-21',
-    end: '2025-09-01',
-    description: '',
+    title: "Now or Never",
+    start: "2025-08-21",
+    end: "2025-09-01",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -1416,10 +1417,10 @@ const events = [
     },
   },
   {
-    title: 'Affordable Art Fair Melbourne',
-    start: '2025-08-28',
-    end: '2025-09-01',
-    description: '',
+    title: "Affordable Art Fair Melbourne",
+    start: "2025-08-28",
+    end: "2025-09-01",
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -1436,10 +1437,10 @@ const events = [
     },
   },
   {
-    title: 'The Play that Goes Wrong',
-    start: '2025-09-03',
-    end: '2025-09-29',
-    description: '',
+    title: "The Play that Goes Wrong",
+    start: "2025-09-03",
+    end: "2025-09-29",
+    description: "",
     tags: ["Performance", "Theatre"],
     links: [
       {
@@ -1456,10 +1457,10 @@ const events = [
     },
   },
   {
-    title: 'The Makers and Shakers Market',
-    start: '2025-09-06',
-    end: '2025-09-08',
-    description: '',
+    title: "The Makers and Shakers Market",
+    start: "2025-09-06",
+    end: "2025-09-08",
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -1476,10 +1477,10 @@ const events = [
     },
   },
   {
-    title: 'MJ the Musical',
-    start: '2025-09-09',
-    end: '2025-11-03',
-    description: '',
+    title: "MJ the Musical",
+    start: "2025-09-09",
+    end: "2025-11-03",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -1496,10 +1497,10 @@ const events = [
     },
   },
   {
-    title: 'DOG MAN: THE MUSICAL',
-    start: '2025-09-30',
-    end: '2025-10-05',
-    description: '',
+    title: "DOG MAN: THE MUSICAL",
+    start: "2025-09-30",
+    end: "2025-10-05",
+    description: "",
     tags: ["Musical", "Theatre", "Family and kids"],
     links: [
       {
@@ -1516,10 +1517,10 @@ const events = [
     },
   },
   {
-    title: 'CATS the Musical',
-    start: '2025-12-21',
-    end: '2026-01-12',
-    description: '',
+    title: "CATS the Musical",
+    start: "2025-12-21",
+    end: "2026-01-12",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -1535,6 +1536,6 @@ const events = [
       address: "Hamer Hall, Melbourne",
     },
   },
-]
+];
 
-export default events
+export default events;

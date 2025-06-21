@@ -1,11 +1,11 @@
 const events = [
   {
-    title: 'Melbourne Out Loud: Life through the lens of Rennie Ellis',
-    startRecur: '2024-03-01',
-    endRecur: '2025-05-26',
-    startTime: '10:00:00+11:00',
-    endTime: '18:00:00+11:00',
-    description: '',
+    title: "Melbourne Out Loud: Life through the lens of Rennie Ellis",
+    startRecur: "2024-03-01",
+    endRecur: "2025-05-26",
+    startTime: "10:00:00+11:00",
+    endTime: "18:00:00+11:00",
+    description: "",
     tags: ["Exhibition"],
     links: [
       {
@@ -22,12 +22,12 @@ const events = [
     },
   },
   {
-    title: 'Joy',
-    startRecur: '2024-03-01',
-    endRecur: '2025-08-30',
-    startTime: '10:00:00+11:00',
-    endTime: '17:00:00+11:00',
-    description: '',
+    title: "Joy",
+    startRecur: "2024-03-01",
+    endRecur: "2025-08-30",
+    startTime: "10:00:00+11:00",
+    endTime: "17:00:00+11:00",
+    description: "",
     tags: ["Exhibition"],
     links: [
       {
@@ -44,10 +44,10 @@ const events = [
     },
   },
   {
-    title: 'WICKED the Musical',
-    start: '2024-03-02',
-    end: '2024-08-26',
-    description: '',
+    title: "WICKED the Musical",
+    start: "2024-03-02",
+    end: "2024-08-26",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -64,10 +64,10 @@ const events = [
     },
   },
   {
-    title: 'Sunset Boulevard',
-    start: '2024-05-21',
-    end: '2024-08-11',
-    description: '',
+    title: "Sunset Boulevard",
+    start: "2024-05-21",
+    end: "2024-08-11",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -84,12 +84,12 @@ const events = [
     },
   },
   {
-    title: 'Beings by Universal Everything',
-    startRecur: '2024-05-22',
-    endRecur: '2024-09-30',
-    startTime: '10:00:00+11:00',
-    endTime: '17:00:00+11:00',
-    description: '',
+    title: "Beings by Universal Everything",
+    startRecur: "2024-05-22",
+    endRecur: "2024-09-30",
+    startTime: "10:00:00+11:00",
+    endTime: "17:00:00+11:00",
+    description: "",
     tags: ["Exhibition"],
     links: [
       {
@@ -106,29 +106,29 @@ const events = [
     },
   },
   {
-    title: 'RISING: Melbourne',
-    start: '2024-06-01',
-    end: '2024-06-17',
-    description: '',
+    title: "RISING: Melbourne",
+    start: "2024-06-01",
+    end: "2024-06-17",
+    description: "",
     tags: ["Festival"],
     links: [
       {
         label: "Website",
         url: "https://2024.rising.melbourne/",
-      }
+      },
     ],
     location: {
       address: "Various locations around Melbourne",
     },
   },
   {
-    title: 'Lightscape',
-    startRecur: '2024-06-14',
-    endRecur: '2024-08-05',
-    startTime: '17:00:00+11:00',
-    endTime: '22:00:00+11:00',
+    title: "Lightscape",
+    startRecur: "2024-06-14",
+    endRecur: "2024-08-05",
+    startTime: "17:00:00+11:00",
+    endTime: "22:00:00+11:00",
     daysOfWeek: [0, 3, 4, 5, 6],
-    description: '',
+    description: "",
     tags: ["Outdoor"],
     links: [
       {
@@ -145,10 +145,10 @@ const events = [
     },
   },
   {
-    title: 'Pharoah',
-    start: '2024-06-14',
-    end: '2024-10-07',
-    description: 'Exhibition celebrating ancient Egyptian art and culture',
+    title: "Pharoah",
+    start: "2024-06-14",
+    end: "2024-10-07",
+    description: "Exhibition celebrating ancient Egyptian art and culture",
     tags: ["Exhibition", "Art"],
     links: [
       {
@@ -166,9 +166,9 @@ const events = [
   },
   {
     title: "Disney's Beauty and the Beast the Musical",
-    start: '2024-06-29',
-    end: '2025-04-21',
-    description: '',
+    start: "2024-06-29",
+    end: "2025-04-21",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -185,12 +185,12 @@ const events = [
     },
   },
   {
-    title: 'Firelight Festival',
-    startRecur: '2024-06-28',
-    endRecur: '2024-07-01',
-    startTime: '17:00:00+11:00',
-    endTime: '22:00:00+11:00',
-    description: '',
+    title: "Firelight Festival",
+    startRecur: "2024-06-28",
+    endRecur: "2024-07-01",
+    startTime: "17:00:00+11:00",
+    endTime: "22:00:00+11:00",
+    description: "",
     tags: ["Festival", "Outdoor", "Free"],
     links: [
       {
@@ -207,10 +207,10 @@ const events = [
     },
   },
   {
-    title: 'Firelight Labyrinth',
-    start: '2024-06-28',
-    end: '2024-07-15',
-    description: '',
+    title: "Firelight Labyrinth",
+    start: "2024-06-28",
+    end: "2024-07-15",
+    description: "",
     tags: ["Installation"],
     links: [
       {
@@ -227,12 +227,12 @@ const events = [
     },
   },
   {
-    title: 'Victoria the T. rex',
-    startTime: '09:00:00+11:00',
-    endTime: '17:00:00+11:00',
-    startRecur: '2024-06-28',
-    endRecur: '2024-10-21',
-    description: '',
+    title: "Victoria the T. rex",
+    startTime: "09:00:00+11:00",
+    endTime: "17:00:00+11:00",
+    startRecur: "2024-06-28",
+    endRecur: "2024-10-21",
+    description: "",
     tags: ["Exhibition"],
     links: [
       {
@@ -249,13 +249,13 @@ const events = [
     },
   },
   {
-    title: 'Winter Night Market | Queen Victoria Market',
-    startTime: '17:00:00+11:00',
-    endTime: '22:00:00+11:00',
-    startRecur: '2024-06-05',
-    endRecur: '2024-08-29',
+    title: "Winter Night Market | Queen Victoria Market",
+    startTime: "17:00:00+11:00",
+    endTime: "22:00:00+11:00",
+    startRecur: "2024-06-05",
+    endRecur: "2024-08-29",
     daysOfWeek: [3],
-    description: '',
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -272,10 +272,10 @@ const events = [
     },
   },
   {
-    title: 'Replay Festival',
-    start: '2024-07-02',
-    end: '2024-08-04',
-    description: '',
+    title: "Replay Festival",
+    start: "2024-07-02",
+    end: "2024-08-04",
+    description: "",
     tags: ["Festival", "Comedy"],
     links: [
       {
@@ -292,10 +292,10 @@ const events = [
     },
   },
   {
-    title: 'The Finders Keepers Design Market',
-    start: '2024-07-12',
-    end: '2024-07-15',
-    description: '',
+    title: "The Finders Keepers Design Market",
+    start: "2024-07-12",
+    end: "2024-07-15",
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -312,10 +312,10 @@ const events = [
     },
   },
   {
-    title: 'The Little Food Market',
-    start: '2024-07-19',
-    end: '2024-07-22',
-    description: '',
+    title: "The Little Food Market",
+    start: "2024-07-19",
+    end: "2024-07-22",
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -332,10 +332,10 @@ const events = [
     },
   },
   {
-    title: 'Open House Melbourne',
-    start: '2024-07-27',
-    end: '2024-07-29',
-    description: '',
+    title: "Open House Melbourne",
+    start: "2024-07-27",
+    end: "2024-07-29",
+    description: "",
     tags: ["Exhibition"],
     links: [
       {
@@ -348,10 +348,10 @@ const events = [
     },
   },
   {
-    title: 'SIX the Musical',
-    start: '2024-08-02',
-    end: '2024-10-21',
-    description: '',
+    title: "SIX the Musical",
+    start: "2024-08-02",
+    end: "2024-10-21",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -368,10 +368,10 @@ const events = [
     },
   },
   {
-    title: 'Melbourne International Film Festival',
-    start: '2024-08-08',
-    end: '2024-08-26',
-    description: '',
+    title: "Melbourne International Film Festival",
+    start: "2024-08-08",
+    end: "2024-08-26",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -384,10 +384,10 @@ const events = [
     },
   },
   {
-    title: 'Now or Never',
-    start: '2024-08-22',
-    end: '2024-09-01',
-    description: '',
+    title: "Now or Never",
+    start: "2024-08-22",
+    end: "2024-09-01",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -400,10 +400,10 @@ const events = [
     },
   },
   {
-    title: 'Affordable Art Fair Melbourne',
-    start: '2024-08-29',
-    end: '2024-09-02',
-    description: '',
+    title: "Affordable Art Fair Melbourne",
+    start: "2024-08-29",
+    end: "2024-09-02",
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -420,12 +420,12 @@ const events = [
     },
   },
   {
-    title: 'South East Asia Festival | Queen Victoria Market',
-    startRecur: '2024-09-07',
-    endRecur: '2024-09-09',
-    startTime: '09:00:00+10:00',
-    endTime: '16:00:00+10:00',
-    description: '',
+    title: "South East Asia Festival | Queen Victoria Market",
+    startRecur: "2024-09-07",
+    endRecur: "2024-09-09",
+    startTime: "09:00:00+10:00",
+    endTime: "16:00:00+10:00",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -442,10 +442,10 @@ const events = [
     },
   },
   {
-    title: 'CherryHill Orchards Blossom Festival',
-    start: '2024-09-09',
-    end: '2024-09-30',
-    description: '',
+    title: "CherryHill Orchards Blossom Festival",
+    start: "2024-09-09",
+    end: "2024-09-30",
+    description: "",
     tags: ["Festival", "Outdoor"],
     links: [
       {
@@ -462,12 +462,12 @@ const events = [
     },
   },
   {
-    title: 'Honk! Untitled Goose Exhibition',
-    startRecur: '2024-09-17',
-    endRecur: '2025-02-17',
-    startTime: '10:00:00+11:00',
-    endTime: '17:00:00+11:00',
-    description: '',
+    title: "Honk! Untitled Goose Exhibition",
+    startRecur: "2024-09-17",
+    endRecur: "2025-02-17",
+    startTime: "10:00:00+11:00",
+    endTime: "17:00:00+11:00",
+    description: "",
     tags: ["Exhibition", "Free"],
     links: [
       {
@@ -484,13 +484,13 @@ const events = [
     },
   },
   {
-    title: 'Accidentally Wes Anderson: The Exhibition',
-    startRecur: '2024-09-18',
-    endRecur: '2024-11-04',
-    startTime: '10:00:00+11:00',
-    endTime: '17:30:00+11:00',
+    title: "Accidentally Wes Anderson: The Exhibition",
+    startRecur: "2024-09-18",
+    endRecur: "2024-11-04",
+    startTime: "10:00:00+11:00",
+    endTime: "17:30:00+11:00",
     daysOfWeek: [0, 3, 4, 5, 6],
-    description: '',
+    description: "",
     tags: ["Exhibition"],
     links: [
       {
@@ -507,13 +507,13 @@ const events = [
     },
   },
   {
-    title: 'Fringe Flavours Night Market | Queen Victoria Market',
-    startTime: '17:00:00+11:00',
-    endTime: '22:00:00+11:00',
-    startRecur: '2024-09-18',
-    endRecur: '2024-10-17',
+    title: "Fringe Flavours Night Market | Queen Victoria Market",
+    startTime: "17:00:00+11:00",
+    endTime: "22:00:00+11:00",
+    startRecur: "2024-09-18",
+    endRecur: "2024-10-17",
     daysOfWeek: [3],
-    description: '',
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -530,10 +530,10 @@ const events = [
     },
   },
   {
-    title: 'CherryHill Orchards Blossom By Light',
-    start: '2024-09-20',
-    end: '2024-09-23',
-    description: '',
+    title: "CherryHill Orchards Blossom By Light",
+    start: "2024-09-20",
+    end: "2024-09-23",
+    description: "",
     tags: ["Outdoor"],
     links: [
       {
@@ -550,12 +550,12 @@ const events = [
     },
   },
   {
-    title: 'Mid-Autumn Moon Festival | Queen Victoria Market',
-    startRecur: '2024-09-21',
-    endRecur: '2024-09-23',
-    startTime: '09:00:00+10:00',
-    endTime: '16:00:00+10:00',
-    description: '',
+    title: "Mid-Autumn Moon Festival | Queen Victoria Market",
+    startRecur: "2024-09-21",
+    endRecur: "2024-09-23",
+    startTime: "09:00:00+10:00",
+    endTime: "16:00:00+10:00",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -572,10 +572,10 @@ const events = [
     },
   },
   {
-    title: 'Tina: The Tina Turner Musical',
-    start: '2024-09-21',
-    end: '2025-03-03',
-    description: '',
+    title: "Tina: The Tina Turner Musical",
+    start: "2024-09-21",
+    end: "2025-03-03",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -592,10 +592,10 @@ const events = [
     },
   },
   {
-    title: 'Melbourne Royal Show',
-    start: '2024-09-26',
-    end: '2024-10-07',
-    description: '',
+    title: "Melbourne Royal Show",
+    start: "2024-09-26",
+    end: "2024-10-07",
+    description: "",
     tags: ["Festival", "Outdoor"],
     links: [
       {
@@ -612,10 +612,10 @@ const events = [
     },
   },
   {
-    title: 'Melbourne Fringe Festival',
-    start: '2024-10-01',
-    end: '2024-10-21',
-    description: '',
+    title: "Melbourne Fringe Festival",
+    start: "2024-10-01",
+    end: "2024-10-21",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -628,10 +628,10 @@ const events = [
     },
   },
   {
-    title: 'Melbourne International Games Week (MIGW)',
-    start: '2024-10-05',
-    end: '2024-10-14',
-    description: '',
+    title: "Melbourne International Games Week (MIGW)",
+    start: "2024-10-05",
+    end: "2024-10-14",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -644,10 +644,10 @@ const events = [
     },
   },
   {
-    title: 'Big Games Night Out',
-    start: '2024-10-10 15:00',
-    end: '2024-10-10 23:55',
-    description: '',
+    title: "Big Games Night Out",
+    start: "2024-10-10 15:00",
+    end: "2024-10-10 23:55",
+    description: "",
     tags: ["Gaming", "Free"],
     links: [
       {
@@ -664,10 +664,10 @@ const events = [
     },
   },
   {
-    title: 'The Finders Keepers Design Market',
-    start: '2024-10-11',
-    end: '2024-10-14',
-    description: '',
+    title: "The Finders Keepers Design Market",
+    start: "2024-10-11",
+    end: "2024-10-14",
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -684,10 +684,10 @@ const events = [
     },
   },
   {
-    title: 'PAX Aus',
-    start: '2024-10-11',
-    end: '2024-10-14',
-    description: '',
+    title: "PAX Aus",
+    start: "2024-10-11",
+    end: "2024-10-14",
+    description: "",
     tags: ["Convention", "Gaming"],
     links: [
       {
@@ -704,10 +704,10 @@ const events = [
     },
   },
   {
-    title: 'REKOSPECTIVE: The Art of Reko Rennie',
-    start: '2024-10-11',
-    end: '2025-01-28',
-    description: '',
+    title: "REKOSPECTIVE: The Art of Reko Rennie",
+    start: "2024-10-11",
+    end: "2025-01-28",
+    description: "",
     tags: ["Exhibition", "Art"],
     links: [
       {
@@ -724,10 +724,10 @@ const events = [
     },
   },
   {
-    title: '100 Years Film Festival',
-    start: '2024-10-13',
-    end: '2024-11-06',
-    description: '',
+    title: "100 Years Film Festival",
+    start: "2024-10-13",
+    end: "2024-11-06",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -744,10 +744,10 @@ const events = [
     },
   },
   {
-    title: 'Melbourne International Jazz Festival',
-    start: '2024-10-18',
-    end: '2024-10-28',
-    description: '',
+    title: "Melbourne International Jazz Festival",
+    start: "2024-10-18",
+    end: "2024-10-28",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -760,10 +760,10 @@ const events = [
     },
   },
   {
-    title: 'The Big Vegan Market',
-    start: '2024-10-19',
-    end: '2024-10-21',
-    description: '',
+    title: "The Big Vegan Market",
+    start: "2024-10-19",
+    end: "2024-10-21",
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -780,10 +780,10 @@ const events = [
     },
   },
   {
-    title: 'Melbourne Fashion Week',
-    start: '2024-10-21',
-    end: '2024-10-28',
-    description: '',
+    title: "Melbourne Fashion Week",
+    start: "2024-10-21",
+    end: "2024-10-28",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -796,10 +796,10 @@ const events = [
     },
   },
   {
-    title: 'Asia Oasis Street Food Festival',
-    start: '2024-10-24',
-    end: '2024-10-28',
-    description: '',
+    title: "Asia Oasis Street Food Festival",
+    start: "2024-10-24",
+    end: "2024-10-28",
+    description: "",
     tags: ["Festival", "Food", "Free"],
     links: [
       {
@@ -816,10 +816,10 @@ const events = [
     },
   },
   {
-    title: 'Victorian Festival of Diwali',
-    start: '2024-10-26T12:30:00+11:00',
-    end: '2024-10-26T22:00:00+11:00',
-    description: '',
+    title: "Victorian Festival of Diwali",
+    start: "2024-10-26T12:30:00+11:00",
+    end: "2024-10-26T22:00:00+11:00",
+    description: "",
     tags: ["Festival", "Outdoor"],
     links: [
       {
@@ -836,12 +836,12 @@ const events = [
     },
   },
   {
-    title: 'Cats & Dogs',
-    startRecur: '2024-11-01',
-    endRecur: '2025-07-21',
-    startTime: '10:00:00+11:00',
-    endTime: '17:00:00+11:00',
-    description: '',
+    title: "Cats & Dogs",
+    startRecur: "2024-11-01",
+    endRecur: "2025-07-21",
+    startTime: "10:00:00+11:00",
+    endTime: "17:00:00+11:00",
+    description: "",
     tags: ["Exhibition", "Art"],
     links: [
       {
@@ -858,10 +858,10 @@ const events = [
     },
   },
   {
-    title: 'Sister Act the Musical',
-    start: '2024-11-03',
-    end: '2025-01-27',
-    description: '',
+    title: "Sister Act the Musical",
+    start: "2024-11-03",
+    end: "2025-01-27",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -878,10 +878,10 @@ const events = [
     },
   },
   {
-    title: 'Peter and the Starcatcher',
-    start: '2024-11-08',
-    end: '2024-12-01',
-    description: '',
+    title: "Peter and the Starcatcher",
+    start: "2024-11-08",
+    end: "2024-12-01",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -898,10 +898,10 @@ const events = [
     },
   },
   {
-    title: 'State Rose & Garden Show',
-    start: '2024-11-09',
-    end: '2024-11-11',
-    description: '',
+    title: "State Rose & Garden Show",
+    start: "2024-11-09",
+    end: "2024-11-11",
+    description: "",
     tags: ["Exhibition", "Outdoor"],
     links: [
       {
@@ -918,10 +918,10 @@ const events = [
     },
   },
   {
-    title: 'Polish Festival',
-    start: '2024-11-10T10:00:00+11:00',
-    end: '2024-11-10T18:00:00+11:00',
-    description: '',
+    title: "Polish Festival",
+    start: "2024-11-10T10:00:00+11:00",
+    end: "2024-11-10T18:00:00+11:00",
+    description: "",
     tags: ["Festival", "Free", "Outdoor"],
     links: [
       {
@@ -938,10 +938,10 @@ const events = [
     },
   },
   {
-    title: 'African Music and Cultural Festival',
-    start: '2024-11-15',
-    end: '2024-11-18',
-    description: '',
+    title: "African Music and Cultural Festival",
+    start: "2024-11-15",
+    end: "2024-11-18",
+    description: "",
     tags: ["Festival", "Free", "Outdoor"],
     links: [
       {
@@ -958,13 +958,13 @@ const events = [
     },
   },
   {
-    title: 'Summer Night Market | Queen Victoria Market',
-    startTime: '17:00:00+11:00',
-    endTime: '22:00:00+11:00',
-    startRecur: '2024-11-20',
-    endRecur: '2025-03-13',
+    title: "Summer Night Market | Queen Victoria Market",
+    startTime: "17:00:00+11:00",
+    endTime: "22:00:00+11:00",
+    startRecur: "2024-11-20",
+    endRecur: "2025-03-13",
     daysOfWeek: [3],
-    description: '',
+    description: "",
     tags: ["Market", "Outdoor"],
     links: [
       {
@@ -981,10 +981,10 @@ const events = [
     },
   },
   {
-    title: 'Always Live',
-    start: '2024-11-22',
-    end: '2024-12-09',
-    description: '',
+    title: "Always Live",
+    start: "2024-11-22",
+    end: "2024-12-09",
+    description: "",
     tags: ["Festival"],
     links: [
       {
@@ -997,10 +997,10 @@ const events = [
     },
   },
   {
-    title: 'A Christmas Carol',
-    start: '2024-11-22',
-    end: '2024-12-30',
-    description: '',
+    title: "A Christmas Carol",
+    start: "2024-11-22",
+    end: "2024-12-30",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -1017,12 +1017,12 @@ const events = [
     },
   },
   {
-    title: 'The Future & Other Fictions',
-    startRecur: '2024-11-24',
-    endRecur: '2025-04-28',
-    startTime: '10:00:00+11:00',
-    endTime: '17:00:00+11:00',
-    description: '',
+    title: "The Future & Other Fictions",
+    startRecur: "2024-11-24",
+    endRecur: "2025-04-28",
+    startTime: "10:00:00+11:00",
+    endTime: "17:00:00+11:00",
+    description: "",
     tags: ["Exhibition", "Art"],
     links: [
       {
@@ -1039,10 +1039,10 @@ const events = [
     },
   },
   {
-    title: 'The Big Design Market',
-    start: '2024-11-29',
-    end: '2024-12-02',
-    description: '',
+    title: "The Big Design Market",
+    start: "2024-11-29",
+    end: "2024-12-02",
+    description: "",
     tags: ["Market"],
     links: [
       {
@@ -1059,11 +1059,11 @@ const events = [
     },
   },
   {
-    title: 'Moonlight Cinema',
-    startTime: '19:30:00+11:00',
-    endTime: '23:00:00+11:00',
-    startRecur: '2024-11-29',
-    endRecur: '2025-03-31',
+    title: "Moonlight Cinema",
+    startTime: "19:30:00+11:00",
+    endTime: "23:00:00+11:00",
+    startRecur: "2024-11-29",
+    endRecur: "2025-03-31",
     daysOfWeek: [0, 2, 3, 4, 5, 6],
     description: "",
     tags: ["Film", "Outdoor"],
@@ -1082,10 +1082,10 @@ const events = [
     },
   },
   {
-    title: 'Taste of Combat',
-    start: '2024-12-02',
-    end: '2025-11-24',
-    description: '',
+    title: "Taste of Combat",
+    start: "2024-12-02",
+    end: "2025-11-24",
+    description: "",
     tags: ["Exhibition"],
     links: [
       {
@@ -1102,10 +1102,10 @@ const events = [
     },
   },
   {
-    title: 'DARKFIELD',
-    start: '2024-12-13',
-    end: '2025-02-24',
-    description: 'Featuring SÉANCE and FLIGHT',
+    title: "DARKFIELD",
+    start: "2024-12-13",
+    end: "2025-02-24",
+    description: "Featuring SÉANCE and FLIGHT",
     tags: ["Theatre"],
     links: [
       {
@@ -1122,10 +1122,10 @@ const events = [
     },
   },
   {
-    title: 'Dear Evan Hansen Musical',
-    start: '2024-12-14',
-    end: '2025-02-17',
-    description: '',
+    title: "Dear Evan Hansen Musical",
+    start: "2024-12-14",
+    end: "2025-02-17",
+    description: "",
     tags: ["Musical", "Theatre"],
     links: [
       {
@@ -1142,11 +1142,11 @@ const events = [
     },
   },
   {
-    title: 'Antopia',
-    startTime: '09:00:00+11:00',
-    endTime: '17:00:00+11:00',
-    startRecur: '2024-12-14',
-    endRecur: '2025-03-11',
+    title: "Antopia",
+    startTime: "09:00:00+11:00",
+    endTime: "17:00:00+11:00",
+    startRecur: "2024-12-14",
+    endRecur: "2025-03-11",
     description: "",
     tags: ["Exhibition"],
     links: [
@@ -1164,12 +1164,12 @@ const events = [
     },
   },
   {
-    title: 'Yayoi Kusama',
-    startRecur: '2024-12-15',
-    endRecur: '2025-04-22',
-    startTime: '10:00:00+10:00',
-    endTime: '17:00:00+10:00',
-    description: '',
+    title: "Yayoi Kusama",
+    startRecur: "2024-12-15",
+    endRecur: "2025-04-22",
+    startTime: "10:00:00+10:00",
+    endTime: "17:00:00+10:00",
+    description: "",
     tags: ["Exhibition", "Art"],
     links: [
       {
@@ -1186,10 +1186,10 @@ const events = [
     },
   },
   {
-    title: 'Christmas Outdoor Cinema',
-    start: '2024-12-16',
-    end: '2024-12-24',
-    description: '',
+    title: "Christmas Outdoor Cinema",
+    start: "2024-12-16",
+    end: "2024-12-24",
+    description: "",
     tags: ["Free", "Film", "Outdoor"],
     links: [
       {
@@ -1206,10 +1206,10 @@ const events = [
     },
   },
   {
-    title: 'As Camp as Christmas',
-    start: '2024-12-20T18:00:00+11:00',
-    end: '2024-12-20T22:00:00+11:00',
-    description: '',
+    title: "As Camp as Christmas",
+    start: "2024-12-20T18:00:00+11:00",
+    end: "2024-12-20T22:00:00+11:00",
+    description: "",
     tags: ["Free", "Performance", "Outdoor"],
     links: [
       {
@@ -1227,9 +1227,9 @@ const events = [
   },
   {
     title: "Vision Australia's Carols by Candlelight",
-    start: '2024-12-24T20:00+11:00',
-    end: '2024-12-24T23:30+11:00',
-    description: '',
+    start: "2024-12-24T20:00+11:00",
+    end: "2024-12-24T23:30+11:00",
+    description: "",
     tags: ["Performance", "Outdoor"],
     links: [
       {
@@ -1246,10 +1246,10 @@ const events = [
     },
   },
   {
-    title: 'Van Gogh at THE LUME',
-    start: '2024-12-26',
-    end: '2025-06-02',
-    description: '',
+    title: "Van Gogh at THE LUME",
+    start: "2024-12-26",
+    end: "2025-06-02",
+    description: "",
     tags: ["Art", "Exhibition"],
     links: [
       {
@@ -1265,6 +1265,6 @@ const events = [
       address: "THE LUME, Melbourne",
     },
   },
-]
+];
 
-export default events
+export default events;

@@ -6,7 +6,7 @@ html {
 body {
   margin: 0;
   padding: 0 8px;
-  background: #EEE;
+  background: #eee;
 }
 
 body,
@@ -77,7 +77,7 @@ body,
 
 #popover {
   position: absolute;
-  border: 1px solid #DDD;
+  border: 1px solid #ddd;
   border-radius: 5px;
   padding: 24px;
   width: 600px;
