@@ -1249,6 +1249,26 @@ const events = [
     },
   },
   {
+    title: "Coffee Weekend",
+    start: "2025-07-05",
+    end: "2025-07-07",
+    description: "",
+    tags: ["Festival", "Food"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.coffeeweekend.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/f3obPbjxCv9SPoJx7",
+      },
+    ],
+    location: {
+      address: "Meat Market, Melbourne",
+    },
+  },
+  {
     title: "Annie the Musical",
     start: "2025-07-10",
     end: "2025-08-04",
