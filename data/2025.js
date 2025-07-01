@@ -792,7 +792,7 @@ const events = [
   {
     title: "Beetlejuice The Musical",
     start: "2025-05-07",
-    end: "2025-08-04",
+    end: "2025-09-12",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
@@ -812,7 +812,7 @@ const events = [
   {
     title: "Hadestown",
     start: "2025-05-08",
-    end: "2025-07-07",
+    end: "2025-07-14",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
@@ -1072,7 +1072,7 @@ const events = [
   {
     title: "Hedwig and the Angry Inch",
     start: "2025-06-13",
-    end: "2025-06-30",
+    end: "2025-07-07",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
