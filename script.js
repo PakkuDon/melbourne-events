@@ -62,6 +62,18 @@ document.addEventListener("DOMContentLoaded", () => {
       center: "title",
       right: "dayGridMonth,timeGridWeek,timeGrid,listWeek",
     },
+    events: (fetchInfo, successCallback, errorCallback) => {
+      const searchQuery = new URLSearchParams(location.search);
+      const selectedTag = searchQuery.get("tag");
+      let eventsToRender = events;
+
+      if (selectedTag) {
+        eventsToRender = events.filter((event) =>
+          event.tags.includes(selectedTag),
+        );
+      }
+      successCallback(eventsToRender);
+    },
     initialView:
       document.body.clientWidth > mdBreakpoint ? "timeGridWeek" : "listWeek",
     // events is defined in events.js and included in index.html
@@ -69,23 +81,7 @@ document.addEventListener("DOMContentLoaded", () => {
       showEventDetails(popoverElement, info.event);
     },
   });
-
-  // Render calendar with events that match selected criteria
-  const renderCalendar = () => {
-    const searchQuery = new URLSearchParams(location.search);
-    const tagQuery = searchQuery.get("tag");
-    let eventsToRender = events;
-
-    if (tagQuery) {
-      eventsToRender = events.filter((event) => event.tags.includes(tagQuery));
-    }
-    calendar.batchRendering(() => {
-      calendar.getEvents().forEach((event) => event.remove());
-      eventsToRender.forEach((event) => calendar.addEvent(event));
-    });
-
-    calendar.render();
-  };
+  calendar.render();
 
   // Populate filter dropdown
   const tagDropdown = document.querySelector("#tag-list");
@@ -118,9 +114,6 @@ document.addEventListener("DOMContentLoaded", () => {
       url.searchParams.delete("tag");
     }
     window.history.pushState({}, "", url);
-    renderCalendar();
+    calendar.refetchEvents();
   });
-
-  // Show calendar
-  renderCalendar();
 });
