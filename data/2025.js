@@ -1271,7 +1271,7 @@ const events = [
   {
     title: "Annie the Musical",
     start: "2025-07-10",
-    end: "2025-08-04",
+    end: "2025-10-27",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
@@ -1311,7 +1311,7 @@ const events = [
   {
     title: "Here You Come Again",
     start: "2025-07-12",
-    end: "2025-10-27",
+    end: "2025-11-03",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
@@ -1387,7 +1387,7 @@ const events = [
   {
     title: "In the Heights",
     start: "2025-08-01",
-    end: "2025-08-18",
+    end: "2025-09-07",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
