@@ -1233,7 +1233,7 @@ const events = [
     start: "2025-07-04",
     end: "2025-07-21",
     description: "",
-    tags: ["Market"],
+    tags: ["Art", "Family and kids", "Outdoor"],
     links: [
       {
         label: "Website",
