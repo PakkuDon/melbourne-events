@@ -1169,7 +1169,7 @@ const events = [
     },
   },
   {
-    title: " Indie Symphony II",
+    title: "Indie Symphony II",
     start: "2025-07-03",
     end: "2025-07-05",
     description: "",
