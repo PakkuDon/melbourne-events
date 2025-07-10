@@ -1169,6 +1169,27 @@ const events = [
     },
   },
   {
+    title:
+      "State Library Victoria Unlocked: A Guided Tour Before the Doors Open",
+    start: "2025-07-01",
+    end: "2025-09-01",
+    description: "",
+    tags: ["Exhibition"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.slv.vic.gov.au/whats-on/hidden-histories-guided-tour",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/b5RHnCYqDCi9KFAm6",
+      },
+    ],
+    location: {
+      address: "State Library Victoria, Melbourne",
+    },
+  },
+  {
     title: "Indie Symphony II",
     start: "2025-07-03",
     end: "2025-07-05",
@@ -1306,6 +1327,26 @@ const events = [
     ],
     location: {
       address: "Royal Exhibition Building, Carlton",
+    },
+  },
+  {
+    title: "Bastille Day French Festival",
+    start: "2025-07-12",
+    end: "2025-07-14",
+    description: "",
+    tags: ["Market", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://qvm.com.au/whats-on/bastille-day-french-festival/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
     },
   },
   {
@@ -1574,6 +1615,26 @@ const events = [
     ],
     location: {
       address: "Regent Theatre, 191 Collins St, Melbourne",
+    },
+  },
+  {
+    title: "Hair: The Tribal Love Rock Musical",
+    start: "2025-10-25",
+    end: "2025-11-24",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.hairthemusical.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+      },
+    ],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
     },
   },
   {
