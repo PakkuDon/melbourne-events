@@ -1133,6 +1133,26 @@ const events = [
     },
   },
   {
+    title: "Julia",
+    start: "2025-06-25",
+    end: "2025-07-20",
+    description: "",
+    tags: ["Performance", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.artscentremelbourne.com.au/whats-on/2025/theatre/julia",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
+      },
+    ],
+    location: {
+      address: "Playhouse Theatre, Arts Centre, Melbourne",
+    },
+  },
+  {
     title: "1984 by George Orwell",
     start: "2025-07-01",
     end: "2025-07-07",
@@ -1390,6 +1410,26 @@ const events = [
     },
   },
   {
+    title: "Footloose The Musical (Encore Season)",
+    start: "2025-07-25",
+    end: "2025-08-04",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://footloosethemusical.com/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+      },
+    ],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
     title: "Open House Melbourne Weekend",
     start: "2025-07-26",
     end: "2025-07-28",
@@ -1498,6 +1538,26 @@ const events = [
     },
   },
   {
+    title: "Treasures of the Viking Age: The Galloway Hoard",
+    start: "2025-08-29",
+    end: "2026-01-26",
+    description: "",
+    tags: ["Exhibition", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://museumsvictoria.com.au/melbournemuseum/whats-on/treasures-of-the-viking-age-the-galloway-hoard/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/swBLScA46YegEVtH8",
+      },
+    ],
+    location: {
+      address: "Melbourne Museum, 11 Nicholson St, Carlton",
+    },
+  },
+  {
     title: "The Play that Goes Wrong",
     start: "2025-09-03",
     end: "2025-09-29",
@@ -1595,6 +1655,26 @@ const events = [
     ],
     location: {
       address: "Playhouse Theatre, Arts Centre, Melbourne",
+    },
+  },
+  {
+    title: "The Lucky Country",
+    start: "2025-10-13",
+    end: "2025-10-19",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.mtc.com.au/plays-and-tickets/whats-on/other-companies/the-lucky-country/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
+      },
+    ],
+    location: {
+      address: "Southbank Theatre, Melbourne",
     },
   },
   {
