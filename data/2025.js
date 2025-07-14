@@ -1566,7 +1566,7 @@ const events = [
     links: [
       {
         label: "Website",
-        url: "https://www.athenaeumtheatre.com.au/shows/the-play-that-goes-wrong",
+        url: "https://playgoeswrong.com/",
       },
       {
         label: "Google Maps",
