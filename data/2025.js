@@ -1312,7 +1312,7 @@ const events = [
   {
     title: "Annie the Musical",
     start: "2025-07-10",
-    end: "2025-10-27",
+    end: "2025-11-09",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
