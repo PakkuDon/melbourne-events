@@ -1466,6 +1466,26 @@ const events = [
     },
   },
   {
+    title: "Iwagumi Air Scape By ENESS",
+    start: "2025-08-01",
+    end: "2025-08-18",
+    description: "",
+    tags: ["Outdoor", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.prahransquare.com.au/whats-on/upcoming/iwagumi-air-scape/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/zqVMST7ZVRKDvwcD9",
+      },
+    ],
+    location: {
+      address: "Prahran Square, Prahran",
+    },
+  },
+  {
     title: "In the Heights",
     start: "2025-08-01",
     end: "2025-09-07",
@@ -1715,6 +1735,26 @@ const events = [
     ],
     location: {
       address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Asia Street Food Festival by the Yarra",
+    start: "2025-12-04",
+    end: "2025-12-08",
+    description: "",
+    tags: ["Festival", "Food", "Free"],
+    links: [
+      {
+        label: "Website",
+        url: "https://asiaoasis.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/CafM2SaHPRGiHL6y7",
+      },
+    ],
+    location: {
+      address: "Alexandra Gardens, Melbourne",
     },
   },
   {
