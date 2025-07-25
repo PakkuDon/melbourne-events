@@ -1412,7 +1412,7 @@ const events = [
   {
     title: "Footloose The Musical (Encore Season)",
     start: "2025-07-25",
-    end: "2025-08-04",
+    end: "2025-08-18",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
