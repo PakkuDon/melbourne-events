@@ -635,7 +635,7 @@ const events = [
     startTime: "18:00:00+10:00",
     endTime: "21:00:00+10:00",
     description: "",
-    tags: ["Outdoor"],
+    tags: ["Outdoor", "Illumination"],
     links: [
       {
         label: "Website",
@@ -1097,7 +1097,7 @@ const events = [
     endTime: "22:00:00+11:00",
     daysOfWeek: [0, 3, 4, 5, 6],
     description: "",
-    tags: ["Outdoor"],
+    tags: ["Outdoor", "Illumination"],
     links: [
       {
         label: "Website",
@@ -1254,7 +1254,7 @@ const events = [
     start: "2025-07-04",
     end: "2025-07-07",
     description: "",
-    tags: ["Festival", "Outdoor", "Free"],
+    tags: ["Festival", "Outdoor", "Free", "Illumination"],
     links: [
       {
         label: "Website",
@@ -1274,7 +1274,7 @@ const events = [
     start: "2025-07-04",
     end: "2025-07-21",
     description: "",
-    tags: ["Art", "Family and kids", "Outdoor"],
+    tags: ["Art", "Family and kids", "Outdoor", "Illumination"],
     links: [
       {
         label: "Website",
@@ -1470,7 +1470,7 @@ const events = [
     start: "2025-08-01",
     end: "2025-08-18",
     description: "",
-    tags: ["Outdoor", "Art"],
+    tags: ["Outdoor", "Art", "Illumination"],
     links: [
       {
         label: "Website",

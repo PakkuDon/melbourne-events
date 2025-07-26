@@ -129,7 +129,7 @@ const events = [
     endTime: "22:00:00+11:00",
     daysOfWeek: [0, 3, 4, 5, 6],
     description: "",
-    tags: ["Outdoor"],
+    tags: ["Outdoor", "Illumination"],
     links: [
       {
         label: "Website",
@@ -191,7 +191,7 @@ const events = [
     startTime: "17:00:00+11:00",
     endTime: "22:00:00+11:00",
     description: "",
-    tags: ["Festival", "Outdoor", "Free"],
+    tags: ["Festival", "Outdoor", "Free", "Illumination"],
     links: [
       {
         label: "Website",
@@ -534,7 +534,7 @@ const events = [
     start: "2024-09-20",
     end: "2024-09-23",
     description: "",
-    tags: ["Outdoor"],
+    tags: ["Outdoor", "Illumination"],
     links: [
       {
         label: "Website",
