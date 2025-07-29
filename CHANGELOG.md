@@ -11,6 +11,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add Illumination tag
 
+### Removed
+
+- Remove Installation tag
+  - The Installation tag was removed as it was only used by one event and is a bit too closely spelt to Illumination
+  - Installation tag has been replaced with Art tag
+
 ## [1.2.1] - 2025-07-08
 
 ### Fixed

@@ -211,7 +211,7 @@ const events = [
     start: "2024-06-28",
     end: "2024-07-15",
     description: "",
-    tags: ["Installation"],
+    tags: ["Art"],
     links: [
       {
         label: "Website",
