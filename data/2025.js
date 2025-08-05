@@ -1372,7 +1372,7 @@ const events = [
   {
     title: "Here You Come Again",
     start: "2025-07-12",
-    end: "2025-11-03",
+    end: "2025-07-21",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
@@ -1715,6 +1715,26 @@ const events = [
     ],
     location: {
       address: "Regent Theatre, 191 Collins St, Melbourne",
+    },
+  },
+  {
+    title: "Here You Come Again",
+    start: "2025-10-23",
+    end: "2025-11-03",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://marrinergroup.com.au/shows/here-you-come-again",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+      },
+    ],
+    location: {
+      address: "Comedy Theatre, Melbourne",
     },
   },
   {
