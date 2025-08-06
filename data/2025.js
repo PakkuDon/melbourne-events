@@ -1658,6 +1658,46 @@ const events = [
     },
   },
   {
+    title: "CherryHill Orchards Blossom By Light",
+    start: "2025-09-19",
+    end: "2025-09-23",
+    description: "",
+    tags: ["Outdoor", "Illumination"],
+    links: [
+      {
+        label: "Website",
+        url: "https://cherryhill.com.au/events/blossom-festival/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/uP2zxbn8rqjL2Uow7",
+      },
+    ],
+    location: {
+      address: "CherryHill Orchards, Wandin East",
+    },
+  },
+  {
+    title: "CherryHill Orchards Blossom Festival",
+    start: "2025-09-24",
+    end: "2025-10-06",
+    description: "",
+    tags: ["Festival", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://cherryhill.com.au/events/blossom-festival/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/p5ty9KjNDiQbSqRj7",
+      },
+    ],
+    location: {
+      address: "CherryHill Orchards, Coldstream",
+    },
+  },
+  {
     title: "DOG MAN: THE MUSICAL",
     start: "2025-09-30",
     end: "2025-10-05",
