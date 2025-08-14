@@ -1410,6 +1410,26 @@ const events = [
     },
   },
   {
+    title: "High Cheese | The Westin",
+    start: "2025-07-23",
+    end: "2025-10-26",
+    description: "",
+    tags: ["Food"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.westinmelbournedining.com.au/highcheese",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/h63a7NXZoCnGnguSA",
+      },
+    ],
+    location: {
+      address: "Allegro Restaurant, The Westin, Melbourne",
+    },
+  },
+  {
     title: "Footloose The Musical (Encore Season)",
     start: "2025-07-25",
     end: "2025-08-18",
@@ -1483,6 +1503,31 @@ const events = [
     ],
     location: {
       address: "Prahran Square, Prahran",
+    },
+  },
+  {
+    title: "Hot Chocolate Festival",
+    start: "2025-08-01",
+    end: "2025-09-01",
+    description: "",
+    tags: ["Food"],
+    links: [
+      {
+        label: "Mornington Peninsula Chocolaterie & Ice Creamery event details",
+        url: "https://www.mpchoc.com.au/events/hot-chocolate-festival-1-31-august/",
+      },
+      {
+        label: "Great Ocean Road Chocolaterie event details",
+        url: "https://www.gorci.com.au/events/hot-chocolate-festival/",
+      },
+      {
+        label: "Yarra Valley Chocolaterie event details",
+        url: "https://www.yvci.com.au/events/hot-chocolate-festival-2/",
+      },
+    ],
+    location: {
+      address:
+        "Mornington Peninsula Chocolaterie & Ice Creamery, Great Ocean Road Chocolaterie and Yarra Valley Chocolaterie",
     },
   },
   {
@@ -1715,6 +1760,22 @@ const events = [
     ],
     location: {
       address: "Playhouse Theatre, Arts Centre, Melbourne",
+    },
+  },
+  {
+    title: "Melbourne International Games Week (MIGW)",
+    start: "2025-10-04",
+    end: "2025-10-13",
+    description: "",
+    tags: ["Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://gamesweek.melbourne/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
     },
   },
   {
