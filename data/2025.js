@@ -1859,6 +1859,26 @@ const events = [
     },
   },
   {
+    title: "Live at the Gardens",
+    start: "2025-11-21",
+    end: "2025-12-01",
+    description: "See website for times and lineup",
+    tags: ["Outdoor", "Music", "Performance"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.liveatthegardens.com.au",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
+      },
+    ],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
+    },
+  },
+  {
     title: "Asia Street Food Festival by the Yarra",
     start: "2025-12-04",
     end: "2025-12-08",
