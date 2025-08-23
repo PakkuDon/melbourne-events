@@ -1763,6 +1763,22 @@ const events = [
     },
   },
   {
+    title: "Melbourne Fringe Festival",
+    start: "2025-09-30",
+    end: "2025-10-20",
+    description: "",
+    tags: ["Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://melbournefringe.com.au/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
     title: "Melbourne International Games Week (MIGW)",
     start: "2025-10-04",
     end: "2025-10-13",
