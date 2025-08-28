@@ -1957,7 +1957,7 @@ const events = [
   {
     title: "ANASTASIA",
     start: "2025-12-20",
-    end: "2026-01-12",
+    end: "2026-02-27",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
