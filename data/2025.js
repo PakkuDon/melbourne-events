@@ -1683,6 +1683,26 @@ const events = [
     },
   },
   {
+    title: "The 39 Steps",
+    start: "2025-09-10",
+    end: "2025-10-05",
+    description: "",
+    tags: ["Performance", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://the39steps.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+      },
+    ],
+    location: {
+      address: "Comedy Theatre, Melbourne",
+    },
+  },
+  {
     title: "Game Worlds",
     start: "2025-09-18",
     end: "2026-02-09",
@@ -1792,6 +1812,26 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
+    },
+  },
+  {
+    title: "Victorian Festival of Diwali",
+    start: "2025-10-11T12:00:00+11:00",
+    end: "2025-10-11T22:00:00+11:00",
+    description: "",
+    tags: ["Festival", "Outdoor"],
+    links: [
+      {
+        label: "What's On Melbourne listing",
+        url: "https://whatson.melbourne.vic.gov.au/things-to-do/victorian-festival-of-diwali",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
     },
   },
   {
