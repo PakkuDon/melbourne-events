@@ -9,6 +9,7 @@
     "url": "git+https://github.com/PakkuDon/melbourne-events.git"
   },
   "devDependencies": {
-    "prettier": "^3.5.3"
+    "prettier": "^3.5.3",
+    "vite": "^7.1.4"
   }
 }
