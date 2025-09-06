@@ -1,4 +1,8 @@
 import events from "./events.js";
+import { Calendar } from "@fullcalendar/core";
+import dayGridPlugin from "@fullcalendar/daygrid";
+import listPlugin from "@fullcalendar/list";
+import timeGridPlugin from "@fullcalendar/timegrid";
 
 const showEventDetails = (popoverElement, event) => {
   let dateRangeStr = "";
@@ -56,7 +60,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const mdBreakpoint = 1024;
   const popoverElement = document.querySelector("#popover");
   const calendarElement = document.getElementById("calendar");
-  const calendar = new FullCalendar.Calendar(calendarElement, {
+  const calendar = new Calendar(calendarElement, {
+    plugins: [dayGridPlugin, listPlugin, timeGridPlugin],
     headerToolbar: {
       left: "prev,next today",
       center: "title",
