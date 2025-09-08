@@ -2,6 +2,7 @@
   "name": "melbourne-events",
   "version": "1.0.0",
   "scripts": {
+    "dev": "vite dev",
     "build": "vite build",
     "preview": "vite preview",
     "format": "prettier --write ."
