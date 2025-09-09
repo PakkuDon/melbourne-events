@@ -1703,6 +1703,45 @@ const events = [
     },
   },
   {
+    title: "Emerging Writers' Festival",
+    start: "2025-09-11",
+    end: "2025-09-19",
+    description: "",
+    tags: ["Art", "Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://emergingwritersfestival.org.au/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
+    title: "Fringe Flavours Night Market | Queen Victoria Market",
+    startTime: "17:00:00+11:00",
+    endTime: "22:00:00+11:00",
+    startRecur: "2025-09-17",
+    endRecur: "2025-10-16",
+    daysOfWeek: [3],
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://thenightmarket.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
     title: "Game Worlds",
     start: "2025-09-18",
     end: "2026-02-09",
@@ -1852,6 +1891,22 @@ const events = [
     ],
     location: {
       address: "Southbank Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Melbourne International Jazz Festival",
+    start: "2025-10-17",
+    end: "2025-10-27",
+    description: "",
+    tags: ["Music", "Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.melbournejazz.com/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
     },
   },
   {
