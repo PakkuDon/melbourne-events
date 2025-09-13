@@ -3,7 +3,8 @@
 
 import events2024 from "./data/2024.js";
 import events2025 from "./data/2025.js";
+import events2026 from "./data/2026.js";
 
-const events = [...events2024, ...events2025];
+const events = [...events2024, ...events2025, ...events2026];
 
 export default events;
