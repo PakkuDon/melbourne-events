@@ -1643,6 +1643,26 @@ const events = [
     },
   },
   {
+    title: "The Lark",
+    start: "2025-09-03",
+    end: "2025-09-29",
+    description: "",
+    tags: ["Performance", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.artscentremelbourne.com.au/whats-on/2025/theatre/the-lark",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/4wN5QLFtnkYsPiZ19",
+      },
+    ],
+    location: {
+      address: "Fairfax Studio, Arts Centre, Melbourne",
+    },
+  },
+  {
     title: "The Makers and Shakers Market",
     start: "2025-09-06",
     end: "2025-09-08",
