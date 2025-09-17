@@ -10,6 +10,29 @@ This site was built using [FullCalendar](https://fullcalendar.io/).
 
 ## Development
 
-- There is currently no build process for this project
-- Open this project's `index.html` in a web browser to view changes locally
-- To add new events add a new object to the `events` array in [`events.js`](./events.js). Follow the structure outlined in the example objects provided
+### Pre-requisites
+
+- Node (Built using v22 but may work with earlier versions)
+
+### Local development
+
+```sh
+# Install dependencies
+npm i
+
+# Start local development server
+npm run dev
+
+# Format code using Prettier
+npm run format
+```
+
+### Deployment
+
+Changes pushed to `main` are automatically deployed to Github Pages. This is done via a workflow which is defined in [.github/workflows/deploy.yml](.github/workflows/deploy.yml).
+
+### Add / update events
+
+- Event data is stored in JSON files in [`data/`](data/)
+- Events are grouped by year and stored in chronological order by their start date
+- To add a new event add an event object to the `events` array in the corresponding data file
