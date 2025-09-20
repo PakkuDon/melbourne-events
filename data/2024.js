@@ -24,7 +24,7 @@ const events = [
   {
     title: "Joy",
     startRecur: "2024-03-01",
-    endRecur: "2025-08-30",
+    endRecur: "2025-12-08",
     startTime: "10:00:00+11:00",
     endTime: "17:00:00+11:00",
     description: "",

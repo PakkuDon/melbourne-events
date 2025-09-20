@@ -1192,7 +1192,7 @@ const events = [
     title:
       "State Library Victoria Unlocked: A Guided Tour Before the Doors Open",
     start: "2025-07-01",
-    end: "2025-09-01",
+    end: "2026-01-01",
     description: "",
     tags: ["Exhibition"],
     links: [
