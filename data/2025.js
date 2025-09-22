@@ -1153,6 +1153,26 @@ const events = [
     },
   },
   {
+    title: "Stray Gods: The Exhibition",
+    start: "2025-06-28",
+    end: "2025-09-29",
+    description: "",
+    tags: ["Exhibition", "Gaming"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.hellenic.org.au/exhibitions/stray-gods",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/UWXhJaqm6AC4K8sk8",
+      },
+    ],
+    location: {
+      address: "Hellenic Museum, Melbourne",
+    },
+  },
+  {
     title: "1984 by George Orwell",
     start: "2025-07-01",
     end: "2025-07-07",
@@ -1871,6 +1891,26 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
+    },
+  },
+  {
+    title: "Big Games Night Out",
+    start: "2025-10-09 16:00",
+    end: "2025-10-09 23:55",
+    description: "",
+    tags: ["Gaming", "Free"],
+    links: [
+      {
+        label: "Website",
+        url: "https://gamesweek.melbourne/events/2025-events/big-games-night-out-2025",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
     },
   },
   {

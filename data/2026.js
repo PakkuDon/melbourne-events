@@ -1,5 +1,25 @@
 const events = [
   {
+    title: "Shrek The Musical",
+    start: "2026-01-07",
+    end: "2026-01-11",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.artscentremelbourne.com.au/whats-on/2026/musical/shrek-the-musical",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
+      },
+    ],
+    location: {
+      address: "Playhouse Theatre, Arts Centre, Melbourne",
+    },
+  },
+  {
     title: "My Brilliant Career",
     start: "2026-01-23",
     end: "2026-03-01",
