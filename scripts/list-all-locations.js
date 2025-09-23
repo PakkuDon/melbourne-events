@@ -6,16 +6,16 @@ events.forEach((event) => {
   const location = event.location;
 
   if (!locations[location]) {
-    const locationDetails = {
-      address: location.address,
-    };
     const googleMapsUrl = event.links.find(
       (link) => link.label === "Google Maps",
     )?.url;
     if (googleMapsUrl) {
-      locationDetails.googleMapsUrl = googleMapsUrl;
+      const locationDetails = {
+        address: location.address,
+        googleMapsUrl,
+      };
+      locations[location.address] = locationDetails;
     }
-    locations[location.address] = locationDetails;
   }
 });
 
