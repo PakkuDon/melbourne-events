@@ -40,6 +40,26 @@ const events = [
     },
   },
   {
+    title: "Top Arts 2026",
+    start: "2026-03-13",
+    end: "2026-07-20",
+    description: "",
+    tags: ["Exhibition", "Art", "Free"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.ngv.vic.gov.au/exhibition/top-arts-2026/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/V1kcEp4pUCf2iKi46",
+      },
+    ],
+    location: {
+      address: "The Ian Potter Centre: NGV Australia, Melbourne",
+    },
+  },
+  {
     title: "Encore! Songs from the Musicals",
     start: "2026-05-28",
     end: "2026-05-31",

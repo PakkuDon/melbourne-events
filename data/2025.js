@@ -2070,6 +2070,26 @@ const events = [
     },
   },
   {
+    title: "Westwood | Kawakubo",
+    start: "2025-12-07",
+    end: "2026-04-20",
+    description: "",
+    tags: ["Exhibition", "Art", "Fashion"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.ngv.vic.gov.au/exhibition/westwood-kawakubo/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
+      },
+    ],
+    location: {
+      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
+    },
+  },
+  {
     title: "ANASTASIA",
     start: "2025-12-20",
     end: "2026-02-27",
