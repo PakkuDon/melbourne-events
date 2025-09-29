@@ -1970,26 +1970,6 @@ const events = [
     },
   },
   {
-    title: "Opera Up Late",
-    start: "2025-11-02T21:00:00+11:00",
-    end: "2025-11-02T22:30:00+11:00",
-    description: "",
-    tags: ["Music", "Performance"],
-    links: [
-      {
-        label: "Website",
-        url: "https://opera.org.au/productions/opera-up-late-melbourne/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
-      },
-    ],
-    location: {
-      address: "Regent Theatre, 191 Collins St, Melbourne",
-    },
-  },
-  {
     title: "Here You Come Again",
     start: "2025-10-23",
     end: "2025-11-16",
@@ -2027,6 +2007,26 @@ const events = [
     ],
     location: {
       address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Opera Up Late",
+    start: "2025-11-02T21:00:00+11:00",
+    end: "2025-11-02T22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance"],
+    links: [
+      {
+        label: "Website",
+        url: "https://opera.org.au/productions/opera-up-late-melbourne/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
+      },
+    ],
+    location: {
+      address: "Regent Theatre, 191 Collins St, Melbourne",
     },
   },
   {
