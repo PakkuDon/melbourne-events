@@ -1914,6 +1914,26 @@ const events = [
     },
   },
   {
+    title: "The Finders Keepers Design Market",
+    start: "2025-10-10",
+    end: "2025-10-13",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.thefinderskeepers.com/melbourne-markets/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+    },
+  },
+  {
     title: "Victorian Festival of Diwali",
     start: "2025-10-11T12:00:00+11:00",
     end: "2025-10-11T22:00:00+11:00",
@@ -1963,6 +1983,22 @@ const events = [
       {
         label: "Website",
         url: "https://www.melbournejazz.com/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
+    title: "Melbourne Fashion Week",
+    start: "2025-10-20",
+    end: "2025-10-26",
+    description: "",
+    tags: ["Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://mfw.melbourne.vic.gov.au/",
       },
     ],
     location: {
@@ -2067,6 +2103,26 @@ const events = [
     ],
     location: {
       address: "Alexandra Gardens, Melbourne",
+    },
+  },
+  {
+    title: "Love Actually? The Musical Parody",
+    start: "2025-12-05",
+    end: "2025-12-24",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.athenaeumtheatre.com.au/shows/love-actually-the-musical-parody",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+      },
+    ],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
     },
   },
   {
