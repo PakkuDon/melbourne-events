@@ -1705,7 +1705,7 @@ const events = [
   {
     title: "MJ the Musical",
     start: "2025-09-09",
-    end: "2025-12-15",
+    end: "2026-02-02",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
