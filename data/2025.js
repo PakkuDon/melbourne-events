@@ -1878,6 +1878,26 @@ const events = [
     },
   },
   {
+    title: "Everyday's A Birthday",
+    start: "2025-10-02",
+    end: "2025-11-02",
+    description: "",
+    tags: ["Exhibition", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://lennoxst.gallery/exhibitions/101-everyday-s-a-birthday-donovan-christie/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/uKejRohB2TujRWiZ6",
+      },
+    ],
+    location: {
+      address: "Lennox St. Gallery, Richmond",
+    },
+  },
+  {
     title: "Melbourne International Games Week (MIGW)",
     start: "2025-10-04",
     end: "2025-10-13",
@@ -2086,6 +2106,26 @@ const events = [
     },
   },
   {
+    title: "A Christmas Carol",
+    start: "2025-11-27",
+    end: "2025-12-25",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://christmascarolaustralia.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+      },
+    ],
+    location: {
+      address: "Comedy Theatre, Melbourne",
+    },
+  },
+  {
     title: "Asia Street Food Festival by the Yarra",
     start: "2025-12-04",
     end: "2025-12-08",
@@ -2183,6 +2223,26 @@ const events = [
     ],
     location: {
       address: "Hamer Hall, Melbourne",
+    },
+  },
+  {
+    title: "Vision Australia's Carols by Candlelight",
+    start: "2025-12-24T20:00+11:00",
+    end: "2025-12-24T23:30+11:00",
+    description: "",
+    tags: ["Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.artscentremelbourne.com.au/whats-on/2025/contemporary-music/vision-australias-carols-by-candlelight",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
+      },
+    ],
+    location: {
+      address: "Sidney Myer Music Bowl, Melbourne",
     },
   },
 ];

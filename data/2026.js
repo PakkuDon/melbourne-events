@@ -60,6 +60,22 @@ const events = [
     },
   },
   {
+    title: "Melbourne International Comedy Festival",
+    start: "2026-03-25",
+    end: "2026-04-20",
+    description: "",
+    tags: ["Festival", "Comedy"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.comedyfestival.com.au/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
     title: "Encore! Songs from the Musicals",
     start: "2026-05-28",
     end: "2026-05-31",
@@ -77,6 +93,26 @@ const events = [
     ],
     location: {
       address: "Regent Theatre, 191 Collins St, Melbourne",
+    },
+  },
+  {
+    title: "A Beautiful Noise: The Neil Diamond Musical",
+    start: "2026-08-05",
+    end: "2026-09-07",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://theneildiamondmusical.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
+      },
+    ],
+    location: {
+      address: "The Princess Theatre, 163 Spring St, Melbourne",
     },
   },
 ];
