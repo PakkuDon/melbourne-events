@@ -2208,7 +2208,7 @@ const events = [
   {
     title: "CATS the Musical",
     start: "2025-12-21",
-    end: "2026-01-12",
+    end: "2026-02-01",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
