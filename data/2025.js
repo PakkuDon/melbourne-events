@@ -2010,6 +2010,26 @@ const events = [
     },
   },
   {
+    title: "Toy Story 30 Years and Beyond",
+    start: "2025-10-18",
+    end: "2025-11-03",
+    description: "",
+    tags: ["Exhibition", "Free", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.disney.com.au/news/disney-celebrates-toy-story-30-anniversary-with-pop-up-exhibition",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/v4uauVomTEDu5rHv5",
+      },
+    ],
+    location: {
+      address: "Collins234, 234 Collins St, Melbourne",
+    },
+  },
+  {
     title: "Melbourne Fashion Week",
     start: "2025-10-20",
     end: "2025-10-26",
@@ -2063,6 +2083,26 @@ const events = [
     ],
     location: {
       address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Melbourne Donut Festival",
+    start: "2025-11-01",
+    end: "2025-11-03",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://qvm.com.au/whats-on/melbourne-donut-festival/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
     },
   },
   {

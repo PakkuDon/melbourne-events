@@ -40,6 +40,26 @@ const events = [
     },
   },
   {
+    title: "The Book of Mormon",
+    start: "2026-02-06",
+    end: "2026-03-16",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://thebookofmormonmusical.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
+      },
+    ],
+    location: {
+      address: "The Princess Theatre, 163 Spring St, Melbourne",
+    },
+  },
+  {
     title: "Top Arts 2026",
     start: "2026-03-13",
     end: "2026-07-20",
@@ -73,6 +93,26 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
+    },
+  },
+  {
+    title: "Heathers the Musical",
+    start: "2026-04-08",
+    end: "2026-05-04",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://heathersthemusical.com/australia/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
+      },
+    ],
+    location: {
+      address: "Playhouse Theatre, Arts Centre, Melbourne",
     },
   },
   {
