@@ -2086,6 +2086,26 @@ const events = [
     },
   },
   {
+    title: "Halloween Cinema: Psycho",
+    start: "2025-10-31T21:00:00+11:00",
+    end: "2025-10-31T23:00:00+11:00",
+    description: "",
+    tags: ["Free", "Film", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/halloween-cinema-psycho",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
     title: "Melbourne Donut Festival",
     start: "2025-11-01",
     end: "2025-11-03",
@@ -2126,6 +2146,26 @@ const events = [
     },
   },
   {
+    title: "The Great Melbourne Bagpipe Bash",
+    start: "2025-11-12T16:30:00+11:00",
+    end: "2025-11-12T17:30:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/the-great-melbourne-bagpipe-bash",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
     title: "Live at the Gardens",
     start: "2025-11-21",
     end: "2025-12-01",
@@ -2143,6 +2183,26 @@ const events = [
     ],
     location: {
       address: "Royal Botanic Gardens Victoria, Melbourne",
+    },
+  },
+  {
+    title: "Moodymann + DJ Jnett",
+    start: "2025-11-27T19:00:00+11:00",
+    end: "2025-11-27T22:30:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/moodymann-dj-jnett",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
     },
   },
   {
