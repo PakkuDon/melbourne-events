@@ -2146,6 +2146,46 @@ const events = [
     },
   },
   {
+    title: "In Memory | Of Being – Mixed Reality in the Dome",
+    start: "2025-11-08",
+    end: "2025-11-23",
+    description: "",
+    tags: ["Exhibition"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.slv.vic.gov.au/whats-on/make-believe",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/b5RHnCYqDCi9KFAm6",
+      },
+    ],
+    location: {
+      address: "State Library Victoria, Melbourne",
+    },
+  },
+  {
+    title: "Ephemeral Collection",
+    start: "2025-11-10",
+    end: "2025-11-24",
+    description: "",
+    tags: ["Outdoor", "Art", "Free"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.prahransquare.com.au/whats-on/upcoming/ephemeral-collection/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/zqVMST7ZVRKDvwcD9",
+      },
+    ],
+    location: {
+      address: "Prahran Square, Prahran",
+    },
+  },
+  {
     title: "The Great Melbourne Bagpipe Bash",
     start: "2025-11-12T16:30:00+11:00",
     end: "2025-11-12T17:30:00+11:00",
@@ -2163,6 +2203,69 @@ const events = [
     ],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
+    title: "The Bubble Emporium",
+    start: "2025-11-12",
+    end: "2025-11-17",
+    description: "",
+    tags: ["Outdoor", "Art", "Free", "Music", "Performance"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.prahransquare.com.au/whats-on/upcoming/the-bubble-emporium/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/zqVMST7ZVRKDvwcD9",
+      },
+    ],
+    location: {
+      address: "Prahran Square, Prahran",
+    },
+  },
+  {
+    title: "Summer Night Market | Queen Victoria Market",
+    startTime: "17:00:00+11:00",
+    endTime: "22:00:00+11:00",
+    startRecur: "2025-11-19",
+    endRecur: "2026-03-12",
+    daysOfWeek: [3],
+    description: "",
+    tags: ["Market", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://thenightmarket.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
+    title: "African Music and Cultural Festival",
+    start: "2025-11-21",
+    end: "2025-11-24",
+    description: "",
+    tags: ["Festival", "Free", "Outdoor"],
+    links: [
+      {
+        label: "What's On Melbourne listing",
+        url: "https://whatson.melbourne.vic.gov.au/things-to-do/african-music-and-cultural-festival",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, Melbourne",
     },
   },
   {
@@ -2203,6 +2306,26 @@ const events = [
     ],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
+    title: "The Big Design Market",
+    start: "2025-11-28",
+    end: "2025-12-01",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://melbourne.thebigdesignmarket.com/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
     },
   },
   {
