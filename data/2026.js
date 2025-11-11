@@ -20,6 +20,22 @@ const events = [
     },
   },
   {
+    title: "Midsumma Festival",
+    start: "2026-01-18",
+    end: "2026-02-09",
+    description: "",
+    tags: ["Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.midsumma.org.au/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
     title: "My Brilliant Career",
     start: "2026-01-23",
     end: "2026-03-01",
@@ -77,6 +93,26 @@ const events = [
     ],
     location: {
       address: "The Ian Potter Centre: NGV Australia, Melbourne",
+    },
+  },
+  {
+    title: "Melbourne International Flower & Garden Show",
+    start: "2026-03-25",
+    end: "2026-03-30",
+    description: "",
+    tags: ["Exhibition", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://melbflowershow.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
     },
   },
   {
