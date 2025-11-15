@@ -2409,6 +2409,26 @@ const events = [
     },
   },
   {
+    title: "DIVA",
+    start: "2025-12-11",
+    end: "2026-04-27",
+    description: "",
+    tags: ["Exhibition"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.artscentremelbourne.com.au/ampa/exhibitions/diva",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/F4BKNvr2TTTNa6VT9",
+      },
+    ],
+    location: {
+      address: "Hamer Hall, Melbourne",
+    },
+  },
+  {
     title: "ANASTASIA",
     start: "2025-12-20",
     end: "2026-02-27",

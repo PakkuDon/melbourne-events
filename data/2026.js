@@ -76,6 +76,46 @@ const events = [
     },
   },
   {
+    title: "CLUEDO The Play",
+    start: "2026-02-07",
+    end: "2026-03-02",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://cluedoplay.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+      },
+    ],
+    location: {
+      address: "Comedy Theatre, Melbourne",
+    },
+  },
+  {
+    title: "The Diary of Anne Frank",
+    start: "2026-03-04",
+    end: "2026-03-15",
+    description: "",
+    tags: ["Performance", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.athenaeumtheatre.com.au/shows/the-diary-of-anne-frank",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+      },
+    ],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
     title: "Top Arts 2026",
     start: "2026-03-13",
     end: "2026-07-20",
