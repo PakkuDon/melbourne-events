@@ -2066,6 +2066,26 @@ const events = [
     },
   },
   {
+    title: "DARKFIELD",
+    start: "2025-10-24",
+    end: "2026-01-05",
+    description: "Featuring INVISIBLE and FLIGHT",
+    tags: ["Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.darkfield.com.au/melbourne",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/5uJJAiDw8H8kCt3L7",
+      },
+    ],
+    location: {
+      address: "Arts Centre Melbourne, 100 St Kilda Rd",
+    },
+  },
+  {
     title: "Hair: The Tribal Love Rock Musical",
     start: "2025-10-25",
     end: "2025-12-01",
@@ -2306,6 +2326,46 @@ const events = [
     ],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
+    title: "Christmas Festival Launch",
+    start: "2025-11-28T18:30:00+11:00",
+    end: "2025-11-28T22:00:00+11:00",
+    description: "",
+    tags: ["Free", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/christmas-festival-launch",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
+    title: "Reuben Kaye – enGORGED",
+    start: "2025-11-28",
+    end: "2025-11-30",
+    description: "",
+    tags: ["Performance"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.melbournerecital.com.au/whats-on/current-productions/reuben-kaye",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/WKLsKyiv6Yy7Rj9r7",
+      },
+    ],
+    location: {
+      address: "Melbourne Recital Centre, Melbourne",
     },
   },
   {
