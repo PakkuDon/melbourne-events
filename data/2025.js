@@ -2068,7 +2068,7 @@ const events = [
   {
     title: "Hair: The Tribal Love Rock Musical",
     start: "2025-10-25",
-    end: "2025-11-24",
+    end: "2025-12-01",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
