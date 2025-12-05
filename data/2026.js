@@ -76,6 +76,26 @@ const events = [
     },
   },
   {
+    title: "Garage Band 2026",
+    start: "2026-02-07T17:00:00+11:00",
+    end: "2026-02-07T19:30:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/garage-band-2026",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
     title: "CLUEDO The Play",
     start: "2026-02-07",
     end: "2026-03-02",

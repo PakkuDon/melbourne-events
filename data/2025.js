@@ -2429,6 +2429,26 @@ const events = [
     },
   },
   {
+    title: "As Camp as Christmas",
+    start: "2025-12-05T18:00:00+11:00",
+    end: "2025-12-05T22:15:00+11:00",
+    description: "",
+    tags: ["Free", "Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/as-camp-as-christmas/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
     title: "Love Actually? The Musical Parody",
     start: "2025-12-05",
     end: "2025-12-24",
@@ -2466,6 +2486,28 @@ const events = [
     ],
     location: {
       address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
+    },
+  },
+  {
+    title: "Christmas Outdoor Cinema: Naughty or Nice edition",
+    startRecur: "2025-12-08",
+    endRecur: "2025-12-12",
+    startTime: "18:00:00+11:00",
+    endTime: "22:00:00+11:00",
+    description: "",
+    tags: ["Free", "Film", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/christmas-outdoor-cinema",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
     },
   },
   {
@@ -2546,6 +2588,48 @@ const events = [
     ],
     location: {
       address: "Sidney Myer Music Bowl, Melbourne",
+    },
+  },
+  {
+    title: "Idols of Musical Theatre​",
+    start: "2025-12-27",
+    end: "2025-12-29",
+    description: "",
+    tags: ["Performance"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.melbournerecital.com.au/whats-on/current-productions/idols-of-musical-theatre",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/WKLsKyiv6Yy7Rj9r7",
+      },
+    ],
+    location: {
+      address: "Melbourne Recital Centre, Melbourne",
+    },
+  },
+  {
+    title: "Outdoor Cinema: Lord of the Rings Trilogy",
+    startRecur: "2025-12-27",
+    endRecur: "2025-12-30",
+    startTime: "18:00:00+11:00",
+    endTime: "22:00:00+11:00",
+    description: "",
+    tags: ["Free", "Film", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/outdoor-cinema-lord-of-the-rings-trilogy",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
     },
   },
 ];
