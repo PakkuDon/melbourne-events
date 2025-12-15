@@ -212,6 +212,26 @@ const events = [
     },
   },
   {
+    title: "Waitress the Musical",
+    start: "2026-05-01",
+    end: "2026-06-01",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://waitressthemusical.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6",
+      },
+    ],
+    location: {
+      address: "Her Majesty's Theatre, Melbourne",
+    },
+  },
+  {
     title: "Encore! Songs from the Musicals",
     start: "2026-05-28",
     end: "2026-05-31",
@@ -221,6 +241,26 @@ const events = [
       {
         label: "Website",
         url: "https://opera.org.au/productions/encore-melbourne/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
+      },
+    ],
+    location: {
+      address: "Regent Theatre, 191 Collins St, Melbourne",
+    },
+  },
+  {
+    title: "Pretty Woman the Musical",
+    start: "2026-07-14",
+    end: "2026-08-10",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://prettywomanthemusical.com.au/",
       },
       {
         label: "Google Maps",

@@ -2409,6 +2409,26 @@ const events = [
     },
   },
   {
+    title: "Moonlight Cinema",
+    start: "2025-12-03",
+    end: "2026-04-06",
+    description: "",
+    tags: ["Film", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://melbourne.moonlight.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
+      },
+    ],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
+    },
+  },
+  {
     title: "Asia Street Food Festival by the Yarra",
     start: "2025-12-04",
     end: "2025-12-08",
