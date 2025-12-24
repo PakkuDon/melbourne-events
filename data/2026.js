@@ -156,6 +156,26 @@ const events = [
     },
   },
   {
+    title: "The Great Gatsby: A Jazz Ballet Odyssey",
+    start: "2026-03-18",
+    end: "2026-04-06",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://hmt.com.au/the-great-gatsby/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6",
+      },
+    ],
+    location: {
+      address: "Her Majesty's Theatre, Melbourne",
+    },
+  },
+  {
     title: "Melbourne International Flower & Garden Show",
     start: "2026-03-25",
     end: "2026-03-30",
@@ -269,6 +289,26 @@ const events = [
     ],
     location: {
       address: "Regent Theatre, 191 Collins St, Melbourne",
+    },
+  },
+  {
+    title: "SIX the Musical",
+    start: "2026-07-24",
+    end: "2026-08-24",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://sixthemusical.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+      },
+    ],
+    location: {
+      address: "Comedy Theatre, Melbourne",
     },
   },
   {

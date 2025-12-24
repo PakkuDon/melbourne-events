@@ -2652,6 +2652,26 @@ const events = [
       address: "Fed Square, corner Swanston St & Flinders St",
     },
   },
+  {
+    title: "Bluey's Big Play The Stage Show",
+    start: "2025-12-30",
+    end: "2026-01-05",
+    description: "",
+    tags: ["Play", "Theatre", "Family and kids"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.artscentremelbourne.com.au/whats-on/2025/kids-and-families/blueys-big-play-the-stage-show",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
+      },
+    ],
+    location: {
+      address: "Playhouse Theatre, Arts Centre, Melbourne",
+    },
+  },
 ];
 
 export default events;
