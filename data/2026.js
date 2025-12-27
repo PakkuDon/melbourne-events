@@ -160,7 +160,7 @@ const events = [
     start: "2026-03-18",
     end: "2026-04-06",
     description: "",
-    tags: ["Musical", "Theatre"],
+    tags: ["Performance", "Theatre"],
     links: [
       {
         label: "Website",
