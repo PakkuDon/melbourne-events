@@ -1,5 +1,27 @@
 const events = [
   {
+    title: "Outdoor Cinema: Dancing with Danger",
+    startRecur: "2026-01-03",
+    endRecur: "2026-01-09",
+    startTime: "18:00:00+11:00",
+    endTime: "22:00:00+11:00",
+    description: "",
+    tags: ["Free", "Film", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/outdoor-cinema-dancing-with-danger",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
     title: "Shrek The Musical",
     start: "2026-01-07",
     end: "2026-01-11",
@@ -176,6 +198,26 @@ const events = [
     },
   },
   {
+    title: "Tesselaar Kabloom",
+    start: "2026-03-21",
+    end: "2026-04-20",
+    description: "",
+    tags: ["Exhibition", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://kabloom.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/LWSrHvMU7bLFXahr8",
+      },
+    ],
+    location: {
+      address: "Tesselaar Flower Farm, Silvan",
+    },
+  },
+  {
     title: "Melbourne International Flower & Garden Show",
     start: "2026-03-25",
     end: "2026-03-30",
@@ -252,6 +294,26 @@ const events = [
     },
   },
   {
+    title: "The Big Design Market",
+    start: "2026-05-22",
+    end: "2026-05-25",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://melbourne.thebigdesignmarket.com/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+    },
+  },
+  {
     title: "Encore! Songs from the Musicals",
     start: "2026-05-28",
     end: "2026-05-31",
@@ -269,6 +331,26 @@ const events = [
     ],
     location: {
       address: "Regent Theatre, 191 Collins St, Melbourne",
+    },
+  },
+  {
+    title: "Bluey’s Big Play The Stage Show",
+    start: "2026-07-01",
+    end: "2026-07-13",
+    description: "",
+    tags: ["Play", "Theatre", "Family and kids"],
+    links: [
+      {
+        label: "Website",
+        url: "https://marrinergroup.com.au/shows/blueys-big-play-the-stage-show",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
+      },
+    ],
+    location: {
+      address: "Comedy Theatre, Melbourne",
     },
   },
   {
