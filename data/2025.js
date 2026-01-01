@@ -2553,7 +2553,7 @@ const events = [
   {
     title: "ANASTASIA",
     start: "2025-12-20",
-    end: "2026-02-27",
+    end: "2026-02-21",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
