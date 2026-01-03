@@ -314,6 +314,22 @@ const events = [
     },
   },
   {
+    title: "RISING: Melbourne",
+    start: "2026-05-27",
+    end: "2026-06-09",
+    description: "",
+    tags: ["Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://2026.rising.melbourne/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
     title: "Encore! Songs from the Musicals",
     start: "2026-05-28",
     end: "2026-05-31",
