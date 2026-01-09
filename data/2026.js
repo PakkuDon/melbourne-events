@@ -42,6 +42,26 @@ const events = [
     },
   },
   {
+    title: "Saturday Night Fever",
+    start: "2026-01-08",
+    end: "2026-01-26",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.athenaeumtheatre.com.au/shows/saturday-night-fever",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+      },
+    ],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
     title: "Midsumma Festival",
     start: "2026-01-18",
     end: "2026-02-09",
@@ -135,6 +155,87 @@ const events = [
     ],
     location: {
       address: "Comedy Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Sidney Myer Free Concert: Symphonic Celebration",
+    start: "2026-02-10T19:30:00+11:00",
+    end: "2026-02-10T21:30:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.mso.com.au/performance/2026-smmb-symphonic-celebration",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
+      },
+    ],
+    location: {
+      address: "Sidney Myer Music Bowl, Melbourne",
+    },
+  },
+  {
+    title: "Sidney Myer Free Concert: Australian Youth Orchestra",
+    start: "2026-02-11T19:30:00+11:00",
+    end: "2026-02-11T21:30:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.mso.com.au/performance/2026-smmb-australian-youth-orchestra",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
+      },
+    ],
+    location: {
+      address: "Sidney Myer Music Bowl, Melbourne",
+    },
+  },
+  {
+    title:
+      "Sidney Myer Free Concert: MSO x Find Your Voice Collective | SONDER",
+    start: "2026-02-13T19:30:00+11:00",
+    end: "2026-02-13T21:00:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.mso.com.au/performance/2026-smmb-mso-find-your-voice-collective",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
+      },
+    ],
+    location: {
+      address: "Sidney Myer Music Bowl, Melbourne",
+    },
+  },
+  {
+    title: "Sidney Myer Free Concert: 50 Years of ABC Classic",
+    start: "2026-02-14T19:30:00+11:00",
+    end: "2026-02-14T21:30:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.mso.com.au/performance/2026-smmb-50-years-of-abc-classic",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
+      },
+    ],
+    location: {
+      address: "Sidney Myer Music Bowl, Melbourne",
     },
   },
   {
