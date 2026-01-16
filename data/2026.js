@@ -100,7 +100,7 @@ const events = [
   {
     title: "The Book of Mormon",
     start: "2026-02-06",
-    end: "2026-03-16",
+    end: "2026-05-01",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
@@ -513,7 +513,7 @@ const events = [
   {
     title: "A Beautiful Noise: The Neil Diamond Musical",
     start: "2026-08-05",
-    end: "2026-09-07",
+    end: "2026-09-28",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
