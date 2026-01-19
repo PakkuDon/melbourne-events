@@ -98,6 +98,28 @@ const events = [
     },
   },
   {
+    title: "Outdoor Cinema: In Defence of Satire",
+    startRecur: "2026-02-02",
+    endRecur: "2026-02-06",
+    startTime: "20:00:00+11:00",
+    endTime: "22:00:00+11:00",
+    description: "",
+    tags: ["Free", "Film", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/outdoor-cinema-in-defence-of-satire",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
     title: "The Book of Mormon",
     start: "2026-02-06",
     end: "2026-05-01",
@@ -178,6 +200,26 @@ const events = [
     },
   },
   {
+    title: "Folk Bitch Trio Candlelight Concert",
+    start: "2026-02-10T20:30:00+11:00",
+    end: "2026-02-10T21:30:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/folk-bitch-trio-candlelight-concert",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
     title: "Sidney Myer Free Concert: Australian Youth Orchestra",
     start: "2026-02-11T19:30:00+11:00",
     end: "2026-02-11T21:30:00+11:00",
@@ -195,6 +237,46 @@ const events = [
     ],
     location: {
       address: "Sidney Myer Music Bowl, Melbourne",
+    },
+  },
+  {
+    title: "Dean Brady Candlelight Concert",
+    start: "2026-02-11T20:30:00+11:00",
+    end: "2026-02-11T21:30:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/dean-brady-candlelight-concert",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
+    title: "Tina Arena Candlelight Concert",
+    start: "2026-02-12T20:30:00+11:00",
+    end: "2026-02-12T21:30:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/tina-arena-candlelight-concert",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
     },
   },
   {
@@ -216,6 +298,26 @@ const events = [
     ],
     location: {
       address: "Sidney Myer Music Bowl, Melbourne",
+    },
+  },
+  {
+    title: "Nongkrong - Pasar Senja (twilight fair)",
+    start: "2026-02-14T15:00:00+11:00",
+    end: "2026-02-14T22:00:00+11:00",
+    description: "",
+    tags: ["Free", "Festival", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/nongkrong-pasar-senja-twilight-fair",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
     },
   },
   {
