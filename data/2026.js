@@ -162,7 +162,7 @@ const events = [
   {
     title: "CLUEDO The Play",
     start: "2026-02-07",
-    end: "2026-03-02",
+    end: "2026-03-16",
     description: "",
     tags: ["Play", "Theatre"],
     links: [

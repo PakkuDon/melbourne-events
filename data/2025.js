@@ -676,7 +676,7 @@ const events = [
   {
     title: "Make Believe: Encounters with Misinformation",
     start: "2025-04-16",
-    end: "2026-01-27",
+    end: "2026-01-19",
     description: "",
     tags: ["Exhibition", "Free"],
     links: [
