@@ -341,6 +341,22 @@ const events = [
     },
   },
   {
+    title: "Melbourne Food and Wine Festival",
+    start: "2026-03-20",
+    end: "2026-03-30",
+    description: "",
+    tags: ["Festival", "Food"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.melbournefoodandwine.com.au/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
     title: "The Diary of Anne Frank",
     start: "2026-03-04",
     end: "2026-03-15",
@@ -378,6 +394,26 @@ const events = [
     ],
     location: {
       address: "The Ian Potter Centre: NGV Australia, Melbourne",
+    },
+  },
+  {
+    title: "BMW Opera for All",
+    start: "2026-03-14T18:30:00+11:00",
+    end: "2026-03-14T20:00:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://opera.org.au/events/bmw-opera-for-all/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
     },
   },
   {
@@ -454,6 +490,28 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
+    },
+  },
+  {
+    title: "Baker's Dozen",
+    startRecur: "2026-03-28",
+    endRecur: "2026-03-30",
+    startTime: "10:00:00+10:00",
+    endTime: "15:00:00+10:00",
+    description: "Part of Melbourne Food and Wine Festival",
+    tags: ["Food", "Market", "Free", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.melbournefoodandwine.com.au/events/bakers-dozen/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, Melbourne",
     },
   },
   {
