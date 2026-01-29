@@ -341,6 +341,88 @@ const events = [
     },
   },
   {
+    title: "Silent Cinema with Live Scores",
+    startRecur: "2026-02-16",
+    endRecur: "2026-02-21",
+    startTime: "20:00:00+11:00",
+    endTime: "22:00:00+11:00",
+    description: "",
+    tags: ["Free", "Film", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/silent-cinema-with-live-scores",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
+    title: "Afro Caribbean Carnival 2026",
+    start: "2026-02-21T18:00:00+11:00",
+    end: "2026-02-21T22:00:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/afro-caribbean-carnival",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
+    title: "Big Freedia + Friends",
+    start: "2026-02-27T19:00:00+11:00",
+    end: "2026-02-27T22:00:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/big-freedia-and-friends",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
+    title: "François K | Σtella | Ganavya Live",
+    start: "2026-02-28T18:00:00+11:00",
+    end: "2026-02-28T21:30:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/francois-k-stella-ganavya-live",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
     title: "Melbourne Food and Wine Festival",
     start: "2026-03-20",
     end: "2026-03-30",
