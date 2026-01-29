@@ -423,22 +423,6 @@ const events = [
     },
   },
   {
-    title: "Melbourne Food and Wine Festival",
-    start: "2026-03-20",
-    end: "2026-03-30",
-    description: "",
-    tags: ["Festival", "Food"],
-    links: [
-      {
-        label: "Website",
-        url: "https://www.melbournefoodandwine.com.au/",
-      },
-    ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
-  },
-  {
     title: "The Diary of Anne Frank",
     start: "2026-03-04",
     end: "2026-03-15",
@@ -516,6 +500,22 @@ const events = [
     ],
     location: {
       address: "Her Majesty's Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Melbourne Food and Wine Festival",
+    start: "2026-03-20",
+    end: "2026-03-30",
+    description: "",
+    tags: ["Festival", "Food"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.melbournefoodandwine.com.au/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
     },
   },
   {
