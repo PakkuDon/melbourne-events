@@ -1784,7 +1784,7 @@ const events = [
   {
     title: "Game Worlds",
     start: "2025-09-18",
-    end: "2026-02-09",
+    end: "2026-03-30",
     description: "",
     tags: ["Exhibition", "Gaming"],
     links: [
