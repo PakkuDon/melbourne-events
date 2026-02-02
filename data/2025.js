@@ -2611,7 +2611,7 @@ const events = [
     },
   },
   {
-    title: "Idols of Musical Theatre​",
+    title: "Idols of Musical Theatre",
     start: "2025-12-27",
     end: "2025-12-29",
     description: "",
