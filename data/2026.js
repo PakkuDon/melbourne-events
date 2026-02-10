@@ -301,6 +301,22 @@ const events = [
     },
   },
   {
+    title: "Melbourne Fashion Festival",
+    start: "2026-02-14",
+    end: "2026-03-01",
+    description: "",
+    tags: ["Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://melbournefashionfestival.com.au/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
     title: "Nongkrong - Pasar Senja (twilight fair)",
     start: "2026-02-14T15:00:00+11:00",
     end: "2026-02-14T22:00:00+11:00",
@@ -360,6 +376,28 @@ const events = [
     ],
     location: {
       address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
+    title: "Ramadan Night Market",
+    startRecur: "2026-02-20",
+    endRecur: "2026-02-22",
+    startTime: "17:00:00+10:00",
+    endTime: "22:00:00+10:00",
+    description: "",
+    tags: ["Food", "Market", "Free", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://qvm.com.au/whats-on/ramadan-night-market/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, Melbourne",
     },
   },
   {
@@ -770,6 +808,26 @@ const events = [
     ],
     location: {
       address: "The Princess Theatre, 163 Spring St, Melbourne",
+    },
+  },
+  {
+    title: "Affordable Art Fair Melbourne",
+    start: "2026-08-28",
+    end: "2026-08-31",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://affordableartfair.com/fairs/melbourne/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
     },
   },
 ];
