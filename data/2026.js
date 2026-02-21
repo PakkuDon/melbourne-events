@@ -317,6 +317,26 @@ const events = [
     },
   },
   {
+    title: "Do Not Pass Go",
+    start: "2026-02-14",
+    end: "2026-03-29",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/do-not-pass-go/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
+      },
+    ],
+    location: {
+      address: "Southbank Theatre, Melbourne",
+    },
+  },
+  {
     title: "Nongkrong - Pasar Senja (twilight fair)",
     start: "2026-02-14T15:00:00+11:00",
     end: "2026-02-14T22:00:00+11:00",
@@ -478,6 +498,26 @@ const events = [
     ],
     location: {
       address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
+    title: "West Gate",
+    start: "2026-03-10",
+    end: "2026-04-19",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/west-gate/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
+      },
+    ],
+    location: {
+      address: "Southbank Theatre, Melbourne",
     },
   },
   {
@@ -655,6 +695,26 @@ const events = [
     },
   },
   {
+    title: "The Glass Menagerie",
+    start: "2026-04-27",
+    end: "2026-06-06",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/the-glass-menagerie/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
+      },
+    ],
+    location: {
+      address: "Southbank Theatre, Melbourne",
+    },
+  },
+  {
     title: "Waitress the Musical",
     start: "2026-05-01",
     end: "2026-06-01",
@@ -672,6 +732,46 @@ const events = [
     ],
     location: {
       address: "Her Majesty's Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Shoelace Chaser",
+    start: "2026-05-09",
+    end: "2026-05-28",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/shoelace-chaser/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
+      },
+    ],
+    location: {
+      address: "Southbank Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Retrograde",
+    start: "2026-05-16",
+    end: "2026-06-28",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/retrograde/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
+      },
+    ],
+    location: {
+      address: "Southbank Theatre, Melbourne",
     },
   },
   {
