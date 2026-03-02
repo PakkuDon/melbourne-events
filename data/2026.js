@@ -501,6 +501,26 @@ const events = [
     },
   },
   {
+    title: "Moomba Festival",
+    start: "2026-03-05",
+    end: "2026-03-10",
+    description: "",
+    tags: ["Festival", "Free"],
+    links: [
+      {
+        label: "Website",
+        url: "https://moomba.melbourne.vic.gov.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/DcvDP1rhNmLtzivq6",
+      },
+    ],
+    location: {
+      address: "Birrarung Marr and Alexandra Gardens",
+    },
+  },
+  {
     title: "West Gate",
     start: "2026-03-10",
     end: "2026-04-19",
