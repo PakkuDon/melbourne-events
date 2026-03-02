@@ -505,7 +505,7 @@ const events = [
     start: "2026-03-05",
     end: "2026-03-10",
     description: "",
-    tags: ["Festival", "Free"],
+    tags: ["Festival", "Free", "Outdoor"],
     links: [
       {
         label: "Website",
