@@ -697,7 +697,7 @@ const events = [
   {
     title: "Heathers the Musical",
     start: "2026-04-08",
-    end: "2026-05-04",
+    end: "2026-05-10",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
