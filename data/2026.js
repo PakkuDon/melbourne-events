@@ -413,11 +413,11 @@ const events = [
       },
       {
         label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
       },
     ],
     location: {
-      address: "Fed Square, Melbourne",
+      address: "Queen Victoria Market, Queen St, Melbourne",
     },
   },
   {
