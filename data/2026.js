@@ -501,6 +501,26 @@ const events = [
     },
   },
   {
+    title: "Play School: Come and Play! at ACMI",
+    start: "2026-03-04",
+    end: "2026-07-13",
+    description: "",
+    tags: ["Exhibition", "Family and kids", "Free"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/play-school-come-and-play-at-acmi",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
+      },
+    ],
+    location: {
+      address: "ACMI, Melbourne",
+    },
+  },
+  {
     title: "Moomba Festival",
     start: "2026-03-05",
     end: "2026-03-10",
@@ -617,6 +637,26 @@ const events = [
     },
   },
   {
+    title: "Flavours of Autumn Festival",
+    start: "2026-03-21T09:00:00+11:00",
+    end: "2026-03-21T16:00:00+11:00",
+    description: "",
+    tags: ["Food", "Market", "Free", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://qvm.com.au/whats-on/flavours-of-autumn-festival/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
     title: "Tesselaar Kabloom",
     start: "2026-03-21",
     end: "2026-04-20",
@@ -673,6 +713,48 @@ const events = [
     },
   },
   {
+    title: "MOTHER | Stories from the NGV Collection ",
+    start: "2026-03-27",
+    end: "2026-07-13",
+    description: "",
+    tags: ["Exhibition", "Art", "Free"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.ngv.vic.gov.au/exhibition/mother/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/V1kcEp4pUCf2iKi46",
+      },
+    ],
+    location: {
+      address: "The Ian Potter Centre: NGV Australia, Melbourne",
+    },
+  },
+  {
+    title: "Indonesian Festival",
+    startRecur: "2026-03-28",
+    endRecur: "2026-03-30",
+    startTime: "09:00:00+11:00",
+    endTime: "17:00:00+11:00",
+    description: "",
+    tags: ["Food", "Market", "Free", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://qvm.com.au/whats-on/indonesian-festival/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
     title: "Baker's Dozen",
     startRecur: "2026-03-28",
     endRecur: "2026-03-30",
@@ -695,6 +777,28 @@ const events = [
     },
   },
   {
+    title: "Studio Ghibli Afternoons",
+    startRecur: "2026-04-07",
+    endRecur: "2026-04-10",
+    startTime: "15:00:00+11:00",
+    endTime: "19:00:00+11:00",
+    description: "",
+    tags: ["Free", "Film", "Family and kids", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/studio-ghibli-afternoons",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
     title: "Heathers the Musical",
     start: "2026-04-08",
     end: "2026-05-10",
@@ -712,6 +816,72 @@ const events = [
     ],
     location: {
       address: "Playhouse Theatre, Arts Centre, Melbourne",
+    },
+  },
+  {
+    title: "Turkish Pazar Festival",
+    startRecur: "2026-04-11",
+    endRecur: "2026-04-13",
+    startTime: "09:00:00+10:00",
+    endTime: "16:00:00+10:00",
+    description: "",
+    tags: ["Food", "Market", "Free", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://qvm.com.au/whats-on/turkish-pazar-festival-3/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
+    title: "Cachivaches Latin Market",
+    startRecur: "2026-04-18",
+    endRecur: "2026-04-20",
+    startTime: "09:00:00+10:00",
+    endTime: "16:00:00+10:00",
+    description: "",
+    tags: ["Food", "Market", "Free", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://qvm.com.au/whats-on/cachivaches-latin-market/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
+    title: "The Makers and Shakers Market",
+    startRecur: "2026-04-18",
+    endRecur: "2026-04-20",
+    startTime: "10:00:00+10:00",
+    endTime: "16:00:00+10:00",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://themakersandshakers.com.au/melbourne/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
     },
   },
   {
@@ -848,6 +1018,26 @@ const events = [
     ],
     location: {
       address: "Regent Theatre, 191 Collins St, Melbourne",
+    },
+  },
+  {
+    title: "CARTIER",
+    start: "2026-06-12",
+    end: "2026-10-05",
+    description: "Part of Melbourne Winter Masterpieces",
+    tags: ["Exhibition", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.ngv.vic.gov.au/exhibition/cartier/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
+      },
+    ],
+    location: {
+      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
     },
   },
   {
