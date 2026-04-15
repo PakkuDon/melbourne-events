@@ -122,7 +122,7 @@ const events = [
   {
     title: "The Book of Mormon",
     start: "2026-02-06",
-    end: "2026-06-01",
+    end: "2026-07-20",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
