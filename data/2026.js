@@ -819,6 +819,29 @@ const events = [
     },
   },
   {
+    title: "Hawker 88 Night Market | Queen Victoria Market",
+    startTime: "17:00:00+10:00",
+    endTime: "22:00:00+10:00",
+    startRecur: "2026-04-08",
+    endRecur: "2026-05-07",
+    daysOfWeek: [3],
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://thenightmarket.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
     title: "Turkish Pazar Festival",
     startRecur: "2026-04-11",
     endRecur: "2026-04-13",
