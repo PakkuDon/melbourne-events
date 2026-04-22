@@ -908,6 +908,26 @@ const events = [
     },
   },
   {
+    title: "LIT | Wyndham City",
+    start: "2026-04-24",
+    end: "2026-05-04",
+    description: "",
+    tags: ["Free", "Outdoor", "Illumination", "Family and kids"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.wyndham.vic.gov.au/events-experiences/wyndham-citys-major-events/lit",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ACuz4SA8EkKcVNAo7",
+      },
+    ],
+    location: {
+      address: "Wyndham Park, Werribee",
+    },
+  },
+  {
     title: "The Glass Menagerie",
     start: "2026-04-27",
     end: "2026-06-06",
@@ -945,6 +965,22 @@ const events = [
     ],
     location: {
       address: "Her Majesty's Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Melbourne Writers Festival",
+    start: "2026-05-07",
+    end: "2026-05-11",
+    description: "",
+    tags: ["Art", "Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://mwf.com.au/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
     },
   },
   {
@@ -1041,6 +1077,26 @@ const events = [
     ],
     location: {
       address: "Regent Theatre, 191 Collins St, Melbourne",
+    },
+  },
+  {
+    title: "Lightscape",
+    start: "2026-06-12",
+    end: "2026-08-03",
+    description: "",
+    tags: ["Outdoor", "Illumination", "Family and kids"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.lightscape.com/melbourne",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
+      },
+    ],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
     },
   },
   {
@@ -1161,6 +1217,26 @@ const events = [
     ],
     location: {
       address: "Royal Exhibition Building, Carlton",
+    },
+  },
+  {
+    title: "Triennial 2026",
+    start: "2026-12-13",
+    end: "2027-04-12",
+    description: "",
+    tags: ["Free", "Exhibition", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.ngv.vic.gov.au/exhibition/triennial-2026/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
+      },
+    ],
+    location: {
+      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
     },
   },
 ];
