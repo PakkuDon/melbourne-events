@@ -2409,6 +2409,26 @@ const events = [
     },
   },
   {
+    title: "Women Photographers 1900–1975: A Legacy of Light ",
+    start: "2025-11-28",
+    end: "2026-05-04",
+    description: "",
+    tags: ["Exhibition", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.ngv.vic.gov.au/exhibition/women-photographers-1900-1975/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
+      },
+    ],
+    location: {
+      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
+    },
+  },
+  {
     title: "Moonlight Cinema",
     start: "2025-12-03",
     end: "2026-04-06",

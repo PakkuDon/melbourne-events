@@ -260,6 +260,26 @@ const events = [
     },
   },
   {
+    title: "Rebel Heart: Love letters and other declarations",
+    start: "2026-02-12",
+    end: "2027-01-28",
+    description: "",
+    tags: ["Exhibition", "Free"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.slv.vic.gov.au/whats-on/rebel-heart",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/b5RHnCYqDCi9KFAm6",
+      },
+    ],
+    location: {
+      address: "State Library Victoria, Melbourne",
+    },
+  },
+  {
     title: "Tina Arena Candlelight Concert",
     start: "2026-02-12T20:30:00+11:00",
     end: "2026-02-12T21:30:00+11:00",
@@ -948,6 +968,26 @@ const events = [
     },
   },
   {
+    title: "Eonarium Enlightenment",
+    start: "2026-04-30",
+    end: "2026-06-01",
+    description: "",
+    tags: ["Illumination", "Family and kids"],
+    links: [
+      {
+        label: "Website",
+        url: "https://eonariumexperiences.com/melbourne/enlightenment/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahS9e1yDSvFZcueq7",
+      },
+    ],
+    location: {
+      address: "Immigration Museum, 400 Flinders St, Melbourne",
+    },
+  },
+  {
     title: "Waitress the Musical",
     start: "2026-05-01",
     end: "2026-06-01",
@@ -1137,6 +1177,26 @@ const events = [
     ],
     location: {
       address: "Comedy Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Heartbreak Hotel",
+    start: "2026-07-14",
+    end: "2026-07-20",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.artscentremelbourne.com.au/whats-on/2026/theatre/heartbreak-hotel",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/4wN5QLFtnkYsPiZ19",
+      },
+    ],
+    location: {
+      address: "Fairfax Studio, Arts Centre, Melbourne",
     },
   },
   {
