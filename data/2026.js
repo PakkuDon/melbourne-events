@@ -797,6 +797,26 @@ const events = [
     },
   },
   {
+    title: "ROME: Empire, Power, People",
+    start: "2026-04-01",
+    end: "2026-10-26",
+    description: "",
+    tags: ["Exhibition", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://museumsvictoria.com.au/melbournemuseum/whats-on/rome-empire-power-people/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/swBLScA46YegEVtH8",
+      },
+    ],
+    location: {
+      address: "Melbourne Museum, 11 Nicholson St, Carlton",
+    },
+  },
+  {
     title: "Studio Ghibli Afternoons",
     startRecur: "2026-04-07",
     endRecur: "2026-04-10",
@@ -881,6 +901,26 @@ const events = [
     ],
     location: {
       address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
+    title: "Top Designs 2026",
+    start: "2026-04-11",
+    end: "2026-07-27",
+    description: "",
+    tags: ["Exhibition", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://museumsvictoria.com.au/melbournemuseum/whats-on/top-designs/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/swBLScA46YegEVtH8",
+      },
+    ],
+    location: {
+      address: "Melbourne Museum, 11 Nicholson St, Carlton",
     },
   },
   {
@@ -1024,6 +1064,26 @@ const events = [
     },
   },
   {
+    title: "Royal Exhibition Building Open Day",
+    start: "2026-05-09",
+    end: "2026-05-11",
+    description: "",
+    tags: ["Free", "Family and kids"],
+    links: [
+      {
+        label: "Website",
+        url: "https://museumsvictoria.com.au/melbournemuseum/whats-on/royal-exhibition-building-open-day/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+    },
+  },
+  {
     title: "Shoelace Chaser",
     start: "2026-05-09",
     end: "2026-05-28",
@@ -1160,6 +1220,26 @@ const events = [
     },
   },
   {
+    title: "Pride & Prejudice* *(Sort of)",
+    start: "2026-06-18",
+    end: "2026-07-12",
+    description: "",
+    tags: ["Musical", "Theatre", "Comedy"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.athenaeumtheatre.com.au/shows/pride-prejudice-sort-of",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+      },
+    ],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
     title: "Bluey’s Big Play The Stage Show",
     start: "2026-07-01",
     end: "2026-07-13",
@@ -1220,6 +1300,46 @@ const events = [
     },
   },
   {
+    title: "The Little Food Market",
+    start: "2026-07-17",
+    end: "2026-07-20",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://thelittlefoodmarket.com/melbourne",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+    },
+  },
+  {
+    title: "Steel Magnolias",
+    start: "2026-07-23",
+    end: "2026-08-10",
+    description: "",
+    tags: ["Play", "Theatre", "Comedy"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.athenaeumtheatre.com.au/shows/steel-magnolias",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+      },
+    ],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
     title: "SIX the Musical",
     start: "2026-07-24",
     end: "2026-08-24",
@@ -1269,6 +1389,26 @@ const events = [
       {
         label: "Website",
         url: "https://affordableartfair.com/fairs/melbourne/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+    },
+  },
+  {
+    title: "The Little Food Market",
+    start: "2026-11-27",
+    end: "2026-11-30",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://thelittlefoodmarket.com/melbourne",
       },
       {
         label: "Google Maps",
