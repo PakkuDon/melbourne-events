@@ -1030,7 +1030,7 @@ const events = [
   {
     title: "Waitress the Musical",
     start: "2026-05-01",
-    end: "2026-06-01",
+    end: "2026-07-13",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
