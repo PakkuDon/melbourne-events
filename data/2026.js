@@ -1064,6 +1064,26 @@ const events = [
     },
   },
   {
+    title: "Once",
+    start: "2026-05-08",
+    end: "2026-06-07",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://chapeloffchapel.com.au/show/once/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/KUsoCrPpkiWwU9cc8",
+      },
+    ],
+    location: {
+      address: "Chapel Off Chapel, Prahran",
+    },
+  },
+  {
     title: "Royal Exhibition Building Open Day",
     start: "2026-05-09",
     end: "2026-05-11",
@@ -1180,6 +1200,29 @@ const events = [
     },
   },
   {
+    title: "Winter Night Market | Queen Victoria Market",
+    startTime: "17:00:00+11:00",
+    endTime: "22:00:00+11:00",
+    startRecur: "2026-06-03",
+    endRecur: "2026-08-27",
+    daysOfWeek: [3],
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://thenightmarket.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
     title: "Lightscape",
     start: "2026-06-12",
     end: "2026-08-03",
@@ -1257,6 +1300,26 @@ const events = [
     ],
     location: {
       address: "Comedy Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Firelight Festival",
+    start: "2026-07-03",
+    end: "2026-07-06",
+    description: "",
+    tags: ["Festival", "Outdoor", "Free", "Illumination"],
+    links: [
+      {
+        label: "Website",
+        url: "https://firelight.melbourne.vic.gov.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/PXUGSVipCtXtwEyUA",
+      },
+    ],
+    location: {
+      address: "Harbour Esplanade, Docklands",
     },
   },
   {
@@ -1380,6 +1443,22 @@ const events = [
     },
   },
   {
+    title: "Now or Never",
+    start: "2026-08-19",
+    end: "2026-08-31",
+    description: "",
+    tags: ["Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://nowornever.melbourne.vic.gov.au/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
     title: "Affordable Art Fair Melbourne",
     start: "2026-08-28",
     end: "2026-08-31",
@@ -1397,6 +1476,26 @@ const events = [
     ],
     location: {
       address: "Royal Exhibition Building, Carlton",
+    },
+  },
+  {
+    title: "Tesselaar Tulip Festival",
+    start: "2026-09-12",
+    end: "2026-10-12",
+    description: "",
+    tags: ["Exhibition", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://tulipfestival.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/LWSrHvMU7bLFXahr8",
+      },
+    ],
+    location: {
+      address: "Tesselaar Flower Farm, Silvan",
     },
   },
   {
