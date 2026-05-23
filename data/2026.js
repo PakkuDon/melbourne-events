@@ -1010,7 +1010,7 @@ const events = [
   {
     title: "Eonarium Enlightenment",
     start: "2026-04-30",
-    end: "2026-06-01",
+    end: "2026-06-15",
     description: "",
     tags: ["Illumination", "Family and kids"],
     links: [
