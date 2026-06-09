@@ -1223,6 +1223,26 @@ const events = [
     },
   },
   {
+    title: "Light To Night",
+    start: "2026-06-11",
+    end: "2026-07-13",
+    description: "",
+    tags: ["Festival", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.chadstone.com.au/light-to-night",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/X5oYRfAzVhKvXfGs6",
+      },
+    ],
+    location: {
+      address: "Chadstone Shopping Centre",
+    },
+  },
+  {
     title: "Lightscape",
     start: "2026-06-12",
     end: "2026-08-03",
@@ -1263,6 +1283,26 @@ const events = [
     },
   },
   {
+    title: "Melbourne Donut Festival",
+    start: "2026-06-13",
+    end: "2026-06-15",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://qvm.com.au/whats-on/melbourne-donut-festival/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
     title: "Pride & Prejudice* *(Sort of)",
     start: "2026-06-18",
     end: "2026-07-12",
@@ -1280,6 +1320,26 @@ const events = [
     ],
     location: {
       address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Losing Face",
+    start: "2026-06-22",
+    end: "2026-07-26",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/losing-face",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
+      },
+    ],
+    location: {
+      address: "Southbank Theatre, Melbourne",
     },
   },
   {
@@ -1320,6 +1380,26 @@ const events = [
     ],
     location: {
       address: "Harbour Esplanade, Docklands",
+    },
+  },
+  {
+    title: "Bastille Day French Festival",
+    start: "2026-07-11",
+    end: "2026-07-13",
+    description: "",
+    tags: ["Market", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://qvm.com.au/whats-on/bastille-day-french-festival/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
     },
   },
   {
@@ -1400,6 +1480,22 @@ const events = [
     ],
     location: {
       address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Open House Melbourne Weekend",
+    start: "2026-07-24",
+    end: "2026-07-27",
+    description: "",
+    tags: ["Exhibition"],
+    links: [
+      {
+        label: "Website",
+        url: "https://openhousemelbourne.org/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
     },
   },
   {
@@ -1496,6 +1592,22 @@ const events = [
     ],
     location: {
       address: "Tesselaar Flower Farm, Silvan",
+    },
+  },
+  {
+    title: "Melbourne International Jazz Festival",
+    start: "2026-10-16",
+    end: "2026-10-26",
+    description: "",
+    tags: ["Music", "Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.melbournejazz.com/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
     },
   },
   {
