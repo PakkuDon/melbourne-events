@@ -1539,6 +1539,22 @@ const events = [
     },
   },
   {
+    title: "Melbourne International Film Festival",
+    start: "2026-08-06",
+    end: "2026-08-24",
+    description: "",
+    tags: ["Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://miff.com.au/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
     title: "Now or Never",
     start: "2026-08-19",
     end: "2026-08-31",
@@ -1575,6 +1591,26 @@ const events = [
     },
   },
   {
+    title: "Menopause The Musical",
+    start: "2026-09-02",
+    end: "2026-09-07",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.athenaeumtheatre.com.au/shows/menopause-the-musical",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+      },
+    ],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
     title: "Tesselaar Tulip Festival",
     start: "2026-09-12",
     end: "2026-10-12",
@@ -1595,6 +1631,26 @@ const events = [
     },
   },
   {
+    title: "The Shark is Broken",
+    start: "2026-10-15",
+    end: "2026-11-09",
+    description: "",
+    tags: ["Play", "Theatre", "Comedy"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.athenaeumtheatre.com.au/shows/the-shark-is-broken",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+      },
+    ],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
     title: "Melbourne International Jazz Festival",
     start: "2026-10-16",
     end: "2026-10-26",
@@ -1608,6 +1664,26 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
+    },
+  },
+  {
+    title: "Mrs. Doubtfire - The Musical",
+    start: "2026-11-25",
+    end: "2027-01-04",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://mrsdoubtfiremusical.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
+      },
+    ],
+    location: {
+      address: "The Princess Theatre, 163 Spring St, Melbourne",
     },
   },
   {
