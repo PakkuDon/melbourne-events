@@ -1501,7 +1501,7 @@ const events = [
   {
     title: "SIX the Musical",
     start: "2026-07-24",
-    end: "2026-08-24",
+    end: "2026-10-05",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
