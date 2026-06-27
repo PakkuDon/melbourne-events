@@ -1425,7 +1425,7 @@ const events = [
   {
     title: "Pretty Woman the Musical",
     start: "2026-07-14",
-    end: "2026-08-24",
+    end: "2026-09-14",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
