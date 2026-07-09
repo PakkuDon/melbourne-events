@@ -1383,6 +1383,26 @@ const events = [
     },
   },
   {
+    title: "The Finders Keepers Design Market",
+    start: "2026-07-10",
+    end: "2026-07-13",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.thefinderskeepers.com/melbourne-markets/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+    },
+  },
+  {
     title: "Bastille Day French Festival",
     start: "2026-07-11",
     end: "2026-07-13",
