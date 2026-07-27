@@ -1485,7 +1485,7 @@ const events = [
   {
     title: "Steel Magnolias",
     start: "2026-07-23",
-    end: "2026-08-10",
+    end: "2026-08-17",
     description: "",
     tags: ["Play", "Theatre", "Comedy"],
     links: [
@@ -1541,7 +1541,7 @@ const events = [
   {
     title: "A Beautiful Noise: The Neil Diamond Musical",
     start: "2026-08-05",
-    end: "2026-09-28",
+    end: "2026-10-26",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
@@ -1689,7 +1689,7 @@ const events = [
   {
     title: "Mrs. Doubtfire - The Musical",
     start: "2026-11-25",
-    end: "2027-01-04",
+    end: "2027-01-18",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
