@@ -1483,6 +1483,46 @@ const events = [
     },
   },
   {
+    title: "Uncle Vanya",
+    start: "2026-07-21",
+    end: "2026-08-23",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.artscentremelbourne.com.au/whats-on/2026/seasons/mtc/uncle-vanya",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
+      },
+    ],
+    location: {
+      address: "Playhouse Theatre, Arts Centre, Melbourne",
+    },
+  },
+  {
+    title: "Mackenzie",
+    start: "2026-07-23",
+    end: "2026-08-10",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.artscentremelbourne.com.au/whats-on/2026/seasons/bell-shakespeare/mackenzie",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/4wN5QLFtnkYsPiZ19",
+      },
+    ],
+    location: {
+      address: "Fairfax Studio, Arts Centre, Melbourne",
+    },
+  },
+  {
     title: "Steel Magnolias",
     start: "2026-07-23",
     end: "2026-08-17",
@@ -1651,6 +1691,26 @@ const events = [
     },
   },
   {
+    title: "Monty Python's SPAMALOT",
+    start: "2026-09-16",
+    end: "2026-10-05",
+    description: "",
+    tags: ["Musical", "Theatre", "Comedy"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.athenaeumtheatre.com.au/shows/monty-python",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+      },
+    ],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
     title: "The Shark is Broken",
     start: "2026-10-15",
     end: "2026-11-09",
@@ -1687,6 +1747,26 @@ const events = [
     },
   },
   {
+    title: "One Flew Over the Cuckoo's Nest",
+    start: "2026-11-13",
+    end: "2026-12-07",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.athenaeumtheatre.com.au/shows/one-flew-over-the-cuckoos-nest",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+      },
+    ],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
     title: "Mrs. Doubtfire - The Musical",
     start: "2026-11-25",
     end: "2027-01-18",
@@ -1716,6 +1796,26 @@ const events = [
       {
         label: "Website",
         url: "https://thelittlefoodmarket.com/melbourne",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
+    },
+  },
+  {
+    title: "The Big Design Market",
+    start: "2026-12-04",
+    end: "2026-12-07",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://melbourne.thebigdesignmarket.com/",
       },
       {
         label: "Google Maps",
