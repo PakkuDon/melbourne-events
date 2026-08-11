@@ -1615,6 +1615,26 @@ const events = [
     },
   },
   {
+    title: "Death of a Salesman",
+    start: "2026-08-11",
+    end: "2026-08-23",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://salesmanaustralia.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6",
+      },
+    ],
+    location: {
+      address: "Her Majesty's Theatre, Melbourne",
+    },
+  },
+  {
     title: "Now or Never",
     start: "2026-08-19",
     end: "2026-08-31",
@@ -1711,6 +1731,22 @@ const events = [
     },
   },
   {
+    title: "Melbourne Fringe Festival",
+    start: "2026-09-29",
+    end: "2026-10-19",
+    description: "",
+    tags: ["Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://melbournefringe.com.au/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
     title: "The Shark is Broken",
     start: "2026-10-15",
     end: "2026-11-09",
@@ -1747,6 +1783,49 @@ const events = [
     },
   },
   {
+    title: "Fiddler On The Roof",
+    start: "2026-10-31",
+    end: "2026-12-28",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://hmt.com.au/fiddler-on-the-roof/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6",
+      },
+    ],
+    location: {
+      address: "Her Majesty's Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Colours of Asia: Garden of Wonders",
+    startRecur: "2026-11-13",
+    endRecur: "2026-11-23",
+    startTime: "10:00:00+11:00",
+    endTime: "23:00:00+11:00",
+    daysOfWeek: [0, 5, 6],
+    description: "",
+    tags: ["Festival", "Food", "Free"],
+    links: [
+      {
+        label: "Website",
+        url: "https://asiaoasis.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/CafM2SaHPRGiHL6y7",
+      },
+    ],
+    location: {
+      address: "Alexandra Gardens, Melbourne",
+    },
+  },
+  {
     title: "One Flew Over the Cuckoo's Nest",
     start: "2026-11-13",
     end: "2026-12-07",
@@ -1764,6 +1843,26 @@ const events = [
     ],
     location: {
       address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Opera Up Late",
+    start: "2026-11-15T21:00:00+11:00",
+    end: "2026-11-15T22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance"],
+    links: [
+      {
+        label: "Website",
+        url: "https://opera.org.au/productions/opera-up-late-melbourne/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
+      },
+    ],
+    location: {
+      address: "Regent Theatre, 191 Collins St, Melbourne",
     },
   },
   {
