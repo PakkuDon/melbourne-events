@@ -1164,6 +1164,26 @@ const events = [
     },
   },
   {
+    title: "Reverb: This is a journey into sound",
+    start: "2026-05-22",
+    end: "2026-10-05",
+    description: "",
+    tags: ["Exhibition", "Music"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.acmi.net.au/whats-on/play-on/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
+      },
+    ],
+    location: {
+      address: "ACMI, Melbourne",
+    },
+  },
+  {
     title: "RISING: Melbourne",
     start: "2026-05-27",
     end: "2026-06-09",
@@ -1635,6 +1655,26 @@ const events = [
     },
   },
   {
+    title: "Animal Farm",
+    start: "2026-08-12",
+    end: "2026-08-23",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.artscentremelbourne.com.au/whats-on/2026/theatre/animal-farm",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/4wN5QLFtnkYsPiZ19",
+      },
+    ],
+    location: {
+      address: "Fairfax Studio, Arts Centre, Melbourne",
+    },
+  },
+  {
     title: "Now or Never",
     start: "2026-08-19",
     end: "2026-08-31",
@@ -1648,6 +1688,46 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
+    },
+  },
+  {
+    title: "Feng Mengbo: Long March Restart 冯梦波: 长征 重启",
+    start: "2026-08-19",
+    end: "2027-02-01",
+    description: "",
+    tags: ["Exhibition", "Gaming", "Free"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.acmi.net.au/whats-on/feng-mengbo-long-march-restart/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
+      },
+    ],
+    location: {
+      address: "ACMI, Melbourne",
+    },
+  },
+  {
+    title: "Play On",
+    start: "2026-08-24",
+    end: "2027-02-01",
+    description: "",
+    tags: ["Exhibition", "Gaming", "Free"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.acmi.net.au/whats-on/play-on/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
+      },
+    ],
+    location: {
+      address: "ACMI, Melbourne",
     },
   },
   {
@@ -1740,6 +1820,22 @@ const events = [
       {
         label: "Website",
         url: "https://melbournefringe.com.au/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
+    title: "Melbourne International Games Week (MIGW)",
+    start: "2026-10-02",
+    end: "2026-10-12",
+    description: "",
+    tags: ["Festival", "Gaming"],
+    links: [
+      {
+        label: "Website",
+        url: "https://gamesweek.melbourne/",
       },
     ],
     location: {
