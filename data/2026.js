@@ -1601,7 +1601,7 @@ const events = [
   {
     title: "A Beautiful Noise: The Neil Diamond Musical",
     start: "2026-08-05",
-    end: "2026-10-26",
+    end: "2026-11-08",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
