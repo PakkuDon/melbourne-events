@@ -1224,7 +1224,7 @@ const events = [
     startTime: "17:00:00+11:00",
     endTime: "22:00:00+11:00",
     startRecur: "2026-06-03",
-    endRecur: "2026-08-27",
+    endRecur: "2026-09-10",
     daysOfWeek: [3],
     description: "",
     tags: ["Market"],
