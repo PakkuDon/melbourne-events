@@ -1962,6 +1962,26 @@ const events = [
     },
   },
   {
+    title: "Live at the Gardens: Push Over - 40 Years of The Push",
+    start: "2026-11-21T17:00:00+11:00",
+    end: "2026-11-21T22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.liveatthegardens.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
+      },
+    ],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
+    },
+  },
+  {
     title: "Mrs. Doubtfire - The Musical",
     start: "2026-11-25",
     end: "2027-01-18",
@@ -1982,6 +2002,26 @@ const events = [
     },
   },
   {
+    title: "Live at the Gardens: Six60",
+    start: "2026-11-27T17:00:00+11:00",
+    end: "2026-11-27T22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.liveatthegardens.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
+      },
+    ],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
+    },
+  },
+  {
     title: "The Little Food Market",
     start: "2026-11-27",
     end: "2026-11-30",
@@ -1999,6 +2039,106 @@ const events = [
     ],
     location: {
       address: "Royal Exhibition Building, Carlton",
+    },
+  },
+  {
+    title: "Live at the Gardens: DMA'S",
+    start: "2026-11-28T17:00:00+11:00",
+    end: "2026-11-28T22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.liveatthegardens.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
+      },
+    ],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
+    },
+  },
+  {
+    title: "Live at the Gardens: Cat Power",
+    start: "2026-12-03T17:00:00+11:00",
+    end: "2026-12-03T22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.liveatthegardens.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
+      },
+    ],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
+    },
+  },
+  {
+    title: "Live at the Gardens: Dizzee Rascal",
+    start: "2026-12-04T17:00:00+11:00",
+    end: "2026-12-04T22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.liveatthegardens.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
+      },
+    ],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
+    },
+  },
+  {
+    title: "Live at the Gardens: Wolf Alice",
+    start: "2026-12-05T17:00:00+11:00",
+    end: "2026-12-05T22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.liveatthegardens.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
+      },
+    ],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
+    },
+  },
+  {
+    title: "Live at the Gardens: Hoodoo Gurus",
+    start: "2026-12-06T17:00:00+11:00",
+    end: "2026-12-06T22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.liveatthegardens.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
+      },
+    ],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
     },
   },
   {
