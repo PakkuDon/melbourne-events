@@ -1984,7 +1984,7 @@ const events = [
   {
     title: "Mrs. Doubtfire - The Musical",
     start: "2026-11-25",
-    end: "2027-01-18",
+    end: "2027-02-15",
     description: "",
     tags: ["Musical", "Theatre"],
     links: [
