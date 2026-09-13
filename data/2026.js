@@ -2006,7 +2006,7 @@ const events = [
     start: "2026-11-13",
     end: "2026-12-07",
     description: "",
-    tags: ["Musical", "Theatre"],
+    tags: ["Play", "Theatre"],
     links: [
       {
         label: "Website",
