@@ -1771,6 +1771,26 @@ const events = [
     },
   },
   {
+    title: "Sweeney Todd: A Musical Thriller",
+    start: "2026-09-11",
+    end: "2026-09-24",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.sweeneytodd.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/KUsoCrPpkiWwU9cc8",
+      },
+    ],
+    location: {
+      address: "Chapel Off Chapel, Prahran",
+    },
+  },
+  {
     title: "Tesselaar Tulip Festival",
     start: "2026-09-12",
     end: "2026-10-12",
@@ -1808,6 +1828,26 @@ const events = [
     ],
     location: {
       address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Eliza",
+    start: "2026-09-28",
+    end: "2026-11-01",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/eliza",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
+      },
+    ],
+    location: {
+      address: "Southbank Theatre, Melbourne",
     },
   },
   {
@@ -1879,6 +1919,46 @@ const events = [
     },
   },
   {
+    title: "Before I Forget",
+    start: "2026-10-24",
+    end: "2026-11-29",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/before-i-forget",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/4wN5QLFtnkYsPiZ19",
+      },
+    ],
+    location: {
+      address: "Fairfax Studio, Arts Centre, Melbourne",
+    },
+  },
+  {
+    title: "American Psycho: A Musical Thriller",
+    start: "2026-10-29",
+    end: "2026-11-22",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.americanpsycho.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/KUsoCrPpkiWwU9cc8",
+      },
+    ],
+    location: {
+      address: "Chapel Off Chapel, Prahran",
+    },
+  },
+  {
     title: "Fiddler On The Roof",
     start: "2026-10-31",
     end: "2026-12-28",
@@ -1939,6 +2019,46 @@ const events = [
     ],
     location: {
       address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
+    title: "A Room With A View",
+    start: "2026-11-14",
+    end: "2026-12-20",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/a-room-with-a-view",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
+      },
+    ],
+    location: {
+      address: "Southbank Theatre, Melbourne",
+    },
+  },
+  {
+    title: "My Fair Lady",
+    start: "2026-11-14",
+    end: "2027-01-18",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://myfairladythemusical.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/Lsebrv21A6xHKucZ9",
+      },
+    ],
+    location: {
+      address: "Ian Potter State Theatre, Arts Centre, Melbourne",
     },
   },
   {
