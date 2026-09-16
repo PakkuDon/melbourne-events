@@ -1363,6 +1363,26 @@ const events = [
     },
   },
   {
+    title: "Ragnar Kjartansson",
+    start: "2026-06-26",
+    end: "2026-10-05",
+    description: "",
+    tags: ["Exhibition", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.ngv.vic.gov.au/exhibition/ragnar-kjartansson-mercy/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
+      },
+    ],
+    location: {
+      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
+    },
+  },
+  {
     title: "Bluey’s Big Play The Stage Show",
     start: "2026-07-01",
     end: "2026-07-13",
@@ -1771,6 +1791,26 @@ const events = [
     },
   },
   {
+    title: "Margaret Preston",
+    start: "2026-09-04",
+    end: "2027-02-01",
+    description: "",
+    tags: ["Exhibition", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.ngv.vic.gov.au/exhibition/margaret-preston/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/V1kcEp4pUCf2iKi46",
+      },
+    ],
+    location: {
+      address: "The Ian Potter Centre: NGV Australia, Melbourne",
+    },
+  },
+  {
     title: "Sweeney Todd: A Musical Thriller",
     start: "2026-09-11",
     end: "2026-09-24",
@@ -1828,6 +1868,27 @@ const events = [
     ],
     location: {
       address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
+    title: "ENCORE!",
+    start: "2026-09-16",
+    end: "2027-05-10",
+    description: "",
+    tags: ["Exhibition", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.artscentremelbourne.com.au/ampa/exhibitions/encore",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/UoM9zpm438YPSerYA",
+      },
+    ],
+    location: {
+      address:
+        "Australian Museum of Performing Arts (AMPA), Arts Centre, Melbourne",
     },
   },
   {
