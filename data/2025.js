@@ -2563,11 +2563,12 @@ const events = [
       },
       {
         label: "Google Maps",
-        url: "https://maps.app.goo.gl/F4BKNvr2TTTNa6VT9",
+        url: "https://maps.app.goo.gl/UoM9zpm438YPSerYA",
       },
     ],
     location: {
-      address: "Hamer Hall, Melbourne",
+      address:
+        "Australian Museum of Performing Arts (AMPA), Arts Centre, Melbourne",
     },
   },
   {
