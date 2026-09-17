@@ -647,7 +647,7 @@ const events = [
       },
     ],
     location: {
-      address: "Royal Botanic Gardens, Cranbourne",
+      address: "Royal Botanic Gardens Cranbourne, Cranbourne",
     },
   },
   {
