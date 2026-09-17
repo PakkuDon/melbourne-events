@@ -1892,6 +1892,26 @@ const events = [
     },
   },
   {
+    title: "The Homecoming",
+    start: "2026-09-17",
+    end: "2026-10-04",
+    description: "",
+    tags: ["Play", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.athenaeumtheatre.com.au/shows/the-homecoming",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
+      },
+    ],
+    location: {
+      address: "Athenaeum Theatre, Melbourne",
+    },
+  },
+  {
     title: "Eliza",
     start: "2026-09-28",
     end: "2026-11-01",
@@ -1941,6 +1961,26 @@ const events = [
     ],
     location: {
       address: "Various locations around Melbourne",
+    },
+  },
+  {
+    title: "The Finders Keepers Spring Summer 2026 Market",
+    start: "2026-10-09",
+    end: "2026-10-12",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.thefinderskeepers.com/melbourne-markets/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
+      },
+    ],
+    location: {
+      address: "Royal Exhibition Building, Carlton",
     },
   },
   {
@@ -2220,6 +2260,26 @@ const events = [
     ],
     location: {
       address: "Royal Exhibition Building, Carlton",
+    },
+  },
+  {
+    title: "Elf the Musical",
+    start: "2026-11-27",
+    end: "2026-12-28",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.americanpsycho.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/mPMpHDgcnrtzTHyx7",
+      },
+    ],
+    location: {
+      address: "Crown Live, Melbourne",
     },
   },
   {
