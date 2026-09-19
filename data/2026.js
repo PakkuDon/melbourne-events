@@ -1912,6 +1912,26 @@ const events = [
     },
   },
   {
+    title: "Melbourne Makers' Market - Opening Edition",
+    start: "2026-09-19T10:00:00+10:00",
+    end: "2026-09-19T15:00:00+10:00",
+    description: "",
+    tags: ["Market", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.melbournemakersmarket.com/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ciLXgUQ5cbHLUnN48",
+      },
+    ],
+    location: {
+      address: "City Square, Swanston St, Melbourne",
+    },
+  },
+  {
     title: "Eliza",
     start: "2026-09-28",
     end: "2026-11-01",
@@ -2057,6 +2077,26 @@ const events = [
     ],
     location: {
       address: "Chapel Off Chapel, Prahran",
+    },
+  },
+  {
+    title: "Melbourne Makers' Market - Melbourne Fringe Edition",
+    start: "2026-10-31T10:00:00+11:00",
+    end: "2026-10-31T15:00:00+11:00",
+    description: "",
+    tags: ["Market", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.melbournemakersmarket.com/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ciLXgUQ5cbHLUnN48",
+      },
+    ],
+    location: {
+      address: "City Square, Swanston St, Melbourne",
     },
   },
   {
@@ -2283,6 +2323,26 @@ const events = [
     },
   },
   {
+    title: "Melbourne Makers' Market - Kraft Werks Edition",
+    start: "2026-11-28T10:00:00+11:00",
+    end: "2026-11-28T15:00:00+11:00",
+    description: "",
+    tags: ["Market", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.melbournemakersmarket.com/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ciLXgUQ5cbHLUnN48",
+      },
+    ],
+    location: {
+      address: "City Square, Swanston St, Melbourne",
+    },
+  },
+  {
     title: "Live at the Gardens: DMA'S",
     start: "2026-11-28T17:00:00+11:00",
     end: "2026-11-28T22:30:00+11:00",
@@ -2420,6 +2480,26 @@ const events = [
     ],
     location: {
       address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
+    },
+  },
+  {
+    title: "Melbourne Makers' Market - Twilight Christmas Edition",
+    start: "2026-12-18T10:00:00+11:00",
+    end: "2026-12-18T15:00:00+11:00",
+    description: "",
+    tags: ["Market", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.melbournemakersmarket.com/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ciLXgUQ5cbHLUnN48",
+      },
+    ],
+    location: {
+      address: "City Square, Swanston St, Melbourne",
     },
   },
 ];
