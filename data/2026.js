@@ -1853,7 +1853,7 @@ const events = [
   {
     title: "Monty Python's SPAMALOT",
     start: "2026-09-16",
-    end: "2026-10-05",
+    end: "2026-10-12",
     description: "",
     tags: ["Musical", "Theatre", "Comedy"],
     links: [
