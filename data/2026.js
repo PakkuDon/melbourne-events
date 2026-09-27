@@ -2040,6 +2040,46 @@ const events = [
     },
   },
   {
+    title: "Melbourne Donut Festival",
+    start: "2026-10-17",
+    end: "2026-10-19",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://qvm.com.au/whats-on/melbourne-donut-festival/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
+    title: "Pinoy Octoberfest",
+    start: "2026-10-24",
+    end: "2026-10-26",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://qvm.com.au/whats-on/pinoy-octoberfest/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
     title: "Before I Forget",
     start: "2026-10-24",
     end: "2026-11-29",
@@ -2117,6 +2157,26 @@ const events = [
     ],
     location: {
       address: "Her Majesty's Theatre, Melbourne",
+    },
+  },
+  {
+    title: "Coffee Weekend",
+    start: "2026-11-07",
+    end: "2026-11-09",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://qvm.com.au/whats-on/coffee-weekend/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
     },
   },
   {
@@ -2260,6 +2320,26 @@ const events = [
     ],
     location: {
       address: "Royal Botanic Gardens Victoria, Melbourne",
+    },
+  },
+  {
+    title: "Cachivaches Latin Market",
+    start: "2026-11-21",
+    end: "2026-11-23",
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://qvm.com.au/whats-on/cachivaches-latin-market-2/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
     },
   },
   {
