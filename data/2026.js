@@ -2060,6 +2060,22 @@ const events = [
     },
   },
   {
+    title: "Melbourne Fashion Week",
+    start: "2026-10-19",
+    end: "2026-10-26",
+    description: "",
+    tags: ["Festival"],
+    links: [
+      {
+        label: "Website",
+        url: "https://mfw.melbourne.vic.gov.au/",
+      },
+    ],
+    location: {
+      address: "Various locations around Melbourne",
+    },
+  },
+  {
     title: "Pinoy Octoberfest",
     start: "2026-10-24",
     end: "2026-10-26",
