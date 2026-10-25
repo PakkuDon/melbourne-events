@@ -2379,6 +2379,29 @@ const events = [
     },
   },
   {
+    title: "Christmas Night Market | Queen Victoria Market",
+    startTime: "17:00:00+11:00",
+    endTime: "22:00:00+11:00",
+    startRecur: "2026-11-25",
+    endRecur: "2026-12-17",
+    daysOfWeek: [3],
+    description: "",
+    tags: ["Market"],
+    links: [
+      {
+        label: "Website",
+        url: "https://thenightmarket.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
+      },
+    ],
+    location: {
+      address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
     title: "Live at the Gardens: Six60",
     start: "2026-11-27T17:00:00+11:00",
     end: "2026-11-27T22:30:00+11:00",
