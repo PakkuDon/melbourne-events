@@ -2176,6 +2176,27 @@ const events = [
     },
   },
   {
+    title: "UNDERTALE The Determination Symphony",
+    start: "2026-11-05T20:00:00+11:00",
+    end: "2026-11-05T22:00:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Gaming"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.undertalesymphony.com",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/NiBqcmDUDUw8xZJG6",
+      },
+    ],
+    location: {
+      address:
+        "Plenary Theatre, Melbourne Convention and Exhibition Centre, Melbourne",
+    },
+  },
+  {
     title: "Coffee Weekend",
     start: "2026-11-07",
     end: "2026-11-09",
@@ -2316,6 +2337,27 @@ const events = [
     ],
     location: {
       address: "Royal Botanic Gardens Victoria, Melbourne",
+    },
+  },
+  {
+    title: "UNDERTALE The Determination Symphony",
+    start: "2026-11-20T20:00:00+11:00",
+    end: "2026-11-20T22:00:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Gaming"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.undertalesymphony.com",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/NiBqcmDUDUw8xZJG6",
+      },
+    ],
+    location: {
+      address:
+        "Plenary Theatre, Melbourne Convention and Exhibition Centre, Melbourne",
     },
   },
   {
