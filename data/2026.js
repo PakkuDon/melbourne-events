@@ -2279,26 +2279,6 @@ const events = [
     },
   },
   {
-    title: "Live at the Gardens: Renfair Rave",
-    start: "2026-11-20T17:00:00+11:00",
-    end: "2026-11-20T22:30:00+11:00",
-    description: "",
-    tags: ["Music", "Performance", "Outdoor"],
-    links: [
-      {
-        label: "Website",
-        url: "https://www.liveatthegardens.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
-      },
-    ],
-    location: {
-      address: "Royal Botanic Gardens Victoria, Melbourne",
-    },
-  },
-  {
     title: "Opera Up Late",
     start: "2026-11-15T21:00:00+11:00",
     end: "2026-11-15T22:30:00+11:00",
@@ -2316,6 +2296,26 @@ const events = [
     ],
     location: {
       address: "Regent Theatre, 191 Collins St, Melbourne",
+    },
+  },
+  {
+    title: "Live at the Gardens: Renfair Rave",
+    start: "2026-11-20T17:00:00+11:00",
+    end: "2026-11-20T22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.liveatthegardens.com.au/",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
+      },
+    ],
+    location: {
+      address: "Royal Botanic Gardens Victoria, Melbourne",
     },
   },
   {
