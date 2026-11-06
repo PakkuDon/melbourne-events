@@ -2197,6 +2197,26 @@ const events = [
     },
   },
   {
+    title: "Palestine Cultural Festival",
+    start: "2026-11-07T16:00:00+11:00",
+    end: "2026-11-07T22:00:00+11:00",
+    description: "",
+    tags: ["Free", "Festival", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/palestine-cultural-festival",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
     title: "Coffee Weekend",
     start: "2026-11-07",
     end: "2026-11-09",
@@ -2214,6 +2234,26 @@ const events = [
     ],
     location: {
       address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
+    title: "50 Years of 3RRR feat. Courtney Barnett, Party Dozen + KAIIT",
+    start: "2026-11-12T18:15:00+11:00",
+    end: "2026-11-12T21:30:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/50-years-of-3rrr-feat-courtney-barnett-party-dozen-kaiit",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
     },
   },
   {
@@ -2300,6 +2340,26 @@ const events = [
     },
   },
   {
+    title: "Polish Festival @ Fed Square",
+    start: "2026-11-15T10:00:00+11:00",
+    end: "2026-11-15T17:00:00+11:00",
+    description: "",
+    tags: ["Free", "Festival", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/polish-festival-fed-square",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
+    },
+  },
+  {
     title: "Opera Up Late",
     start: "2026-11-15T21:00:00+11:00",
     end: "2026-11-15T22:30:00+11:00",
@@ -2317,6 +2377,26 @@ const events = [
     ],
     location: {
       address: "Regent Theatre, 191 Collins St, Melbourne",
+    },
+  },
+  {
+    title: "African Music and Cultural Festival 2026",
+    start: "2026-11-20T10:00:00+11:00",
+    end: "2026-11-20T22:00:00+11:00",
+    description: "",
+    tags: ["Free", "Festival", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/african-music-and-cultural-festival",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
     },
   },
   {
@@ -2441,6 +2521,26 @@ const events = [
     ],
     location: {
       address: "Queen Victoria Market, Queen St, Melbourne",
+    },
+  },
+  {
+    title: "Fed Square Christmas Tree Lighting",
+    start: "2026-11-27T18:30:00+11:00",
+    end: "2026-11-27T22:00:00+11:00",
+    description: "",
+    tags: ["Free", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/christmas-tree-lighting",
+      },
+      {
+        label: "Google Maps",
+        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
+      },
+    ],
+    location: {
+      address: "Fed Square, corner Swanston St & Flinders St",
     },
   },
   {
