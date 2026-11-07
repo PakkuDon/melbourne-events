@@ -29,4 +29,11 @@ events.forEach((event) => {
   }
 });
 
-console.log(JSON.stringify(locations, null, 2));
+const locationsSortedByName = Object.keys(locations)
+  .sort()
+  .reduce((sortedLocations, location) => {
+    sortedLocations[location] = locations[location];
+    return sortedLocations;
+  }, {});
+
+console.log(JSON.stringify(locationsSortedByName, null, 2));
