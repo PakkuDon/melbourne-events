@@ -9,12 +9,22 @@ events.forEach((event) => {
     const googleMapsUrl = event.links.find(
       (link) => link.label === "Google Maps",
     )?.url;
+
     if (googleMapsUrl) {
+      const addressSegments = location.address.split(", ");
+
       const locationDetails = {
-        address: location.address,
+        name: addressSegments[0],
+        address: {
+          address_line1: addressSegments.slice(1, -1).join(", "),
+          address_line2: "",
+          city: addressSegments[addressSegments.length - 1],
+          state: "VIC",
+          postcode: 3000,
+        },
         googleMapsUrl,
       };
-      locations[location.address] = locationDetails;
+      locations[addressSegments[0]] = locationDetails;
     }
   }
 });
