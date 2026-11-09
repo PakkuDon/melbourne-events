@@ -1,651 +1,651 @@
 export default {
   "360 Bourke St": {
-    "name": "360 Bourke St",
-    "address": {
-      "address_line1": "360 Bourke St",
-      "address_line2": "",
-      "city": "Melbourne 3000",
-      "state": "VIC",
-      "postcode": 3000
+    name: "360 Bourke St",
+    address: {
+      address_line1: "360 Bourke St",
+      address_line2: "",
+      city: "Melbourne 3000",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/zJ32Vm8iZKsYEofN9"
+    googleMapsUrl: "https://maps.app.goo.gl/zJ32Vm8iZKsYEofN9",
   },
-  "ACMI": {
-    "name": "ACMI",
-    "address": {
-      "address_line1": "Federation Square, Flinders St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+  ACMI: {
+    name: "ACMI",
+    address: {
+      address_line1: "Federation Square, Flinders St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8"
+    googleMapsUrl: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
   },
   "Alexandra Gardens": {
-    "name": "Alexandra Gardens",
-    "address": {
-      "address_line1": "3 Boathouse Dr",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3004
+    name: "Alexandra Gardens",
+    address: {
+      address_line1: "3 Boathouse Dr",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3004,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/CafM2SaHPRGiHL6y7"
+    googleMapsUrl: "https://maps.app.goo.gl/CafM2SaHPRGiHL6y7",
   },
   "Allegro Restaurant": {
-    "name": "Allegro Restaurant",
-    "address": {
-      "address_line1": "The Westin",
-      "address_line2": "205 Collins St",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "Allegro Restaurant",
+    address: {
+      address_line1: "The Westin",
+      address_line2: "205 Collins St",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/h63a7NXZoCnGnguSA"
+    googleMapsUrl: "https://maps.app.goo.gl/h63a7NXZoCnGnguSA",
   },
   "Arts Centre Melbourne": {
-    "name": "Arts Centre Melbourne",
-    "address": {
-      "address_line1": "100 St Kilda Rd",
-      "address_line2": "",
-      "city": "Southbank",
-      "state": "VIC",
-      "postcode": 3004
+    name: "Arts Centre Melbourne",
+    address: {
+      address_line1: "100 St Kilda Rd",
+      address_line2: "",
+      city: "Southbank",
+      state: "VIC",
+      postcode: 3004,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/5uJJAiDw8H8kCt3L7"
+    googleMapsUrl: "https://maps.app.goo.gl/5uJJAiDw8H8kCt3L7",
   },
   "Athenaeum Theatre": {
-    "name": "Athenaeum Theatre",
-    "address": {
-      "address_line1": "188 Collins St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "Athenaeum Theatre",
+    address: {
+      address_line1: "188 Collins St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7"
+    googleMapsUrl: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
   },
   "Australian Museum of Performing Arts (AMPA)": {
-    "name": "Australian Museum of Performing Arts (AMPA)",
-    "address": {
-      "address_line1": "Arts Centre Melbourne",
-      "address_line2": "100 St Kilda Rd",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3004
+    name: "Australian Museum of Performing Arts (AMPA)",
+    address: {
+      address_line1: "Arts Centre Melbourne",
+      address_line2: "100 St Kilda Rd",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3004,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/UoM9zpm438YPSerYA"
+    googleMapsUrl: "https://maps.app.goo.gl/UoM9zpm438YPSerYA",
   },
   "Birrarung Marr and Alexandra Gardens": {
-    "name": "Birrarung Marr and Alexandra Gardens",
-    "address": {
-      "address_line1": "",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "Birrarung Marr and Alexandra Gardens",
+    address: {
+      address_line1: "",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/DcvDP1rhNmLtzivq6"
+    googleMapsUrl: "https://maps.app.goo.gl/DcvDP1rhNmLtzivq6",
   },
   "Chadstone Shopping Centre": {
-    "name": "Chadstone Shopping Centre",
-    "address": {
-      "address_line1": "1341 Dandenong Rd",
-      "address_line2": "",
-      "city": "Malvern East",
-      "state": "VIC",
-      "postcode": 3145
+    name: "Chadstone Shopping Centre",
+    address: {
+      address_line1: "1341 Dandenong Rd",
+      address_line2: "",
+      city: "Malvern East",
+      state: "VIC",
+      postcode: 3145,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/X5oYRfAzVhKvXfGs6"
+    googleMapsUrl: "https://maps.app.goo.gl/X5oYRfAzVhKvXfGs6",
   },
   "Chapel Off Chapel": {
-    "name": "Chapel Off Chapel",
-    "address": {
-      "address_line1": "12 Little Chapel St",
-      "address_line2": "",
-      "city": "Prahran",
-      "state": "VIC",
-      "postcode": 3181
+    name: "Chapel Off Chapel",
+    address: {
+      address_line1: "12 Little Chapel St",
+      address_line2: "",
+      city: "Prahran",
+      state: "VIC",
+      postcode: 3181,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/KUsoCrPpkiWwU9cc8"
+    googleMapsUrl: "https://maps.app.goo.gl/KUsoCrPpkiWwU9cc8",
   },
   "CherryHill Orchards": {
-    "name": "CherryHill Orchards",
-    "address": {
-      "address_line1": "739 Maroondah Hwy",
-      "address_line2": "",
-      "city": "Coldstream",
-      "state": "VIC",
-      "postcode": 3770
+    name: "CherryHill Orchards",
+    address: {
+      address_line1: "739 Maroondah Hwy",
+      address_line2: "",
+      city: "Coldstream",
+      state: "VIC",
+      postcode: 3770,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/p5ty9KjNDiQbSqRj7"
+    googleMapsUrl: "https://maps.app.goo.gl/p5ty9KjNDiQbSqRj7",
   },
-  "Chinatown": {
-    "name": "Chinatown",
-    "address": {
-      "address_line1": "Little Bourke St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+  Chinatown: {
+    name: "Chinatown",
+    address: {
+      address_line1: "Little Bourke St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/kRbNsNdCBxDXZtur9"
+    googleMapsUrl: "https://maps.app.goo.gl/kRbNsNdCBxDXZtur9",
   },
   "Cinema Nova": {
-    "name": "Cinema Nova",
-    "address": {
-      "address_line1": "380 Lygon St",
-      "address_line2": "",
-      "city": "Carlton",
-      "state": "VIC",
-      "postcode": 3053
+    name: "Cinema Nova",
+    address: {
+      address_line1: "380 Lygon St",
+      address_line2: "",
+      city: "Carlton",
+      state: "VIC",
+      postcode: 3053,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/bXjuLQeDPA3SyWar7"
+    googleMapsUrl: "https://maps.app.goo.gl/bXjuLQeDPA3SyWar7",
   },
   "City Gallery": {
-    "name": "City Gallery",
-    "address": {
-      "address_line1": "Melbourne Town Hall",
-      "address_line2": "110 Swanston St",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "City Gallery",
+    address: {
+      address_line1: "Melbourne Town Hall",
+      address_line2: "110 Swanston St",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/Z67Ez6iGw4G8ziK69"
+    googleMapsUrl: "https://maps.app.goo.gl/Z67Ez6iGw4G8ziK69",
   },
   "City Square": {
-    "name": "City Square",
-    "address": {
-      "address_line1": "Swanston St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "City Square",
+    address: {
+      address_line1: "Swanston St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/ciLXgUQ5cbHLUnN48"
+    googleMapsUrl: "https://maps.app.goo.gl/ciLXgUQ5cbHLUnN48",
   },
-  "Collins234": {
-    "name": "Collins234",
-    "address": {
-      "address_line1": "234 Collins St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+  Collins234: {
+    name: "Collins234",
+    address: {
+      address_line1: "234 Collins St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/v4uauVomTEDu5rHv5"
+    googleMapsUrl: "https://maps.app.goo.gl/v4uauVomTEDu5rHv5",
   },
   "Comedy Theatre": {
-    "name": "Comedy Theatre",
-    "address": {
-      "address_line1": "240 Exhibition St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "Comedy Theatre",
+    address: {
+      address_line1: "240 Exhibition St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6"
+    googleMapsUrl: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
   },
   "Crown Live": {
-    "name": "Crown Live",
-    "address": {
-      "address_line1": "Level 3, Crown Melbourne",
-      "address_line2": "8 Whiteman St",
-      "city": "Southbank",
-      "state": "VIC",
-      "postcode": 3006
+    name: "Crown Live",
+    address: {
+      address_line1: "Level 3, Crown Melbourne",
+      address_line2: "8 Whiteman St",
+      city: "Southbank",
+      state: "VIC",
+      postcode: 3006,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/mPMpHDgcnrtzTHyx7"
+    googleMapsUrl: "https://maps.app.goo.gl/mPMpHDgcnrtzTHyx7",
   },
   "Fairfax Studio": {
-    "name": "Fairfax Studio",
-    "address": {
-      "address_line1": "Arts Centre Melbourne",
-      "address_line2": "100 St Kilda Rd",
-      "city": "Southbank",
-      "state": "VIC",
-      "postcode": 3006
+    name: "Fairfax Studio",
+    address: {
+      address_line1: "Arts Centre Melbourne",
+      address_line2: "100 St Kilda Rd",
+      city: "Southbank",
+      state: "VIC",
+      postcode: 3006,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/4wN5QLFtnkYsPiZ19"
+    googleMapsUrl: "https://maps.app.goo.gl/4wN5QLFtnkYsPiZ19",
   },
   "Fed Square": {
-    "name": "Fed Square",
-    "address": {
-      "address_line1": "Corner Swanston St & Flinders St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "Fed Square",
+    address: {
+      address_line1: "Corner Swanston St & Flinders St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A"
+    googleMapsUrl: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
   },
   "Flemington Park": {
-    "name": "Flemington Park",
-    "address": {
-      "address_line1": "448 Epsom Rd",
-      "address_line2": "",
-      "city": "Flemington",
-      "state": "VIC",
-      "postcode": 3031
+    name: "Flemington Park",
+    address: {
+      address_line1: "448 Epsom Rd",
+      address_line2: "",
+      city: "Flemington",
+      state: "VIC",
+      postcode: 3031,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/PkB1LM3ewveAwioy5"
+    googleMapsUrl: "https://maps.app.goo.gl/PkB1LM3ewveAwioy5",
   },
   "Golden Square Car Park": {
-    "name": "Golden Square Car Park",
-    "address": {
-      "address_line1": "217 Lonsdale St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "Golden Square Car Park",
+    address: {
+      address_line1: "217 Lonsdale St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/SzEY2NiFdHyprSCH6"
+    googleMapsUrl: "https://maps.app.goo.gl/SzEY2NiFdHyprSCH6",
   },
   "Hamer Hall": {
-    "name": "Hamer Hall",
-    "address": {
-      "address_line1": "100 St Kilda Rd",
-      "address_line2": "",
-      "city": "Southbank",
-      "state": "VIC",
-      "postcode": 3004
+    name: "Hamer Hall",
+    address: {
+      address_line1: "100 St Kilda Rd",
+      address_line2: "",
+      city: "Southbank",
+      state: "VIC",
+      postcode: 3004,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/F4BKNvr2TTTNa6VT9"
+    googleMapsUrl: "https://maps.app.goo.gl/F4BKNvr2TTTNa6VT9",
   },
   "Harbour Esplanade": {
-    "name": "Harbour Esplanade",
-    "address": {
-      "address_line1": "",
-      "address_line2": "",
-      "city": "Docklands",
-      "state": "VIC",
-      "postcode": 3008
+    name: "Harbour Esplanade",
+    address: {
+      address_line1: "",
+      address_line2: "",
+      city: "Docklands",
+      state: "VIC",
+      postcode: 3008,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/PXUGSVipCtXtwEyUA"
+    googleMapsUrl: "https://maps.app.goo.gl/PXUGSVipCtXtwEyUA",
   },
   "Hellenic Museum": {
-    "name": "Hellenic Museum",
-    "address": {
-      "address_line1": "280 William St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "Hellenic Museum",
+    address: {
+      address_line1: "280 William St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/UWXhJaqm6AC4K8sk8"
+    googleMapsUrl: "https://maps.app.goo.gl/UWXhJaqm6AC4K8sk8",
   },
   "Her Majesty's Theatre": {
-    "name": "Her Majesty's Theatre",
-    "address": {
-      "address_line1": "219 Exhibition St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "Her Majesty's Theatre",
+    address: {
+      address_line1: "219 Exhibition St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6"
+    googleMapsUrl: "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6",
   },
   "Ian Potter State Theatre": {
-    "name": "Ian Potter State Theatre",
-    "address": {
-      "address_line1": "Arts Centre Melbourne",
-      "address_line2": "100 St Kilda Rd",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3004
+    name: "Ian Potter State Theatre",
+    address: {
+      address_line1: "Arts Centre Melbourne",
+      address_line2: "100 St Kilda Rd",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3004,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/Lsebrv21A6xHKucZ9"
+    googleMapsUrl: "https://maps.app.goo.gl/Lsebrv21A6xHKucZ9",
   },
   "Immigration Museum": {
-    "name": "Immigration Museum",
-    "address": {
-      "address_line1": "400 Flinders St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "Immigration Museum",
+    address: {
+      address_line1: "400 Flinders St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/ahS9e1yDSvFZcueq7"
+    googleMapsUrl: "https://maps.app.goo.gl/ahS9e1yDSvFZcueq7",
   },
   "Lennox St. Gallery": {
-    "name": "Lennox St. Gallery",
-    "address": {
-      "address_line1": "322-324 Lennox St",
-      "address_line2": "",
-      "city": "Richmond",
-      "state": "VIC",
-      "postcode": 3121
+    name: "Lennox St. Gallery",
+    address: {
+      address_line1: "322-324 Lennox St",
+      address_line2: "",
+      city: "Richmond",
+      state: "VIC",
+      postcode: 3121,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/uKejRohB2TujRWiZ6"
+    googleMapsUrl: "https://maps.app.goo.gl/uKejRohB2TujRWiZ6",
   },
   "Lonsdale Street precinct": {
-    "name": "Lonsdale Street precinct",
-    "address": {
-      "address_line1": "Lonsdale Street",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "Lonsdale Street precinct",
+    address: {
+      address_line1: "Lonsdale Street",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/E5Qy5T75z8AQ5utM8"
+    googleMapsUrl: "https://maps.app.goo.gl/E5Qy5T75z8AQ5utM8",
   },
   "Marvel Stadium": {
-    "name": "Marvel Stadium",
-    "address": {
-      "address_line1": "740 Bourke St",
-      "address_line2": "",
-      "city": "Docklands",
-      "state": "VIC",
-      "postcode": 3008
+    name: "Marvel Stadium",
+    address: {
+      address_line1: "740 Bourke St",
+      address_line2: "",
+      city: "Docklands",
+      state: "VIC",
+      postcode: 3008,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/Piozzipi77WBatUx5"
+    googleMapsUrl: "https://maps.app.goo.gl/Piozzipi77WBatUx5",
   },
   "Meat Market": {
-    "name": "Meat Market",
-    "address": {
-      "address_line1": "3 Blackwood St",
-      "address_line2": "",
-      "city": "North Melbourne",
-      "state": "VIC",
-      "postcode": 3051
+    name: "Meat Market",
+    address: {
+      address_line1: "3 Blackwood St",
+      address_line2: "",
+      city: "North Melbourne",
+      state: "VIC",
+      postcode: 3051,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/f3obPbjxCv9SPoJx7"
+    googleMapsUrl: "https://maps.app.goo.gl/f3obPbjxCv9SPoJx7",
   },
   "Melbourne Convention and Exhibition Centre (MCEC)": {
-    "name": "Melbourne Convention and Exhibition Centre (MCEC)",
-    "address": {
-      "address_line1": "1 Convention Centre Pl",
-      "address_line2": "",
-      "city": "South Wharf",
-      "state": "VIC",
-      "postcode": 3006
+    name: "Melbourne Convention and Exhibition Centre (MCEC)",
+    address: {
+      address_line1: "1 Convention Centre Pl",
+      address_line2: "",
+      city: "South Wharf",
+      state: "VIC",
+      postcode: 3006,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/GnGf5rSD8pAWTA4d7"
+    googleMapsUrl: "https://maps.app.goo.gl/GnGf5rSD8pAWTA4d7",
   },
   "Melbourne Museum": {
-    "name": "Melbourne Museum",
-    "address": {
-      "address_line1": "11 Nicholson St",
-      "address_line2": "",
-      "city": "Carlton",
-      "state": "VIC",
-      "postcode": 3053
+    name: "Melbourne Museum",
+    address: {
+      address_line1: "11 Nicholson St",
+      address_line2: "",
+      city: "Carlton",
+      state: "VIC",
+      postcode: 3053,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/swBLScA46YegEVtH8"
+    googleMapsUrl: "https://maps.app.goo.gl/swBLScA46YegEVtH8",
   },
   "Melbourne Recital Centre": {
-    "name": "Melbourne Recital Centre",
-    "address": {
-      "address_line1": "31 Sturt St",
-      "address_line2": "",
-      "city": "Southbank",
-      "state": "VIC",
-      "postcode": 3006
+    name: "Melbourne Recital Centre",
+    address: {
+      address_line1: "31 Sturt St",
+      address_line2: "",
+      city: "Southbank",
+      state: "VIC",
+      postcode: 3006,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/WKLsKyiv6Yy7Rj9r7"
+    googleMapsUrl: "https://maps.app.goo.gl/WKLsKyiv6Yy7Rj9r7",
   },
   "Melbourne Showgrounds": {
-    "name": "Melbourne Showgrounds",
-    "address": {
-      "address_line1": "Epsom Rd",
-      "address_line2": "",
-      "city": "Ascot Vale",
-      "state": "VIC",
-      "postcode": 3032
+    name: "Melbourne Showgrounds",
+    address: {
+      address_line1: "Epsom Rd",
+      address_line2: "",
+      city: "Ascot Vale",
+      state: "VIC",
+      postcode: 3032,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/apnjgN8oXs1KwwDd8"
+    googleMapsUrl: "https://maps.app.goo.gl/apnjgN8oXs1KwwDd8",
   },
   "National Gallery of Victoria": {
-    "name": "National Gallery of Victoria",
-    "address": {
-      "address_line1": "180 St Kilda Rd",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3006
+    name: "National Gallery of Victoria",
+    address: {
+      address_line1: "180 St Kilda Rd",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3006,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9"
+    googleMapsUrl: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
   },
   "Playhouse Theatre": {
-    "name": "Playhouse Theatre",
-    "address": {
-      "address_line1": "Arts Centre Melbourne",
-      "address_line2": "100 St Kilda Rd",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3004
+    name: "Playhouse Theatre",
+    address: {
+      address_line1: "Arts Centre Melbourne",
+      address_line2: "100 St Kilda Rd",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3004,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/oF5TDshryjzAo6WV9"
+    googleMapsUrl: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
   },
   "Plenary Theatre": {
-    "name": "Plenary Theatre",
-    "address": {
-      "address_line1": "Melbourne Convention and Exhibition Centre",
-      "address_line2": "1 Convention Centre Pl",
-      "city": "South Wharf",
-      "state": "VIC",
-      "postcode": 3006
+    name: "Plenary Theatre",
+    address: {
+      address_line1: "Melbourne Convention and Exhibition Centre",
+      address_line2: "1 Convention Centre Pl",
+      city: "South Wharf",
+      state: "VIC",
+      postcode: 3006,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/NiBqcmDUDUw8xZJG6"
+    googleMapsUrl: "https://maps.app.goo.gl/NiBqcmDUDUw8xZJG6",
   },
   "Prahran Square": {
-    "name": "Prahran Square",
-    "address": {
-      "address_line1": "Cato St",
-      "address_line2": "",
-      "city": "Prahran",
-      "state": "VIC",
-      "postcode": 3181
+    name: "Prahran Square",
+    address: {
+      address_line1: "Cato St",
+      address_line2: "",
+      city: "Prahran",
+      state: "VIC",
+      postcode: 3181,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/zqVMST7ZVRKDvwcD9"
+    googleMapsUrl: "https://maps.app.goo.gl/zqVMST7ZVRKDvwcD9",
   },
   "Puffing Billy Railway Lakeside Visitor Centre": {
-    "name": "Puffing Billy Railway Lakeside Visitor Centre",
-    "address": {
-      "address_line1": "2/50 Emerald Lake Rd",
-      "address_line2": "",
-      "city": "Emerald",
-      "state": "VIC",
-      "postcode": 3782
+    name: "Puffing Billy Railway Lakeside Visitor Centre",
+    address: {
+      address_line1: "2/50 Emerald Lake Rd",
+      address_line2: "",
+      city: "Emerald",
+      state: "VIC",
+      postcode: 3782,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/dFwvuapXcMxw9Sii6"
+    googleMapsUrl: "https://maps.app.goo.gl/dFwvuapXcMxw9Sii6",
   },
   "Queen Victoria Market": {
-    "name": "Queen Victoria Market",
-    "address": {
-      "address_line1": "Queen St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "Queen Victoria Market",
+    address: {
+      address_line1: "Queen St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8"
+    googleMapsUrl: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
   },
   "Regent Theatre": {
-    "name": "Regent Theatre",
-    "address": {
-      "address_line1": "191 Collins St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "Regent Theatre",
+    address: {
+      address_line1: "191 Collins St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6"
+    googleMapsUrl: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
   },
   "Rod Laver Arena": {
-    "name": "Rod Laver Arena",
-    "address": {
-      "address_line1": "200 Batman Ave",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3004
+    name: "Rod Laver Arena",
+    address: {
+      address_line1: "200 Batman Ave",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3004,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/WigqQq1jwkYBoBYp9"
+    googleMapsUrl: "https://maps.app.goo.gl/WigqQq1jwkYBoBYp9",
   },
   "Royal Botanic Gardens Cranbourne": {
-    "name": "Royal Botanic Gardens Cranbourne",
-    "address": {
-      "address_line1": "Ballarto Road &, Botanic Drive",
-      "address_line2": "",
-      "city": "Cranbourne",
-      "state": "VIC",
-      "postcode": 3977
+    name: "Royal Botanic Gardens Cranbourne",
+    address: {
+      address_line1: "Ballarto Road &, Botanic Drive",
+      address_line2: "",
+      city: "Cranbourne",
+      state: "VIC",
+      postcode: 3977,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/1saD7PtYgKLqazjw5"
+    googleMapsUrl: "https://maps.app.goo.gl/1saD7PtYgKLqazjw5",
   },
   "Royal Botanic Gardens Victoria": {
-    "name": "Royal Botanic Gardens Victoria",
-    "address": {
-      "address_line1": "",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3004
+    name: "Royal Botanic Gardens Victoria",
+    address: {
+      address_line1: "",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3004,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9"
+    googleMapsUrl: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
   },
   "Royal Exhibition Building": {
-    "name": "Royal Exhibition Building",
-    "address": {
-      "address_line1": "9 Nicholson St",
-      "address_line2": "",
-      "city": "Carlton",
-      "state": "VIC",
-      "postcode": 3053
+    name: "Royal Exhibition Building",
+    address: {
+      address_line1: "9 Nicholson St",
+      address_line2: "",
+      city: "Carlton",
+      state: "VIC",
+      postcode: 3053,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/ehgZk8iqN691ZHN96"
+    googleMapsUrl: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
   },
   "Shrine of Remembrance": {
-    "name": "Shrine of Remembrance",
-    "address": {
-      "address_line1": "Birdwood Ave",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3004
+    name: "Shrine of Remembrance",
+    address: {
+      address_line1: "Birdwood Ave",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3004,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/sGQWzRy4oCdVMyUs7"
+    googleMapsUrl: "https://maps.app.goo.gl/sGQWzRy4oCdVMyUs7",
   },
   "Sidney Myer Music Bowl": {
-    "name": "Sidney Myer Music Bowl",
-    "address": {
-      "address_line1": "Kings Domain Gardens",
-      "address_line2": "Linlithgow Ave",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "Sidney Myer Music Bowl",
+    address: {
+      address_line1: "Kings Domain Gardens",
+      address_line2: "Linlithgow Ave",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/LAHceVEECBY9uF9E8"
+    googleMapsUrl: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
   },
   "Southbank Theatre": {
-    "name": "Southbank Theatre",
-    "address": {
-      "address_line1": "140 Southbank Blvd",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3006
+    name: "Southbank Theatre",
+    address: {
+      address_line1: "140 Southbank Blvd",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3006,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6"
+    googleMapsUrl: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
   },
   "State Library Victoria": {
-    "name": "State Library Victoria",
-    "address": {
-      "address_line1": "328 Swanston St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "State Library Victoria",
+    address: {
+      address_line1: "328 Swanston St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/b5RHnCYqDCi9KFAm6"
+    googleMapsUrl: "https://maps.app.goo.gl/b5RHnCYqDCi9KFAm6",
   },
   "THE LUME": {
-    "name": "THE LUME",
-    "address": {
-      "address_line1": "Melbourne Convention and Exhibition Centre",
-      "address_line2": "5 Convention Centre Pl",
-      "city": "South Wharf",
-      "state": "VIC",
-      "postcode": 3006
+    name: "THE LUME",
+    address: {
+      address_line1: "Melbourne Convention and Exhibition Centre",
+      address_line2: "5 Convention Centre Pl",
+      city: "South Wharf",
+      state: "VIC",
+      postcode: 3006,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/jUsZvqXhu88nLFUG9"
+    googleMapsUrl: "https://maps.app.goo.gl/jUsZvqXhu88nLFUG9",
   },
   "Tesselaar Flower Farm": {
-    "name": "Tesselaar Flower Farm",
-    "address": {
-      "address_line1": "357 Monbulk Rd",
-      "address_line2": "",
-      "city": "Silvan",
-      "state": "VIC",
-      "postcode": 3795
+    name: "Tesselaar Flower Farm",
+    address: {
+      address_line1: "357 Monbulk Rd",
+      address_line2: "",
+      city: "Silvan",
+      state: "VIC",
+      postcode: 3795,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/LWSrHvMU7bLFXahr8"
+    googleMapsUrl: "https://maps.app.goo.gl/LWSrHvMU7bLFXahr8",
   },
   "The Capitol": {
-    "name": "The Capitol",
-    "address": {
-      "address_line1": "113 Swanston St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "The Capitol",
+    address: {
+      address_line1: "113 Swanston St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/NUUWnKPS3RvUXXfb8"
+    googleMapsUrl: "https://maps.app.goo.gl/NUUWnKPS3RvUXXfb8",
   },
   "The Ian Potter Centre: NGV Australia": {
-    "name": "The Ian Potter Centre: NGV Australia",
-    "address": {
-      "address_line1": "Federation Square",
-      "address_line2": "Flinders St & Russell St",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "The Ian Potter Centre: NGV Australia",
+    address: {
+      address_line1: "Federation Square",
+      address_line2: "Flinders St & Russell St",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/V1kcEp4pUCf2iKi46"
+    googleMapsUrl: "https://maps.app.goo.gl/V1kcEp4pUCf2iKi46",
   },
   "The National Theatre Melbourne": {
-    "name": "The National Theatre Melbourne",
-    "address": {
-      "address_line1": "20 Carlisle St",
-      "address_line2": "",
-      "city": "St Kilda",
-      "state": "VIC",
-      "postcode": 3182
+    name: "The National Theatre Melbourne",
+    address: {
+      address_line1: "20 Carlisle St",
+      address_line2: "",
+      city: "St Kilda",
+      state: "VIC",
+      postcode: 3182,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/cJmKJYA6atXmSdqy5"
+    googleMapsUrl: "https://maps.app.goo.gl/cJmKJYA6atXmSdqy5",
   },
   "The Princess Theatre": {
-    "name": "The Princess Theatre",
-    "address": {
-      "address_line1": "163 Spring St",
-      "address_line2": "",
-      "city": "Melbourne",
-      "state": "VIC",
-      "postcode": 3000
+    name: "The Princess Theatre",
+    address: {
+      address_line1: "163 Spring St",
+      address_line2: "",
+      city: "Melbourne",
+      state: "VIC",
+      postcode: 3000,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9"
+    googleMapsUrl: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
   },
   "Victoria State Rose Garden": {
-    "name": "Victoria State Rose Garden",
-    "address": {
-      "address_line1": "K Rd",
-      "address_line2": "",
-      "city": "Werribee South",
-      "state": "VIC",
-      "postcode": 3030
+    name: "Victoria State Rose Garden",
+    address: {
+      address_line1: "K Rd",
+      address_line2: "",
+      city: "Werribee South",
+      state: "VIC",
+      postcode: 3030,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/uqx4KanuLxzBkERr8"
+    googleMapsUrl: "https://maps.app.goo.gl/uqx4KanuLxzBkERr8",
   },
   "Wyndham Park": {
-    "name": "Wyndham Park",
-    "address": {
-      "address_line1": "",
-      "address_line2": "",
-      "city": "Werribee",
-      "state": "VIC",
-      "postcode": 3030
+    name: "Wyndham Park",
+    address: {
+      address_line1: "",
+      address_line2: "",
+      city: "Werribee",
+      state: "VIC",
+      postcode: 3030,
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/ACuz4SA8EkKcVNAo7"
-  }
-}
+    googleMapsUrl: "https://maps.app.goo.gl/ACuz4SA8EkKcVNAo7",
+  },
+};
