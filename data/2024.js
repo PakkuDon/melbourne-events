@@ -503,7 +503,7 @@ const events = [
       },
     ],
     location: {
-      address: "Level 1, 360 Bourke St, Melbourne 3000",
+      address: "360 Bourke St, Melbourne 3000",
     },
   },
   {
