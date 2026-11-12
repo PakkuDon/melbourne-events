@@ -109,8 +109,8 @@ export default {
     },
     googleMapsUrl: "https://maps.app.goo.gl/KUsoCrPpkiWwU9cc8",
   },
-  "CherryHill Orchards": {
-    name: "CherryHill Orchards",
+  "CherryHill Orchards - Coldstream": {
+    name: "CherryHill Orchards - Coldstream",
     address: {
       address_line1: "739 Maroondah Hwy",
       address_line2: "",
@@ -119,6 +119,17 @@ export default {
       postcode: 3770,
     },
     googleMapsUrl: "https://maps.app.goo.gl/p5ty9KjNDiQbSqRj7",
+  },
+  "CherryHill Orchards - Wandin East": {
+    name: "CherryHill Orchards - Wandin East",
+    address: {
+      address_line1: "474 Queens Rd",
+      address_line2: "",
+      city: "Wandin East",
+      state: "VIC",
+      postcode: 3139,
+    },
+    googleMapsUrl: "https://maps.app.goo.gl/PiDTR9VYQJ14HR1f6",
   },
   Chinatown: {
     name: "Chinatown",
