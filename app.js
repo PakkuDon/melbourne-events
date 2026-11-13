@@ -1,4 +1,5 @@
 import events from "./events.js";
+import locations from "./data/locations.js";
 import { Calendar } from "@fullcalendar/core";
 import dayGridPlugin from "@fullcalendar/daygrid";
 import listPlugin from "@fullcalendar/list";
@@ -22,6 +23,20 @@ const showEventDetails = (popoverElement, event) => {
     timeRangeStr = `<div>${event.start.toLocaleTimeString()} - ${event.end.toLocaleTimeString()}</div>`;
   }
 
+  const eventLocation = locations[event.extendedProps.location];
+  let locationStr = event.extendedProps.location;
+  if (eventLocation) {
+    locationStr = [
+      eventLocation.address.address_line1,
+      eventLocation.address.address_line2,
+      eventLocation.address.city,
+      eventLocation.address.state,
+      eventLocation.address.postcode,
+    ]
+      .filter((value) => value)
+      .join(", ");
+  }
+
   popoverElement.hidePopover();
   popoverElement.innerHTML = `
     <button aria-label="close" style="float: right;">x</button>
@@ -34,7 +49,7 @@ const showEventDetails = (popoverElement, event) => {
     </div>
     ${timeRangeStr}
     <div>
-      ${event.extendedProps.location.address}
+      ${locationStr}
     </div>
     <p>
       ${event.extendedProps.description}
