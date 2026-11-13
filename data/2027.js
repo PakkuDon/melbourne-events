@@ -15,9 +15,7 @@ const events = [
         url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
       },
     ],
-    location: {
-      address: "Sidney Myer Music Bowl, Melbourne",
-    },
+    location: "Sidney Myer Music Bowl",
   },
   {
     title: "Sidney Myer Free Concert: The Call of Adventure",
@@ -35,9 +33,7 @@ const events = [
         url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
       },
     ],
-    location: {
-      address: "Sidney Myer Music Bowl, Melbourne",
-    },
+    location: "Sidney Myer Music Bowl",
   },
   {
     title: "Sidney Myer Free Concert: Beethoven at the Bowl",
@@ -55,9 +51,7 @@ const events = [
         url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
       },
     ],
-    location: {
-      address: "Sidney Myer Music Bowl, Melbourne",
-    },
+    location: "Sidney Myer Music Bowl",
   },
   {
     title: "Laneway Festival",
@@ -75,9 +69,7 @@ const events = [
         url: "https://maps.app.goo.gl/PkB1LM3ewveAwioy5",
       },
     ],
-    location: {
-      address: "Flemington Park, Flemington",
-    },
+    location: "Flemington Park",
   },
 ];
 

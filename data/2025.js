@@ -15,9 +15,7 @@ const events = [
         url: "https://maps.app.goo.gl/CafM2SaHPRGiHL6y7",
       },
     ],
-    location: {
-      address: "Alexandra Gardens, Melbourne",
-    },
+    location: "Alexandra Gardens",
   },
   {
     title: "Midsumma Festival",
@@ -31,9 +29,7 @@ const events = [
         url: "https://www.midsumma.org.au/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "Shirley Valentine",
@@ -51,9 +47,7 @@ const events = [
         url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
-    location: {
-      address: "Athenaeum Theatre, Melbourne",
-    },
+    location: "Athenaeum Theatre",
   },
   {
     title: "BMW Opera for All",
@@ -71,9 +65,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "Melbourne Chinese Lunar New Year Festival",
@@ -91,9 +83,7 @@ const events = [
         url: "https://maps.app.goo.gl/kRbNsNdCBxDXZtur9",
       },
     ],
-    location: {
-      address: "Chinatown, Melbourne",
-    },
+    location: "Chinatown",
   },
   {
     title: "Soli by Candlelight",
@@ -111,9 +101,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "Sidney Myer Free Concert: Journeys and Adventures",
@@ -131,9 +119,7 @@ const events = [
         url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
       },
     ],
-    location: {
-      address: "Sidney Myer Music Bowl, Melbourne",
-    },
+    location: "Sidney Myer Music Bowl",
   },
   {
     title: "Ross Wilson and The Peaceniks by Candlelight",
@@ -151,9 +137,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "Teeks by Candlelight",
@@ -171,9 +155,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "Bruce Lee Bonanza",
@@ -193,9 +175,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "Afro-Caribbean Carnival",
@@ -213,9 +193,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "Sidney Myer Free Concert: Dvořák, Gershwin and Ravel",
@@ -233,9 +211,7 @@ const events = [
         url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
       },
     ],
-    location: {
-      address: "Sidney Myer Music Bowl, Melbourne",
-    },
+    location: "Sidney Myer Music Bowl",
   },
   {
     title: "Asia TOPA",
@@ -249,9 +225,7 @@ const events = [
         url: "https://www.asiatopa.com.au/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "Science Fiction Film Festival",
@@ -269,9 +243,7 @@ const events = [
         url: "https://maps.app.goo.gl/bXjuLQeDPA3SyWar7",
       },
     ],
-    location: {
-      address: "Cinema Nova, Carlton",
-    },
+    location: "Cinema Nova",
   },
   {
     title: "Melbourne Fashion Festival",
@@ -285,9 +257,7 @@ const events = [
         url: "https://melbournefashionfestival.com.au/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "Nature Obituary",
@@ -307,9 +277,7 @@ const events = [
         url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
       },
     ],
-    location: {
-      address: "Royal Botanic Gardens Victoria, Melbourne",
-    },
+    location: "Royal Botanic Gardens Victoria",
   },
   {
     title: "Antipodes Festival",
@@ -327,9 +295,7 @@ const events = [
         url: "https://maps.app.goo.gl/E5Qy5T75z8AQ5utM8",
       },
     ],
-    location: {
-      address: "Lonsdale Street precinct, Melbourne",
-    },
+    location: "Lonsdale Street precinct",
   },
   {
     title: "Sidney Myer Free Concert: Symphonic Showcase",
@@ -347,9 +313,7 @@ const events = [
         url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
       },
     ],
-    location: {
-      address: "Sidney Myer Music Bowl, Melbourne",
-    },
+    location: "Sidney Myer Music Bowl",
   },
   {
     title: "Avenue Q",
@@ -367,9 +331,7 @@ const events = [
         url: "https://maps.app.goo.gl/cJmKJYA6atXmSdqy5",
       },
     ],
-    location: {
-      address: "The National Theatre Melbourne, St Kilda",
-    },
+    location: "The National Theatre Melbourne",
   },
   {
     title: "Moomba Festival",
@@ -387,9 +349,7 @@ const events = [
         url: "https://maps.app.goo.gl/DcvDP1rhNmLtzivq6",
       },
     ],
-    location: {
-      address: "Birrarung Marr and Alexandra Gardens",
-    },
+    location: "Birrarung Marr and Alexandra Gardens",
   },
   {
     title: "Live at THE LUME: Symphony in Motion",
@@ -407,9 +367,7 @@ const events = [
         url: "https://maps.app.goo.gl/jUsZvqXhu88nLFUG9",
       },
     ],
-    location: {
-      address: "THE LUME, Melbourne",
-    },
+    location: "THE LUME",
   },
   {
     title: "Live at the Gardens",
@@ -430,9 +388,7 @@ const events = [
         url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
       },
     ],
-    location: {
-      address: "Royal Botanic Gardens Victoria, Melbourne",
-    },
+    location: "Royal Botanic Gardens Victoria",
   },
   {
     title: "The Dirty Dozen",
@@ -450,9 +406,7 @@ const events = [
         url: "https://maps.app.goo.gl/Z67Ez6iGw4G8ziK69",
       },
     ],
-    location: {
-      address: "City Gallery, Melbourne Town Hall, Melbourne",
-    },
+    location: "City Gallery",
   },
   {
     title: "Top Arts 2025",
@@ -470,9 +424,7 @@ const events = [
         url: "https://maps.app.goo.gl/V1kcEp4pUCf2iKi46",
       },
     ],
-    location: {
-      address: "The Ian Potter Centre: NGV Australia, Melbourne",
-    },
+    location: "The Ian Potter Centre: NGV Australia",
   },
   {
     title: "Jesus Christ Superstar",
@@ -490,9 +442,7 @@ const events = [
         url: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
       },
     ],
-    location: {
-      address: "The Princess Theatre, 163 Spring St, Melbourne",
-    },
+    location: "The Princess Theatre",
   },
   {
     title: "Melbourne Food and Wine Festival",
@@ -506,9 +456,7 @@ const events = [
         url: "https://www.melbournefoodandwine.com.au/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "The Finders Keepers Food Market",
@@ -526,9 +474,7 @@ const events = [
         url: "https://maps.app.goo.gl/z8zhzx5ss7qYua1D6",
       },
     ],
-    location: {
-      address: "Meat Market, Melbourne",
-    },
+    location: "Meat Market",
   },
   {
     title: "Melbourne International Comedy Festival",
@@ -542,9 +488,7 @@ const events = [
         url: "https://www.comedyfestival.com.au/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "Melbourne International Flower & Garden Show",
@@ -562,9 +506,7 @@ const events = [
         url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
       },
     ],
-    location: {
-      address: "Royal Exhibition Building, Carlton",
-    },
+    location: "Royal Exhibition Building",
   },
   {
     title: "Baker's Dozen",
@@ -584,9 +526,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, Melbourne",
-    },
+    location: "Fed Square",
   },
   {
     title: "Live at THE LUME: French Jazz Soirée",
@@ -604,9 +544,7 @@ const events = [
         url: "https://maps.app.goo.gl/jUsZvqXhu88nLFUG9",
       },
     ],
-    location: {
-      address: "THE LUME, Melbourne",
-    },
+    location: "THE LUME",
   },
   {
     title: "The Makers and Shakers Market",
@@ -624,9 +562,7 @@ const events = [
         url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
       },
     ],
-    location: {
-      address: "Royal Exhibition Building, Carlton",
-    },
+    location: "Royal Exhibition Building",
   },
   {
     title: "Lightfall Cranbourne",
@@ -646,9 +582,7 @@ const events = [
         url: "https://maps.app.goo.gl/1saD7PtYgKLqazjw5",
       },
     ],
-    location: {
-      address: "Royal Botanic Gardens Cranbourne, Cranbourne",
-    },
+    location: "Royal Botanic Gardens Cranbourne",
   },
   {
     title: "Hawker 88 Night Market | Queen Victoria Market",
@@ -669,9 +603,7 @@ const events = [
         url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
       },
     ],
-    location: {
-      address: "Queen Victoria Market, Queen St, Melbourne",
-    },
+    location: "Queen Victoria Market",
   },
   {
     title: "Make Believe: Encounters with Misinformation",
@@ -689,9 +621,7 @@ const events = [
         url: "https://maps.app.goo.gl/b5RHnCYqDCi9KFAm6",
       },
     ],
-    location: {
-      address: "State Library Victoria, Melbourne",
-    },
+    location: "State Library Victoria",
   },
   {
     title: "The Lord of the Rings – A Musical Tale",
@@ -709,9 +639,7 @@ const events = [
         url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
       },
     ],
-    location: {
-      address: "Comedy Theatre, Melbourne",
-    },
+    location: "Comedy Theatre",
   },
   {
     title: "YIRRAMBOI Festival",
@@ -725,9 +653,7 @@ const events = [
         url: "https://yirramboi.com.au/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "Live at THE LUME: Ethereal Opera",
@@ -745,9 +671,7 @@ const events = [
         url: "https://maps.app.goo.gl/jUsZvqXhu88nLFUG9",
       },
     ],
-    location: {
-      address: "THE LUME, Melbourne",
-    },
+    location: "THE LUME",
   },
   {
     title: "Buddha's Day and Multicultural Festival",
@@ -765,9 +689,7 @@ const events = [
         url: "https://maps.app.goo.gl/SzEY2NiFdHyprSCH6",
       },
     ],
-    location: {
-      address: "Golden Square Car Park, Melbourne",
-    },
+    location: "Golden Square Car Park",
   },
   {
     title: "LEGO® Star Wars: The Exhibition",
@@ -785,9 +707,7 @@ const events = [
         url: "https://maps.app.goo.gl/swBLScA46YegEVtH8",
       },
     ],
-    location: {
-      address: "Melbourne Museum, 11 Nicholson St, Carlton",
-    },
+    location: "Melbourne Museum",
   },
   {
     title: "Beetlejuice The Musical",
@@ -805,9 +725,7 @@ const events = [
         url: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
       },
     ],
-    location: {
-      address: "Regent Theatre, 191 Collins St, Melbourne",
-    },
+    location: "Regent Theatre",
   },
   {
     title: "Hadestown",
@@ -825,9 +743,7 @@ const events = [
         url: "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6",
       },
     ],
-    location: {
-      address: "Her Majesty's Theatre, Melbourne",
-    },
+    location: "Her Majesty's Theatre",
   },
   {
     title: "Mother’s Day High Tea at Melbourne’s Royal Exhibition Building",
@@ -845,9 +761,7 @@ const events = [
         url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
       },
     ],
-    location: {
-      address: "Royal Exhibition Building, Carlton",
-    },
+    location: "Royal Exhibition Building",
   },
   {
     title: "Les Misérables The Arena Spectacular",
@@ -865,9 +779,7 @@ const events = [
         url: "https://maps.app.goo.gl/WigqQq1jwkYBoBYp9",
       },
     ],
-    location: {
-      address: "Rod Laver Arena, Melbourne",
-    },
+    location: "Rod Laver Arena",
   },
   {
     title: "Melbourne Design Week",
@@ -885,9 +797,7 @@ const events = [
         url: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
       },
     ],
-    location: {
-      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
-    },
+    location: "National Gallery of Victoria",
   },
   {
     title: "Fondue Chalet",
@@ -905,9 +815,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "Footloose The Musical",
@@ -925,9 +833,7 @@ const events = [
         url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
-    location: {
-      address: "Athenaeum Theatre, Melbourne",
-    },
+    location: "Athenaeum Theatre",
   },
   {
     title: "The Big Design Market: Almost Winter",
@@ -945,9 +851,7 @@ const events = [
         url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
       },
     ],
-    location: {
-      address: "Royal Exhibition Building, Carlton",
-    },
+    location: "Royal Exhibition Building",
   },
   {
     title: "Korea Festival",
@@ -965,9 +869,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, Melbourne",
-    },
+    location: "Fed Square",
   },
   {
     title: "Melbourne Donut Festival",
@@ -985,9 +887,7 @@ const events = [
         url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
       },
     ],
-    location: {
-      address: "Queen Victoria Market, Queen St, Melbourne",
-    },
+    location: "Queen Victoria Market",
   },
   {
     title: "RISING: Melbourne",
@@ -1001,9 +901,7 @@ const events = [
         url: "https://2025.rising.melbourne/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "Winter Night Market | Queen Victoria Market",
@@ -1024,9 +922,7 @@ const events = [
         url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
       },
     ],
-    location: {
-      address: "Queen Victoria Market, Queen St, Melbourne",
-    },
+    location: "Queen Victoria Market",
   },
   {
     title: "Kimono",
@@ -1044,9 +940,7 @@ const events = [
         url: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
       },
     ],
-    location: {
-      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
-    },
+    location: "National Gallery of Victoria",
   },
   {
     title: "French Impressionism",
@@ -1065,9 +959,7 @@ const events = [
         url: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
       },
     ],
-    location: {
-      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
-    },
+    location: "National Gallery of Victoria",
   },
   {
     title: "Hedwig and the Angry Inch",
@@ -1085,9 +977,7 @@ const events = [
         url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
-    location: {
-      address: "Athenaeum Theatre, Melbourne",
-    },
+    location: "Athenaeum Theatre",
   },
   {
     title: "Lightscape",
@@ -1108,9 +998,7 @@ const events = [
         url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
       },
     ],
-    location: {
-      address: "Royal Botanic Gardens Victoria, Melbourne",
-    },
+    location: "Royal Botanic Gardens Victoria",
   },
   {
     title: "Speedrun Weekend",
@@ -1128,9 +1016,7 @@ const events = [
         url: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
       },
     ],
-    location: {
-      address: "ACMI, Melbourne",
-    },
+    location: "ACMI",
   },
   {
     title: "Julia",
@@ -1148,9 +1034,7 @@ const events = [
         url: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
       },
     ],
-    location: {
-      address: "Playhouse Theatre, Arts Centre, Melbourne",
-    },
+    location: "Playhouse Theatre",
   },
   {
     title: "Stray Gods: The Exhibition",
@@ -1168,9 +1052,7 @@ const events = [
         url: "https://maps.app.goo.gl/UWXhJaqm6AC4K8sk8",
       },
     ],
-    location: {
-      address: "Hellenic Museum, Melbourne",
-    },
+    location: "Hellenic Museum",
   },
   {
     title: "1984 by George Orwell",
@@ -1188,9 +1070,7 @@ const events = [
         url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
       },
     ],
-    location: {
-      address: "Comedy Theatre, Melbourne",
-    },
+    location: "Comedy Theatre",
   },
   {
     title: "Replay Festival",
@@ -1204,9 +1084,7 @@ const events = [
         url: "https://www.comedyrepublic.com.au/events?s=replay+festival",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title:
@@ -1225,9 +1103,7 @@ const events = [
         url: "https://maps.app.goo.gl/b5RHnCYqDCi9KFAm6",
       },
     ],
-    location: {
-      address: "State Library Victoria, Melbourne",
-    },
+    location: "State Library Victoria",
   },
   {
     title: "Indie Symphony II",
@@ -1245,9 +1121,7 @@ const events = [
         url: "https://maps.app.goo.gl/F4BKNvr2TTTNa6VT9",
       },
     ],
-    location: {
-      address: "Hamer Hall, Melbourne",
-    },
+    location: "Hamer Hall",
   },
   {
     title: "Double Vision",
@@ -1265,9 +1139,7 @@ const events = [
         url: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
       },
     ],
-    location: {
-      address: "ACMI, Melbourne",
-    },
+    location: "ACMI",
   },
   {
     title: "Firelight Festival",
@@ -1285,9 +1157,7 @@ const events = [
         url: "https://maps.app.goo.gl/PXUGSVipCtXtwEyUA",
       },
     ],
-    location: {
-      address: "Harbour Esplanade, Docklands",
-    },
+    location: "Harbour Esplanade",
   },
   {
     title: "Puffing Billy's Train of Lights",
@@ -1305,9 +1175,7 @@ const events = [
         url: "https://maps.app.goo.gl/dFwvuapXcMxw9Sii6",
       },
     ],
-    location: {
-      address: "Puffing Billy Railway Lakeside Visitor Centre, Emerald",
-    },
+    location: "Puffing Billy Railway Lakeside Visitor Centre",
   },
   {
     title: "Coffee Weekend",
@@ -1325,9 +1193,7 @@ const events = [
         url: "https://maps.app.goo.gl/f3obPbjxCv9SPoJx7",
       },
     ],
-    location: {
-      address: "Meat Market, Melbourne",
-    },
+    location: "Meat Market",
   },
   {
     title: "Annie the Musical",
@@ -1345,9 +1211,7 @@ const events = [
         url: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
       },
     ],
-    location: {
-      address: "The Princess Theatre, 163 Spring St, Melbourne",
-    },
+    location: "The Princess Theatre",
   },
   {
     title: "The Finders Keepers Design Market",
@@ -1365,9 +1229,7 @@ const events = [
         url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
       },
     ],
-    location: {
-      address: "Royal Exhibition Building, Carlton",
-    },
+    location: "Royal Exhibition Building",
   },
   {
     title: "Bastille Day French Festival",
@@ -1385,9 +1247,7 @@ const events = [
         url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
       },
     ],
-    location: {
-      address: "Queen Victoria Market, Queen St, Melbourne",
-    },
+    location: "Queen Victoria Market",
   },
   {
     title: "Here You Come Again",
@@ -1405,9 +1265,7 @@ const events = [
         url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
       },
     ],
-    location: {
-      address: "Comedy Theatre, Melbourne",
-    },
+    location: "Comedy Theatre",
   },
   {
     title: "The Little Food Market",
@@ -1425,9 +1283,7 @@ const events = [
         url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
       },
     ],
-    location: {
-      address: "Royal Exhibition Building, Carlton",
-    },
+    location: "Royal Exhibition Building",
   },
   {
     title: "High Cheese | The Westin",
@@ -1445,9 +1301,7 @@ const events = [
         url: "https://maps.app.goo.gl/h63a7NXZoCnGnguSA",
       },
     ],
-    location: {
-      address: "Allegro Restaurant, The Westin, Melbourne",
-    },
+    location: "Allegro Restaurant",
   },
   {
     title: "Footloose The Musical (Encore Season)",
@@ -1465,9 +1319,7 @@ const events = [
         url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
-    location: {
-      address: "Athenaeum Theatre, Melbourne",
-    },
+    location: "Athenaeum Theatre",
   },
   {
     title: "Open House Melbourne Weekend",
@@ -1481,9 +1333,7 @@ const events = [
         url: "https://openhousemelbourne.org/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "Kimberly Akimbo: A Musical",
@@ -1501,9 +1351,7 @@ const events = [
         url: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
       },
     ],
-    location: {
-      address: "Playhouse Theatre, Arts Centre, Melbourne",
-    },
+    location: "Playhouse Theatre",
   },
   {
     title: "Iwagumi Air Scape By ENESS",
@@ -1521,9 +1369,7 @@ const events = [
         url: "https://maps.app.goo.gl/zqVMST7ZVRKDvwcD9",
       },
     ],
-    location: {
-      address: "Prahran Square, Prahran",
-    },
+    location: "Prahran Square",
   },
   {
     title: "Hot Chocolate Festival",
@@ -1545,10 +1391,8 @@ const events = [
         url: "https://www.yvci.com.au/events/hot-chocolate-festival-2/",
       },
     ],
-    location: {
-      address:
-        "Mornington Peninsula Chocolaterie & Ice Creamery, Great Ocean Road Chocolaterie and Yarra Valley Chocolaterie",
-    },
+    location:
+      "Mornington Peninsula Chocolaterie & Ice Creamery, Great Ocean Road Chocolaterie and Yarra Valley Chocolaterie",
   },
   {
     title: "In the Heights",
@@ -1566,9 +1410,7 @@ const events = [
         url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
       },
     ],
-    location: {
-      address: "Comedy Theatre, Melbourne",
-    },
+    location: "Comedy Theatre",
   },
   {
     title: "Melbourne International Film Festival",
@@ -1582,9 +1424,7 @@ const events = [
         url: "https://miff.com.au/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "Now or Never",
@@ -1598,9 +1438,7 @@ const events = [
         url: "https://nowornever.melbourne.vic.gov.au/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "Affordable Art Fair Melbourne",
@@ -1618,9 +1456,7 @@ const events = [
         url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
       },
     ],
-    location: {
-      address: "Royal Exhibition Building, Carlton",
-    },
+    location: "Royal Exhibition Building",
   },
   {
     title: "Treasures of the Viking Age: The Galloway Hoard",
@@ -1638,9 +1474,7 @@ const events = [
         url: "https://maps.app.goo.gl/swBLScA46YegEVtH8",
       },
     ],
-    location: {
-      address: "Melbourne Museum, 11 Nicholson St, Carlton",
-    },
+    location: "Melbourne Museum",
   },
   {
     title: "The Play that Goes Wrong",
@@ -1658,9 +1492,7 @@ const events = [
         url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
-    location: {
-      address: "Athenaeum Theatre, Melbourne",
-    },
+    location: "Athenaeum Theatre",
   },
   {
     title: "The Lark",
@@ -1678,9 +1510,7 @@ const events = [
         url: "https://maps.app.goo.gl/4wN5QLFtnkYsPiZ19",
       },
     ],
-    location: {
-      address: "Fairfax Studio, Arts Centre, Melbourne",
-    },
+    location: "Fairfax Studio",
   },
   {
     title: "The Makers and Shakers Market",
@@ -1698,9 +1528,7 @@ const events = [
         url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
       },
     ],
-    location: {
-      address: "Royal Exhibition Building, Carlton",
-    },
+    location: "Royal Exhibition Building",
   },
   {
     title: "MJ the Musical",
@@ -1718,9 +1546,7 @@ const events = [
         url: "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6",
       },
     ],
-    location: {
-      address: "Her Majesty's Theatre, Melbourne",
-    },
+    location: "Her Majesty's Theatre",
   },
   {
     title: "The 39 Steps",
@@ -1738,9 +1564,7 @@ const events = [
         url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
       },
     ],
-    location: {
-      address: "Comedy Theatre, Melbourne",
-    },
+    location: "Comedy Theatre",
   },
   {
     title: "Emerging Writers' Festival",
@@ -1754,9 +1578,7 @@ const events = [
         url: "https://emergingwritersfestival.org.au/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "Fringe Flavours Night Market | Queen Victoria Market",
@@ -1777,9 +1599,7 @@ const events = [
         url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
       },
     ],
-    location: {
-      address: "Queen Victoria Market, Queen St, Melbourne",
-    },
+    location: "Queen Victoria Market",
   },
   {
     title: "Game Worlds",
@@ -1797,9 +1617,7 @@ const events = [
         url: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
       },
     ],
-    location: {
-      address: "ACMI, Melbourne",
-    },
+    location: "ACMI",
   },
   {
     title: "CherryHill Orchards Blossom By Light",
@@ -1817,9 +1635,7 @@ const events = [
         url: "https://maps.app.goo.gl/uP2zxbn8rqjL2Uow7",
       },
     ],
-    location: {
-      address: "CherryHill Orchards, Wandin East",
-    },
+    location: "CherryHill Orchards - Wandin East",
   },
   {
     title: "CherryHill Orchards Blossom Festival",
@@ -1837,9 +1653,7 @@ const events = [
         url: "https://maps.app.goo.gl/p5ty9KjNDiQbSqRj7",
       },
     ],
-    location: {
-      address: "CherryHill Orchards, Coldstream",
-    },
+    location: "CherryHill Orchards - Coldstream",
   },
   {
     title: "DOG MAN: THE MUSICAL",
@@ -1857,9 +1671,7 @@ const events = [
         url: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
       },
     ],
-    location: {
-      address: "Playhouse Theatre, Arts Centre, Melbourne",
-    },
+    location: "Playhouse Theatre",
   },
   {
     title: "Melbourne Fringe Festival",
@@ -1873,9 +1685,7 @@ const events = [
         url: "https://melbournefringe.com.au/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "Everyday's A Birthday",
@@ -1893,9 +1703,7 @@ const events = [
         url: "https://maps.app.goo.gl/uKejRohB2TujRWiZ6",
       },
     ],
-    location: {
-      address: "Lennox St. Gallery, Richmond",
-    },
+    location: "Lennox St. Gallery",
   },
   {
     title: "Melbourne International Games Week (MIGW)",
@@ -1909,9 +1717,7 @@ const events = [
         url: "https://gamesweek.melbourne/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "Big Games Night Out",
@@ -1929,9 +1735,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "The Finders Keepers Design Market",
@@ -1949,9 +1753,7 @@ const events = [
         url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
       },
     ],
-    location: {
-      address: "Royal Exhibition Building, Carlton",
-    },
+    location: "Royal Exhibition Building",
   },
   {
     title: "Victorian Festival of Diwali",
@@ -1969,9 +1771,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "The Lucky Country",
@@ -1989,9 +1789,7 @@ const events = [
         url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
       },
     ],
-    location: {
-      address: "Southbank Theatre, Melbourne",
-    },
+    location: "Southbank Theatre",
   },
   {
     title: "Melbourne International Jazz Festival",
@@ -2005,9 +1803,7 @@ const events = [
         url: "https://www.melbournejazz.com/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "Toy Story 30 Years and Beyond",
@@ -2025,9 +1821,7 @@ const events = [
         url: "https://maps.app.goo.gl/v4uauVomTEDu5rHv5",
       },
     ],
-    location: {
-      address: "Collins234, 234 Collins St, Melbourne",
-    },
+    location: "Collins234",
   },
   {
     title: "Melbourne Fashion Week",
@@ -2041,9 +1835,7 @@ const events = [
         url: "https://mfw.melbourne.vic.gov.au/",
       },
     ],
-    location: {
-      address: "Various locations around Melbourne",
-    },
+    location: "Various locations around Melbourne",
   },
   {
     title: "Here You Come Again",
@@ -2061,9 +1853,7 @@ const events = [
         url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
       },
     ],
-    location: {
-      address: "Comedy Theatre, Melbourne",
-    },
+    location: "Comedy Theatre",
   },
   {
     title: "DARKFIELD",
@@ -2081,9 +1871,7 @@ const events = [
         url: "https://maps.app.goo.gl/5uJJAiDw8H8kCt3L7",
       },
     ],
-    location: {
-      address: "Arts Centre Melbourne, 100 St Kilda Rd",
-    },
+    location: "Arts Centre Melbourne",
   },
   {
     title: "Hair: The Tribal Love Rock Musical",
@@ -2101,9 +1889,7 @@ const events = [
         url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
-    location: {
-      address: "Athenaeum Theatre, Melbourne",
-    },
+    location: "Athenaeum Theatre",
   },
   {
     title: "Halloween Cinema: Psycho",
@@ -2121,9 +1907,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "Melbourne Donut Festival",
@@ -2141,9 +1925,7 @@ const events = [
         url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
       },
     ],
-    location: {
-      address: "Queen Victoria Market, Queen St, Melbourne",
-    },
+    location: "Queen Victoria Market",
   },
   {
     title: "Opera Up Late",
@@ -2161,9 +1943,7 @@ const events = [
         url: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
       },
     ],
-    location: {
-      address: "Regent Theatre, 191 Collins St, Melbourne",
-    },
+    location: "Regent Theatre",
   },
   {
     title: "In Memory | Of Being – Mixed Reality in the Dome",
@@ -2181,9 +1961,7 @@ const events = [
         url: "https://maps.app.goo.gl/b5RHnCYqDCi9KFAm6",
       },
     ],
-    location: {
-      address: "State Library Victoria, Melbourne",
-    },
+    location: "State Library Victoria",
   },
   {
     title: "Ephemeral Collection",
@@ -2201,9 +1979,7 @@ const events = [
         url: "https://maps.app.goo.gl/zqVMST7ZVRKDvwcD9",
       },
     ],
-    location: {
-      address: "Prahran Square, Prahran",
-    },
+    location: "Prahran Square",
   },
   {
     title: "The Great Melbourne Bagpipe Bash",
@@ -2221,9 +1997,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "The Bubble Emporium",
@@ -2241,9 +2015,7 @@ const events = [
         url: "https://maps.app.goo.gl/zqVMST7ZVRKDvwcD9",
       },
     ],
-    location: {
-      address: "Prahran Square, Prahran",
-    },
+    location: "Prahran Square",
   },
   {
     title: "Summer Night Market | Queen Victoria Market",
@@ -2264,9 +2036,7 @@ const events = [
         url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
       },
     ],
-    location: {
-      address: "Queen Victoria Market, Queen St, Melbourne",
-    },
+    location: "Queen Victoria Market",
   },
   {
     title: "African Music and Cultural Festival",
@@ -2284,9 +2054,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, Melbourne",
-    },
+    location: "Fed Square",
   },
   {
     title: "Live at the Gardens",
@@ -2304,9 +2072,7 @@ const events = [
         url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
       },
     ],
-    location: {
-      address: "Royal Botanic Gardens Victoria, Melbourne",
-    },
+    location: "Royal Botanic Gardens Victoria",
   },
   {
     title: "Moodymann + DJ Jnett",
@@ -2324,9 +2090,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "Christmas Festival Launch",
@@ -2344,9 +2108,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "Reuben Kaye – enGORGED",
@@ -2364,9 +2126,7 @@ const events = [
         url: "https://maps.app.goo.gl/WKLsKyiv6Yy7Rj9r7",
       },
     ],
-    location: {
-      address: "Melbourne Recital Centre, Melbourne",
-    },
+    location: "Melbourne Recital Centre",
   },
   {
     title: "The Big Design Market",
@@ -2384,9 +2144,7 @@ const events = [
         url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
       },
     ],
-    location: {
-      address: "Royal Exhibition Building, Carlton",
-    },
+    location: "Royal Exhibition Building",
   },
   {
     title: "A Christmas Carol",
@@ -2404,9 +2162,7 @@ const events = [
         url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
       },
     ],
-    location: {
-      address: "Comedy Theatre, Melbourne",
-    },
+    location: "Comedy Theatre",
   },
   {
     title: "Women Photographers 1900–1975: A Legacy of Light ",
@@ -2424,9 +2180,7 @@ const events = [
         url: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
       },
     ],
-    location: {
-      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
-    },
+    location: "National Gallery of Victoria",
   },
   {
     title: "Moonlight Cinema",
@@ -2444,9 +2198,7 @@ const events = [
         url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
       },
     ],
-    location: {
-      address: "Royal Botanic Gardens Victoria, Melbourne",
-    },
+    location: "Royal Botanic Gardens Victoria",
   },
   {
     title: "Asia Street Food Festival by the Yarra",
@@ -2464,9 +2216,7 @@ const events = [
         url: "https://maps.app.goo.gl/CafM2SaHPRGiHL6y7",
       },
     ],
-    location: {
-      address: "Alexandra Gardens, Melbourne",
-    },
+    location: "Alexandra Gardens",
   },
   {
     title: "As Camp as Christmas",
@@ -2484,9 +2234,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "Love Actually? The Musical Parody",
@@ -2504,9 +2252,7 @@ const events = [
         url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
-    location: {
-      address: "Athenaeum Theatre, Melbourne",
-    },
+    location: "Athenaeum Theatre",
   },
   {
     title: "Westwood | Kawakubo",
@@ -2524,9 +2270,7 @@ const events = [
         url: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
       },
     ],
-    location: {
-      address: "National Gallery of Victoria, 180 St Kilda Rd, Melbourne",
-    },
+    location: "National Gallery of Victoria",
   },
   {
     title: "Christmas Outdoor Cinema: Naughty or Nice edition",
@@ -2546,9 +2290,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "DIVA",
@@ -2566,10 +2308,7 @@ const events = [
         url: "https://maps.app.goo.gl/UoM9zpm438YPSerYA",
       },
     ],
-    location: {
-      address:
-        "Australian Museum of Performing Arts (AMPA), Arts Centre, Melbourne",
-    },
+    location: "Australian Museum of Performing Arts (AMPA)",
   },
   {
     title: "ANASTASIA",
@@ -2587,9 +2326,7 @@ const events = [
         url: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
       },
     ],
-    location: {
-      address: "Regent Theatre, 191 Collins St, Melbourne",
-    },
+    location: "Regent Theatre",
   },
   {
     title: "CATS the Musical",
@@ -2607,9 +2344,7 @@ const events = [
         url: "https://maps.app.goo.gl/F4BKNvr2TTTNa6VT9",
       },
     ],
-    location: {
-      address: "Hamer Hall, Melbourne",
-    },
+    location: "Hamer Hall",
   },
   {
     title: "Vision Australia's Carols by Candlelight",
@@ -2627,9 +2362,7 @@ const events = [
         url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
       },
     ],
-    location: {
-      address: "Sidney Myer Music Bowl, Melbourne",
-    },
+    location: "Sidney Myer Music Bowl",
   },
   {
     title: "Idols of Musical Theatre",
@@ -2647,9 +2380,7 @@ const events = [
         url: "https://maps.app.goo.gl/WKLsKyiv6Yy7Rj9r7",
       },
     ],
-    location: {
-      address: "Melbourne Recital Centre, Melbourne",
-    },
+    location: "Melbourne Recital Centre",
   },
   {
     title: "Outdoor Cinema: Lord of the Rings Trilogy",
@@ -2669,9 +2400,7 @@ const events = [
         url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
-    location: {
-      address: "Fed Square, corner Swanston St & Flinders St",
-    },
+    location: "Fed Square",
   },
   {
     title: "Bluey's Big Play The Stage Show",
@@ -2689,9 +2418,7 @@ const events = [
         url: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
       },
     ],
-    location: {
-      address: "Playhouse Theatre, Arts Centre, Melbourne",
-    },
+    location: "Playhouse Theatre",
   },
 ];
 
