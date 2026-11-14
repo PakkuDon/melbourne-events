@@ -25,6 +25,7 @@ const showEventDetails = (popoverElement, event) => {
 
   const eventLocation = locations[event.extendedProps.location];
   let locationStr = event.extendedProps.location;
+  let googleMapsStr = "";
   if (eventLocation) {
     locationStr = [
       eventLocation.address.address_line1,
@@ -35,6 +36,10 @@ const showEventDetails = (popoverElement, event) => {
     ]
       .filter((value) => value)
       .join(", ");
+
+    if (eventLocation.googleMapsUrl) {
+      googleMapsStr = `<li><a href="${eventLocation.googleMapsUrl}" target="_blank" rel="noopener noreferrer">Google Maps</a></li>`;
+    }
   }
 
   popoverElement.hidePopover();
@@ -61,6 +66,7 @@ const showEventDetails = (popoverElement, event) => {
             `<li><a href="${link.url}" target="_blank" rel="noopener noreferrer">${link.label}</a></li>`,
         )
         .join("")}
+      ${googleMapsStr}
     </ul>
   `;
   popoverElement
