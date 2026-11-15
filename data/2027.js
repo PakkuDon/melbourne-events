@@ -10,10 +10,6 @@ const events = [
         label: "Website",
         url: "https://www.mso.com.au/performance/2027-smmb-under-the-canopy",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
-      },
     ],
     location: "Sidney Myer Music Bowl",
   },
@@ -27,10 +23,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.mso.com.au/performance/2027-smmb-the-call-of-adventure",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
       },
     ],
     location: "Sidney Myer Music Bowl",
@@ -46,10 +38,6 @@ const events = [
         label: "Website",
         url: "https://www.mso.com.au/performance/2027-smmb-beethoven-at-the-bowl",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
-      },
     ],
     location: "Sidney Myer Music Bowl",
   },
@@ -63,10 +51,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.lanewayfestival.com/melbourne/home",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/PkB1LM3ewveAwioy5",
       },
     ],
     location: "Flemington Park",

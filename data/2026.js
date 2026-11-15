@@ -12,10 +12,6 @@ const events = [
         label: "Website",
         url: "https://fedsquare.com/events/outdoor-cinema-dancing-with-danger",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
-      },
     ],
     location: "Fed Square",
   },
@@ -30,10 +26,6 @@ const events = [
         label: "Website",
         url: "https://www.artscentremelbourne.com.au/whats-on/2026/musical/shrek-the-musical",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
-      },
     ],
     location: "Playhouse Theatre",
   },
@@ -47,10 +39,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.athenaeumtheatre.com.au/shows/saturday-night-fever",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
     location: "Athenaeum Theatre",
@@ -80,10 +68,6 @@ const events = [
         label: "Website",
         url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/my-brilliant-career/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
-      },
     ],
     location: "Southbank Theatre",
   },
@@ -100,10 +84,6 @@ const events = [
         label: "Website",
         url: "https://fedsquare.com/events/outdoor-cinema-in-defence-of-satire",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
-      },
     ],
     location: "Fed Square",
   },
@@ -117,10 +97,6 @@ const events = [
       {
         label: "Website",
         url: "https://thebookofmormonmusical.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
       },
     ],
     location: "The Princess Theatre",
@@ -136,10 +112,6 @@ const events = [
         label: "Website",
         url: "https://fedsquare.com/events/garage-band-2026",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
-      },
     ],
     location: "Fed Square",
   },
@@ -153,10 +125,6 @@ const events = [
       {
         label: "Website",
         url: "https://cluedoplay.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
       },
     ],
     location: "Comedy Theatre",
@@ -172,10 +140,6 @@ const events = [
         label: "Website",
         url: "https://www.mso.com.au/performance/2026-smmb-symphonic-celebration",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
-      },
     ],
     location: "Sidney Myer Music Bowl",
   },
@@ -189,10 +153,6 @@ const events = [
       {
         label: "Website",
         url: "https://fedsquare.com/events/folk-bitch-trio-candlelight-concert",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
     location: "Fed Square",
@@ -208,10 +168,6 @@ const events = [
         label: "Website",
         url: "https://www.mso.com.au/performance/2026-smmb-australian-youth-orchestra",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
-      },
     ],
     location: "Sidney Myer Music Bowl",
   },
@@ -225,10 +181,6 @@ const events = [
       {
         label: "Website",
         url: "https://fedsquare.com/events/dean-brady-candlelight-concert",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
     location: "Fed Square",
@@ -244,10 +196,6 @@ const events = [
         label: "Website",
         url: "https://www.slv.vic.gov.au/whats-on/rebel-heart",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/b5RHnCYqDCi9KFAm6",
-      },
     ],
     location: "State Library Victoria",
   },
@@ -261,10 +209,6 @@ const events = [
       {
         label: "Website",
         url: "https://fedsquare.com/events/tina-arena-candlelight-concert",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
     location: "Fed Square",
@@ -280,10 +224,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.mso.com.au/performance/2026-smmb-mso-find-your-voice-collective",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
       },
     ],
     location: "Sidney Myer Music Bowl",
@@ -313,10 +253,6 @@ const events = [
         label: "Website",
         url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/do-not-pass-go/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
-      },
     ],
     location: "Southbank Theatre",
   },
@@ -331,10 +267,6 @@ const events = [
         label: "Website",
         url: "https://fedsquare.com/events/nongkrong-pasar-senja-twilight-fair",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
-      },
     ],
     location: "Fed Square",
   },
@@ -348,10 +280,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.mso.com.au/performance/2026-smmb-50-years-of-abc-classic",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/LAHceVEECBY9uF9E8",
       },
     ],
     location: "Sidney Myer Music Bowl",
@@ -369,10 +297,6 @@ const events = [
         label: "Website",
         url: "https://fedsquare.com/events/silent-cinema-with-live-scores",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
-      },
     ],
     location: "Fed Square",
   },
@@ -389,10 +313,6 @@ const events = [
         label: "Website",
         url: "https://qvm.com.au/whats-on/ramadan-night-market/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
-      },
     ],
     location: "Queen Victoria Market",
   },
@@ -406,10 +326,6 @@ const events = [
       {
         label: "Website",
         url: "https://fedsquare.com/events/afro-caribbean-carnival",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
     location: "Fed Square",
@@ -425,10 +341,6 @@ const events = [
         label: "Website",
         url: "https://fedsquare.com/events/big-freedia-and-friends",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
-      },
     ],
     location: "Fed Square",
   },
@@ -442,10 +354,6 @@ const events = [
       {
         label: "Website",
         url: "https://fedsquare.com/events/francois-k-stella-ganavya-live",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
     location: "Fed Square",
@@ -461,10 +369,6 @@ const events = [
         label: "Website",
         url: "https://www.athenaeumtheatre.com.au/shows/the-diary-of-anne-frank",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
-      },
     ],
     location: "Athenaeum Theatre",
   },
@@ -478,10 +382,6 @@ const events = [
       {
         label: "Website",
         url: "https://fedsquare.com/events/play-school-come-and-play-at-acmi",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
       },
     ],
     location: "ACMI",
@@ -497,10 +397,6 @@ const events = [
         label: "Website",
         url: "https://moomba.melbourne.vic.gov.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/DcvDP1rhNmLtzivq6",
-      },
     ],
     location: "Birrarung Marr and Alexandra Gardens",
   },
@@ -514,10 +410,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/west-gate/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
       },
     ],
     location: "Southbank Theatre",
@@ -533,10 +425,6 @@ const events = [
         label: "Website",
         url: "https://www.ngv.vic.gov.au/exhibition/top-arts-2026/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/V1kcEp4pUCf2iKi46",
-      },
     ],
     location: "The Ian Potter Centre: NGV Australia",
   },
@@ -551,10 +439,6 @@ const events = [
         label: "Website",
         url: "https://opera.org.au/events/bmw-opera-for-all/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
-      },
     ],
     location: "Fed Square",
   },
@@ -568,10 +452,6 @@ const events = [
       {
         label: "Website",
         url: "https://hmt.com.au/the-great-gatsby/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6",
       },
     ],
     location: "Her Majesty's Theatre",
@@ -601,10 +481,6 @@ const events = [
         label: "Website",
         url: "https://qvm.com.au/whats-on/flavours-of-autumn-festival/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
-      },
     ],
     location: "Queen Victoria Market",
   },
@@ -619,10 +495,6 @@ const events = [
         label: "Website",
         url: "https://kabloom.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/LWSrHvMU7bLFXahr8",
-      },
     ],
     location: "Tesselaar Flower Farm",
   },
@@ -636,10 +508,6 @@ const events = [
       {
         label: "Website",
         url: "https://melbflowershow.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
       },
     ],
     location: "Royal Exhibition Building",
@@ -669,10 +537,6 @@ const events = [
         label: "Website",
         url: "https://www.ngv.vic.gov.au/exhibition/mother/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/V1kcEp4pUCf2iKi46",
-      },
     ],
     location: "The Ian Potter Centre: NGV Australia",
   },
@@ -688,10 +552,6 @@ const events = [
       {
         label: "Website",
         url: "https://qvm.com.au/whats-on/indonesian-festival/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
       },
     ],
     location: "Queen Victoria Market",
@@ -709,10 +569,6 @@ const events = [
         label: "Website",
         url: "https://www.melbournefoodandwine.com.au/events/bakers-dozen/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
-      },
     ],
     location: "Fed Square",
   },
@@ -726,10 +582,6 @@ const events = [
       {
         label: "Website",
         url: "https://museumsvictoria.com.au/melbournemuseum/whats-on/rome-empire-power-people/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/swBLScA46YegEVtH8",
       },
     ],
     location: "Melbourne Museum",
@@ -747,10 +599,6 @@ const events = [
         label: "Website",
         url: "https://fedsquare.com/events/studio-ghibli-afternoons",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
-      },
     ],
     location: "Fed Square",
   },
@@ -764,10 +612,6 @@ const events = [
       {
         label: "Website",
         url: "https://heathersthemusical.com/australia/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
       },
     ],
     location: "Playhouse Theatre",
@@ -786,10 +630,6 @@ const events = [
         label: "Website",
         url: "https://thenightmarket.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
-      },
     ],
     location: "Queen Victoria Market",
   },
@@ -806,10 +646,6 @@ const events = [
         label: "Website",
         url: "https://qvm.com.au/whats-on/turkish-pazar-festival-3/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
-      },
     ],
     location: "Queen Victoria Market",
   },
@@ -823,10 +659,6 @@ const events = [
       {
         label: "Website",
         url: "https://museumsvictoria.com.au/melbournemuseum/whats-on/top-designs/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/swBLScA46YegEVtH8",
       },
     ],
     location: "Melbourne Museum",
@@ -844,10 +676,6 @@ const events = [
         label: "Website",
         url: "https://qvm.com.au/whats-on/cachivaches-latin-market/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
-      },
     ],
     location: "Queen Victoria Market",
   },
@@ -864,10 +692,6 @@ const events = [
         label: "Website",
         url: "https://themakersandshakers.com.au/melbourne/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
-      },
     ],
     location: "Royal Exhibition Building",
   },
@@ -881,10 +705,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.wyndham.vic.gov.au/events-experiences/wyndham-citys-major-events/lit",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ACuz4SA8EkKcVNAo7",
       },
     ],
     location: "Wyndham Park",
@@ -900,10 +720,6 @@ const events = [
         label: "Website",
         url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/the-glass-menagerie/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
-      },
     ],
     location: "Southbank Theatre",
   },
@@ -918,10 +734,6 @@ const events = [
         label: "Website",
         url: "https://eonariumexperiences.com/melbourne/enlightenment/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahS9e1yDSvFZcueq7",
-      },
     ],
     location: "Immigration Museum",
   },
@@ -935,10 +747,6 @@ const events = [
       {
         label: "Website",
         url: "https://waitressthemusical.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6",
       },
     ],
     location: "Her Majesty's Theatre",
@@ -968,10 +776,6 @@ const events = [
         label: "Website",
         url: "https://chapeloffchapel.com.au/show/once/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KUsoCrPpkiWwU9cc8",
-      },
     ],
     location: "Chapel Off Chapel",
   },
@@ -985,10 +789,6 @@ const events = [
       {
         label: "Website",
         url: "https://museumsvictoria.com.au/melbournemuseum/whats-on/royal-exhibition-building-open-day/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
       },
     ],
     location: "Royal Exhibition Building",
@@ -1004,10 +804,6 @@ const events = [
         label: "Website",
         url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/shoelace-chaser/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
-      },
     ],
     location: "Southbank Theatre",
   },
@@ -1021,10 +817,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/retrograde/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
       },
     ],
     location: "Southbank Theatre",
@@ -1040,10 +832,6 @@ const events = [
         label: "Website",
         url: "https://melbourne.thebigdesignmarket.com/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
-      },
     ],
     location: "Royal Exhibition Building",
   },
@@ -1057,10 +845,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.acmi.net.au/whats-on/play-on/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
       },
     ],
     location: "ACMI",
@@ -1090,10 +874,6 @@ const events = [
         label: "Website",
         url: "https://opera.org.au/productions/encore-melbourne/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
-      },
     ],
     location: "Regent Theatre",
   },
@@ -1111,10 +891,6 @@ const events = [
         label: "Website",
         url: "https://thenightmarket.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
-      },
     ],
     location: "Queen Victoria Market",
   },
@@ -1128,10 +904,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.chadstone.com.au/light-to-night",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/X5oYRfAzVhKvXfGs6",
       },
     ],
     location: "Chadstone Shopping Centre",
@@ -1147,10 +919,6 @@ const events = [
         label: "Website",
         url: "https://www.lightscape.com/melbourne",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
-      },
     ],
     location: "Royal Botanic Gardens Victoria",
   },
@@ -1164,10 +932,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.ngv.vic.gov.au/exhibition/cartier/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
       },
     ],
     location: "National Gallery of Victoria",
@@ -1183,10 +947,6 @@ const events = [
         label: "Website",
         url: "https://qvm.com.au/whats-on/melbourne-donut-festival/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
-      },
     ],
     location: "Queen Victoria Market",
   },
@@ -1200,10 +960,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.athenaeumtheatre.com.au/shows/pride-prejudice-sort-of",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
     location: "Athenaeum Theatre",
@@ -1219,10 +975,6 @@ const events = [
         label: "Website",
         url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/losing-face",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
-      },
     ],
     location: "Southbank Theatre",
   },
@@ -1236,10 +988,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.ngv.vic.gov.au/exhibition/ragnar-kjartansson-mercy/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
       },
     ],
     location: "National Gallery of Victoria",
@@ -1255,10 +1003,6 @@ const events = [
         label: "Website",
         url: "https://marrinergroup.com.au/shows/blueys-big-play-the-stage-show",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
-      },
     ],
     location: "Comedy Theatre",
   },
@@ -1272,10 +1016,6 @@ const events = [
       {
         label: "Website",
         url: "https://firelight.melbourne.vic.gov.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/PXUGSVipCtXtwEyUA",
       },
     ],
     location: "Harbour Esplanade",
@@ -1291,10 +1031,6 @@ const events = [
         label: "Website",
         url: "https://www.thefinderskeepers.com/melbourne-markets/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
-      },
     ],
     location: "Royal Exhibition Building",
   },
@@ -1308,10 +1044,6 @@ const events = [
       {
         label: "Website",
         url: "https://qvm.com.au/whats-on/bastille-day-french-festival/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
       },
     ],
     location: "Queen Victoria Market",
@@ -1327,10 +1059,6 @@ const events = [
         label: "Website",
         url: "https://www.artscentremelbourne.com.au/whats-on/2026/theatre/heartbreak-hotel",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/4wN5QLFtnkYsPiZ19",
-      },
     ],
     location: "Fairfax Studio",
   },
@@ -1344,10 +1072,6 @@ const events = [
       {
         label: "Website",
         url: "https://prettywomanthemusical.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
       },
     ],
     location: "Regent Theatre",
@@ -1363,10 +1087,6 @@ const events = [
         label: "Website",
         url: "https://thelittlefoodmarket.com/melbourne",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
-      },
     ],
     location: "Royal Exhibition Building",
   },
@@ -1380,10 +1100,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.artscentremelbourne.com.au/whats-on/2026/seasons/mtc/uncle-vanya",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/oF5TDshryjzAo6WV9",
       },
     ],
     location: "Playhouse Theatre",
@@ -1399,10 +1115,6 @@ const events = [
         label: "Website",
         url: "https://www.artscentremelbourne.com.au/whats-on/2026/seasons/bell-shakespeare/mackenzie",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/4wN5QLFtnkYsPiZ19",
-      },
     ],
     location: "Fairfax Studio",
   },
@@ -1416,10 +1128,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.athenaeumtheatre.com.au/shows/steel-magnolias",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
     location: "Athenaeum Theatre",
@@ -1449,10 +1157,6 @@ const events = [
         label: "Website",
         url: "https://sixthemusical.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/hNN1LcomqSEXCrHe6",
-      },
     ],
     location: "Comedy Theatre",
   },
@@ -1466,10 +1170,6 @@ const events = [
       {
         label: "Website",
         url: "https://theneildiamondmusical.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
       },
     ],
     location: "The Princess Theatre",
@@ -1499,10 +1199,6 @@ const events = [
         label: "Website",
         url: "https://salesmanaustralia.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6",
-      },
     ],
     location: "Her Majesty's Theatre",
   },
@@ -1516,10 +1212,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.artscentremelbourne.com.au/whats-on/2026/theatre/animal-farm",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/4wN5QLFtnkYsPiZ19",
       },
     ],
     location: "Fairfax Studio",
@@ -1549,10 +1241,6 @@ const events = [
         label: "Website",
         url: "https://www.acmi.net.au/whats-on/feng-mengbo-long-march-restart/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
-      },
     ],
     location: "ACMI",
   },
@@ -1566,10 +1254,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.acmi.net.au/whats-on/play-on/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/BUCXHx6a2VHVbkev8",
       },
     ],
     location: "ACMI",
@@ -1585,10 +1269,6 @@ const events = [
         label: "Website",
         url: "https://affordableartfair.com/fairs/melbourne/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
-      },
     ],
     location: "Royal Exhibition Building",
   },
@@ -1602,10 +1282,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.athenaeumtheatre.com.au/shows/menopause-the-musical",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
     location: "Athenaeum Theatre",
@@ -1621,10 +1297,6 @@ const events = [
         label: "Website",
         url: "https://www.ngv.vic.gov.au/exhibition/margaret-preston/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/V1kcEp4pUCf2iKi46",
-      },
     ],
     location: "The Ian Potter Centre: NGV Australia",
   },
@@ -1638,10 +1310,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.sweeneytodd.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KUsoCrPpkiWwU9cc8",
       },
     ],
     location: "Chapel Off Chapel",
@@ -1657,10 +1325,6 @@ const events = [
         label: "Website",
         url: "https://tulipfestival.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/LWSrHvMU7bLFXahr8",
-      },
     ],
     location: "Tesselaar Flower Farm",
   },
@@ -1674,10 +1338,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.athenaeumtheatre.com.au/shows/monty-python",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
     location: "Athenaeum Theatre",
@@ -1693,10 +1353,6 @@ const events = [
         label: "Website",
         url: "https://www.artscentremelbourne.com.au/ampa/exhibitions/encore",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/UoM9zpm438YPSerYA",
-      },
     ],
     location: "Australian Museum of Performing Arts (AMPA)",
   },
@@ -1710,10 +1366,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.athenaeumtheatre.com.au/shows/the-homecoming",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
     location: "Athenaeum Theatre",
@@ -1729,10 +1381,6 @@ const events = [
         label: "Website",
         url: "https://www.melbournemakersmarket.com/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ciLXgUQ5cbHLUnN48",
-      },
     ],
     location: "City Square",
   },
@@ -1746,10 +1394,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/eliza",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
       },
     ],
     location: "Southbank Theatre",
@@ -1793,10 +1437,6 @@ const events = [
         label: "Website",
         url: "https://www.thefinderskeepers.com/melbourne-markets/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
-      },
     ],
     location: "Royal Exhibition Building",
   },
@@ -1810,10 +1450,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.athenaeumtheatre.com.au/shows/the-shark-is-broken",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
     location: "Athenaeum Theatre",
@@ -1843,10 +1479,6 @@ const events = [
         label: "Website",
         url: "https://qvm.com.au/whats-on/melbourne-donut-festival/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
-      },
     ],
     location: "Queen Victoria Market",
   },
@@ -1875,10 +1507,6 @@ const events = [
         label: "Website",
         url: "https://qvm.com.au/whats-on/pinoy-octoberfest/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
-      },
     ],
     location: "Queen Victoria Market",
   },
@@ -1892,10 +1520,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/before-i-forget",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/4wN5QLFtnkYsPiZ19",
       },
     ],
     location: "Fairfax Studio",
@@ -1911,10 +1535,6 @@ const events = [
         label: "Website",
         url: "https://www.americanpsycho.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/KUsoCrPpkiWwU9cc8",
-      },
     ],
     location: "Chapel Off Chapel",
   },
@@ -1928,10 +1548,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.melbournemakersmarket.com/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ciLXgUQ5cbHLUnN48",
       },
     ],
     location: "City Square",
@@ -1947,10 +1563,6 @@ const events = [
         label: "Website",
         url: "https://hmt.com.au/fiddler-on-the-roof/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/usjgPTW2Y9QaPm3k6",
-      },
     ],
     location: "Her Majesty's Theatre",
   },
@@ -1964,10 +1576,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.undertalesymphony.com",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/NiBqcmDUDUw8xZJG6",
       },
     ],
     location: "Plenary Theatre",
@@ -1983,10 +1591,6 @@ const events = [
         label: "Website",
         url: "https://fedsquare.com/events/palestine-cultural-festival",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
-      },
     ],
     location: "Fed Square",
   },
@@ -2001,10 +1605,6 @@ const events = [
         label: "Website",
         url: "https://qvm.com.au/whats-on/coffee-weekend/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
-      },
     ],
     location: "Queen Victoria Market",
   },
@@ -2018,10 +1618,6 @@ const events = [
       {
         label: "Website",
         url: "https://fedsquare.com/events/50-years-of-3rrr-feat-courtney-barnett-party-dozen-kaiit",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
     location: "Fed Square",
@@ -2040,10 +1636,6 @@ const events = [
         label: "Website",
         url: "https://asiaoasis.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/CafM2SaHPRGiHL6y7",
-      },
     ],
     location: "Alexandra Gardens",
   },
@@ -2057,10 +1649,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.athenaeumtheatre.com.au/shows/one-flew-over-the-cuckoos-nest",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/AVtdpTiQgA9uhugx7",
       },
     ],
     location: "Athenaeum Theatre",
@@ -2076,10 +1664,6 @@ const events = [
         label: "Website",
         url: "https://www.mtc.com.au/plays-and-tickets/whats-on/season-2026/a-room-with-a-view",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ER1DcnqUA96YSLtL6",
-      },
     ],
     location: "Southbank Theatre",
   },
@@ -2093,10 +1677,6 @@ const events = [
       {
         label: "Website",
         url: "https://myfairladythemusical.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/Lsebrv21A6xHKucZ9",
       },
     ],
     location: "Ian Potter State Theatre",
@@ -2112,10 +1692,6 @@ const events = [
         label: "Website",
         url: "https://fedsquare.com/events/polish-festival-fed-square",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
-      },
     ],
     location: "Fed Square",
   },
@@ -2129,10 +1705,6 @@ const events = [
       {
         label: "Website",
         url: "https://opera.org.au/productions/opera-up-late-melbourne/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/8gYHTCG7sANgjwWA6",
       },
     ],
     location: "Regent Theatre",
@@ -2148,10 +1720,6 @@ const events = [
         label: "Website",
         url: "https://fedsquare.com/events/african-music-and-cultural-festival",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
-      },
     ],
     location: "Fed Square",
   },
@@ -2165,10 +1733,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.liveatthegardens.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
       },
     ],
     location: "Royal Botanic Gardens Victoria",
@@ -2184,10 +1748,6 @@ const events = [
         label: "Website",
         url: "https://www.undertalesymphony.com",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/NiBqcmDUDUw8xZJG6",
-      },
     ],
     location: "Plenary Theatre",
   },
@@ -2201,10 +1761,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.liveatthegardens.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
       },
     ],
     location: "Royal Botanic Gardens Victoria",
@@ -2220,10 +1776,6 @@ const events = [
         label: "Website",
         url: "https://qvm.com.au/whats-on/cachivaches-latin-market-2/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
-      },
     ],
     location: "Queen Victoria Market",
   },
@@ -2237,10 +1789,6 @@ const events = [
       {
         label: "Website",
         url: "https://mrsdoubtfiremusical.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/bP7GfWWjxJAb4NKn9",
       },
     ],
     location: "The Princess Theatre",
@@ -2259,10 +1807,6 @@ const events = [
         label: "Website",
         url: "https://thenightmarket.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/XL5zduSz3zMnbkEy8",
-      },
     ],
     location: "Queen Victoria Market",
   },
@@ -2276,10 +1820,6 @@ const events = [
       {
         label: "Website",
         url: "https://fedsquare.com/events/christmas-tree-lighting",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ahexrWk6bs1HzTf7A",
       },
     ],
     location: "Fed Square",
@@ -2295,10 +1835,6 @@ const events = [
         label: "Website",
         url: "https://www.liveatthegardens.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
-      },
     ],
     location: "Royal Botanic Gardens Victoria",
   },
@@ -2312,10 +1848,6 @@ const events = [
       {
         label: "Website",
         url: "https://thelittlefoodmarket.com/melbourne",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
       },
     ],
     location: "Royal Exhibition Building",
@@ -2331,10 +1863,6 @@ const events = [
         label: "Website",
         url: "https://www.americanpsycho.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/mPMpHDgcnrtzTHyx7",
-      },
     ],
     location: "Crown Live",
   },
@@ -2348,10 +1876,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.melbournemakersmarket.com/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ciLXgUQ5cbHLUnN48",
       },
     ],
     location: "City Square",
@@ -2367,10 +1891,6 @@ const events = [
         label: "Website",
         url: "https://www.liveatthegardens.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
-      },
     ],
     location: "Royal Botanic Gardens Victoria",
   },
@@ -2384,10 +1904,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.liveatthegardens.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
       },
     ],
     location: "Royal Botanic Gardens Victoria",
@@ -2403,10 +1919,6 @@ const events = [
         label: "Website",
         url: "https://www.liveatthegardens.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
-      },
     ],
     location: "Royal Botanic Gardens Victoria",
   },
@@ -2420,10 +1932,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.liveatthegardens.com.au/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
       },
     ],
     location: "Royal Botanic Gardens Victoria",
@@ -2439,10 +1947,6 @@ const events = [
         label: "Website",
         url: "https://www.liveatthegardens.com.au/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/t6BCr59sBJc6BJXG9",
-      },
     ],
     location: "Royal Botanic Gardens Victoria",
   },
@@ -2456,10 +1960,6 @@ const events = [
       {
         label: "Website",
         url: "https://melbourne.thebigdesignmarket.com/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ehgZk8iqN691ZHN96",
       },
     ],
     location: "Royal Exhibition Building",
@@ -2475,10 +1975,6 @@ const events = [
         label: "Website",
         url: "https://www.ngv.vic.gov.au/exhibition/triennial-2026/",
       },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ZrR1RKjyPGWyZ8qh9",
-      },
     ],
     location: "National Gallery of Victoria",
   },
@@ -2492,10 +1988,6 @@ const events = [
       {
         label: "Website",
         url: "https://www.melbournemakersmarket.com/",
-      },
-      {
-        label: "Google Maps",
-        url: "https://maps.app.goo.gl/ciLXgUQ5cbHLUnN48",
       },
     ],
     location: "City Square",
