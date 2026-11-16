@@ -223,7 +223,7 @@ const events = [
         url: "https://www.thefinderskeepers.com/melbourne-markets/",
       },
     ],
-    location: "Royal Exhibition Building, Carlton",
+    location: "Royal Exhibition Building",
   },
   {
     title: "The Little Food Market",
@@ -237,7 +237,7 @@ const events = [
         url: "https://thelittlefoodmarket.com/",
       },
     ],
-    location: "Royal Exhibition Building, Carlton",
+    location: "Royal Exhibition Building",
   },
   {
     title: "Open House Melbourne",
