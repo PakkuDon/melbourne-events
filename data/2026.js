@@ -1711,8 +1711,8 @@ const events = [
   },
   {
     title: "African Music and Cultural Festival 2026",
-    start: "2026-11-20T10:00:00+11:00",
-    end: "2026-11-20T22:00:00+11:00",
+    start: "2026-11-20",
+    end: "2026-11-23",
     description: "",
     tags: ["Free", "Festival", "Music", "Outdoor"],
     links: [
