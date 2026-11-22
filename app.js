@@ -28,6 +28,7 @@ const showEventDetails = (popoverElement, event) => {
   let googleMapsStr = "";
   if (eventLocation) {
     locationStr = [
+      eventLocation.name,
       eventLocation.address.address_line1,
       eventLocation.address.address_line2,
       eventLocation.address.city,
