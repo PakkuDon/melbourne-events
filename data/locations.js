@@ -659,4 +659,16 @@ export default {
     },
     googleMapsUrl: "https://maps.app.goo.gl/ACuz4SA8EkKcVNAo7",
   },
+  // Generic placeholder for events that are held across multiple locations
+  "Various locations around Melbourne": {
+    name: "Various locations around Melbourne",
+    address: {
+      address_line1: "",
+      address_line2: "",
+      city: "",
+      state: "",
+      postcode: "",
+    },
+    googleMapsUrl: "",
+  },
 };
