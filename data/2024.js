@@ -209,7 +209,7 @@ const events = [
         url: "https://www.comedyrepublic.com.au/events/?season=REPLAY24",
       },
     ],
-    location: "Melbourne",
+    location: "Various locations around Melbourne",
   },
   {
     title: "The Finders Keepers Design Market",
