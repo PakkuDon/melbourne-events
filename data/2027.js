@@ -55,6 +55,20 @@ const events = [
     ],
     location: "Flemington Park",
   },
+  {
+    title: "Disney's THE LION KING",
+    start: "2027-03-25",
+    end: "2027-06-14",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://thelionkingmusical.com.au/",
+      },
+    ],
+    location: "Regent Theatre",
+  },
 ];
 
 export default events;

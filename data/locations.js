@@ -241,6 +241,17 @@ export default {
     },
     googleMapsUrl: "https://maps.app.goo.gl/PkB1LM3ewveAwioy5",
   },
+  "Flemington Racecourse": {
+    name: "Flemington Racecourse",
+    address: {
+      address_line1: "448 Epsom Rd",
+      address_line2: "",
+      city: "Flemington",
+      state: "VIC",
+      postcode: 3031,
+    },
+    googleMapsUrl: "https://maps.app.goo.gl/PkB1LM3ewveAwioy5",
+  },
   "Golden Square Car Park": {
     name: "Golden Square Car Park",
     address: {

@@ -1811,6 +1811,20 @@ const events = [
     location: "Queen Victoria Market",
   },
   {
+    title: "PBS Fang It! Live",
+    start: "2026-11-26T17:00:00+11:00",
+    end: "2026-11-26T20:00:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/pbs-fang-it-live",
+      },
+    ],
+    location: "Fed Square",
+  },
+  {
     title: "Fed Square Christmas Tree Lighting",
     start: "2026-11-27T18:30:00+11:00",
     end: "2026-11-27T22:00:00+11:00",
@@ -1890,6 +1904,20 @@ const events = [
       {
         label: "Website",
         url: "https://www.liveatthegardens.com.au/",
+      },
+    ],
+    location: "Royal Botanic Gardens Victoria",
+  },
+  {
+    title: "Moonlight Cinema",
+    start: "2026-12-02",
+    end: "2027-04-12",
+    description: "",
+    tags: ["Film", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://melbourne.moonlight.com.au/",
       },
     ],
     location: "Royal Botanic Gardens Victoria",
@@ -1991,6 +2019,50 @@ const events = [
       },
     ],
     location: "City Square",
+  },
+  {
+    title: "Mov'in Bed Cinema",
+    start: "2026-12-18",
+    end: "2027-04-12",
+    description: "",
+    tags: ["Film", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://movinbed.com/melbourne/",
+      },
+    ],
+    location: "Flemington Racecourse",
+  },
+  {
+    title: "Christmas Cinema @ The Capitol",
+    start: "2026-12-19",
+    end: "2026-12-25",
+    description: "",
+    tags: ["Film"],
+    links: [
+      {
+        label: "Website",
+        url: "https://whatson.melbourne.vic.gov.au/things-to-do/christmas-cinema",
+      },
+    ],
+    location: "The Capitol",
+  },
+  {
+    title: "Outdoor Cinema: Christmas",
+    startRecur: "2026-12-19",
+    endRecur: "2026-12-26",
+    startTime: "17:00:00+11:00",
+    endTime: "19:00:00+11:00",
+    description: "",
+    tags: ["Free", "Film", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/outdoor-cinema-christmas",
+      },
+    ],
+    location: "Fed Square",
   },
 ];
 
