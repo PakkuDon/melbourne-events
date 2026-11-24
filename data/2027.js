@@ -69,6 +69,20 @@ const events = [
     ],
     location: "Regent Theatre",
   },
+  {
+    title: "The Curious Case of Benjamin Button: The Musical",
+    start: "2027-09-03",
+    end: "2027-10-03",
+    description: "",
+    tags: ["Musical", "Theatre"],
+    links: [
+      {
+        label: "Website",
+        url: "https://benjaminbuttonmusical.com.au/",
+      },
+    ],
+    location: "Playhouse Theatre",
+  },
 ];
 
 export default events;

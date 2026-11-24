@@ -822,6 +822,20 @@ const events = [
     location: "Southbank Theatre",
   },
   {
+    title: "Samurai: More Than a Warrior",
+    start: "2026-05-21",
+    end: "2027-10-04",
+    description: "",
+    tags: ["Exhibition", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://museumsvictoria.com.au/melbournemuseum/whats-on/samurai/",
+      },
+    ],
+    location: "Melbourne Museum",
+  },
+  {
     title: "The Big Design Market",
     start: "2026-05-22",
     end: "2026-05-25",
@@ -1724,6 +1738,20 @@ const events = [
     location: "Fed Square",
   },
   {
+    title: "Lifelike",
+    start: "2026-11-20",
+    end: "2027-04-19",
+    description: "",
+    tags: ["Exhibition"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.acmi.net.au/whats-on/lifelike/",
+      },
+    ],
+    location: "ACMI",
+  },
+  {
     title: "Live at the Gardens: Renfair Rave",
     start: "2026-11-20T17:00:00+11:00",
     end: "2026-11-20T22:30:00+11:00",
@@ -1879,6 +1907,20 @@ const events = [
       },
     ],
     location: "Crown Live",
+  },
+  {
+    title: "Barbie: The Exhibition",
+    start: "2026-11-28",
+    end: "2027-05-17",
+    description: "",
+    tags: ["Exhibition"],
+    links: [
+      {
+        label: "Website",
+        url: "https://museumsvictoria.com.au/melbournemuseum/whats-on/barbie-the-exhibition/",
+      },
+    ],
+    location: "Melbourne Museum",
   },
   {
     title: "Melbourne Makers' Market - Kraft Werks Edition",
