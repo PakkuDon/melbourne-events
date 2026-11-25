@@ -1553,6 +1553,20 @@ const events = [
     location: "Chapel Off Chapel",
   },
   {
+    title: "Passage - The Art of Atong Atem ",
+    start: "2026-10-30",
+    end: "2027-06-15",
+    description: "",
+    tags: ["Exhibition", "Art", "Free"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.ngv.vic.gov.au/exhibition/passage-the-art-of-atong-atem/",
+      },
+    ],
+    location: "The Ian Potter Centre: NGV Australia",
+  },
+  {
     title: "Melbourne Makers' Market - Melbourne Fringe Edition",
     start: "2026-10-31T10:00:00+11:00",
     end: "2026-10-31T15:00:00+11:00",
@@ -1951,6 +1965,21 @@ const events = [
     location: "Royal Botanic Gardens Victoria",
   },
   {
+    title:
+      "50 Years of Triple R, feat. TISM, The Bamboos w. special guests Tim Rogers + WILSN and Automatic",
+    start: "2026-11-28T18:15:00+11:00",
+    end: "2026-11-28T21:30:00+11:00",
+    description: "",
+    tags: ["Free", "Music", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://fedsquare.com/events/50-years-of-triple-r-feat-tism-the-bamboos-w-special-guests-tim-rogers-wilsn-and-automatic",
+      },
+    ],
+    location: "Fed Square",
+  },
+  {
     title: "Moonlight Cinema",
     start: "2026-12-02",
     end: "2027-04-12",
@@ -2033,6 +2062,20 @@ const events = [
       },
     ],
     location: "Royal Exhibition Building",
+  },
+  {
+    title: "Squish, Twist, Fizz - Mika Rottenberg for Kids",
+    start: "2026-12-13",
+    end: "2027-04-12",
+    description: "",
+    tags: ["Free", "Exhibition", "Art", "Family and kids"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.ngv.vic.gov.au/exhibition/squish-twist-fizz/",
+      },
+    ],
+    location: "National Gallery of Victoria",
   },
   {
     title: "Triennial 2026",

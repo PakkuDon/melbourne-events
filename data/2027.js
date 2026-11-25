@@ -70,6 +70,20 @@ const events = [
     location: "Regent Theatre",
   },
   {
+    title: "Ben Quilty - The Unimpressionist",
+    start: "2027-03-25",
+    end: "2027-09-20",
+    description: "",
+    tags: ["Exhibition", "Art"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.ngv.vic.gov.au/exhibition/ben-quilty-the-unimpressionist/",
+      },
+    ],
+    location: "The Ian Potter Centre: NGV Australia",
+  },
+  {
     title: "The Curious Case of Benjamin Button: The Musical",
     start: "2027-09-03",
     end: "2027-10-03",
