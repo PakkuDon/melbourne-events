@@ -56,6 +56,78 @@ const events = [
     location: "Flemington Park",
   },
   {
+    title: "Live at the Gardens: Carl Cox & Eric Powell's Mobile Disco",
+    start: "2027-02-26T17:00:00+11:00",
+    end: "2027-02-26T22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.liveatthegardens.com.au/",
+      },
+    ],
+    location: "Royal Botanic Gardens Victoria",
+  },
+  {
+    title: "Live at the Gardens: DJ Shadow",
+    start: "2027-02-27T17:00:00+11:00",
+    end: "2027-02-27T22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.liveatthegardens.com.au/",
+      },
+    ],
+    location: "Royal Botanic Gardens Victoria",
+  },
+  {
+    title: "Live at the Gardens: Fat Freddy's Drop",
+    start: "2027-03-04T17:00:00+11:00",
+    end: "2027-03-04T22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.liveatthegardens.com.au/",
+      },
+    ],
+    location: "Royal Botanic Gardens Victoria",
+  },
+  {
+    title: "Live at the Gardens: The Avalanches",
+    start: "2027-03-05T17:00:00+11:00",
+    end: "2027-03-05T22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.liveatthegardens.com.au/",
+      },
+    ],
+    location: "Royal Botanic Gardens Victoria",
+  },
+  {
+    title: "Live at the Gardens: Leon Bridges",
+    startRecur: "2027-03-06",
+    endRecur: "2027-03-08",
+    startTime: "17:00:00+11:00",
+    endTime: "22:30:00+11:00",
+    description: "",
+    tags: ["Music", "Performance", "Outdoor"],
+    links: [
+      {
+        label: "Website",
+        url: "https://www.liveatthegardens.com.au/",
+      },
+    ],
+    location: "Royal Botanic Gardens Victoria",
+  },
+  {
     title: "Disney's THE LION KING",
     start: "2027-03-25",
     end: "2027-06-14",
